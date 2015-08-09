@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" contents="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <link rel="stylesheet" 
+	  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+    <!-- optional bootstrap theme -->
+    <link rel="stylesheet"
+	  href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="styles/flashcard.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js">
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js">
+    </script>
+    <script src="js/flashcard.js"></script>
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <div id="chapter-load">
+	<div class="row">
+	  <div class="col-md-12">
+	    <form class="form-inline">
+	      Lessons to include:<br />
+	      <div class="form-group">
+		<input type="checkbox" name="lesson-1">
+		<label name="lesson-1">1</label>
+	      </div>
+	    </form>
+	  
+	    <button type="button" class="btn btn-default" id="load-button">Load Data</button>
+	  </div>
+	</div><!-- row -->
+	<div class="row">
+	  <div class="col-md-4">
+	    <p id="load-error">
+	      <em>There was a problem loading the data. Please try again.</em>
+	    </p>
+	  </div>
+	</div><!--row load-error -->
+      </div><!-- chapter-load -->
+
+      <div class="row" id="options">
+	<div class="col-md-12">
+	  <p>Front Side:</p>
+	  <form>
+	    <div class="radio">
+	      <label>
+		<input type="radio" name="options" id="inupiatun-text-radio" 
+		       value="inupiatun-text"  checked />
+		I&ntilde;upiatun (text)
+	      </label>
+	    </div>
+	    <div class="radio">
+	      <label>
+		<input type="radio" name="options" id="english-text-radio" 
+		       value="english-text" />
+		English (text)
+	      </label>
+	    </div>
+	    <div class="radio">
+	      <label>
+		<input type="radio" name="options" id="both-text-radio"
+		       value="both-text" />
+		Both languages
+	      </label>
+	    </div>
+	    <div class="radio disabled">
+	      <label>
+		<input type="radio" name="options" id="inupiatun-audio-radio" 
+		       value="inupiatun-audio" disabled/>
+		I&ntilde;upiatun (audio)
+	      </label>
+	    </div>
+	    <button type="button" id="begin-button" class="btn btn-default margin-bottom-20">
+	      Begin
+	    </button>
+	  </form>
+	</div>
+      </div><!-- row options -->
+
+      <div class="row">
+
+      </div><!-- row begin-button -->
+
+
+      <!-- Card Display -->
+      <div class="row" id="card-display">
+	<div class="col-md-6" id="front">
+	  <div class="card text-center">
+	    <p class="spacer"></p>
+	    <span class="datum" id="front-datum"></span>
+	    <p class="spacer"></p>
+	  </div>
+	  <div id="show-button-div" class="text-center margin-top-20 margin-bottom-20">
+	    <button type="button" class="btn btn-default" id="show-button">Show Answer</button>
+	  </div>
+	  <div id="response-button-div" class="text-center margin-top-20 margin-bottom-20">
+	    <div class="btn-group" role="group" aria-label="response-buttons">
+	      <button type="button" class="btn btn-default" id="missed">Missed</button>
+	      <button type="button" class="btn btn-default" id="hard">Hard</button>
+	      <button type="button" class="btn btn-default" id="ok">OK</button>
+	    </div>
+	  </div>
+	</div><!-- front -->
+
+	<!-- Back -->
+	<div class="col-md-6" id="back-div">
+	  <div class="card text-center" id="back">
+            <p class="spacer"></p>
+	    <span class="datum" id="back-datum"></span>
+            <p class="spacer"></p>
+	  </div>
+	</div><!-- back-div -->
+      </div><!-- row -->
+
+      <div class="row">
+	<div class="col-md-12 text-center">
+	  <div id="finished">
+	    <p>All finished!</p>
+	    <p>Keep up the good work!</p>
+	  </div>
+	</div>
+      </div><!-- row -->
+    </div>
+  </body>
+</html>

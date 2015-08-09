@@ -1,0 +1,71 @@
+body {
+   background: #8ac;
+}
+
+.container-fluid {
+   background: #8ac;
+}
+
+#load-error {
+   margin: 10px 0;
+   padding: 10px;
+   color: #800;
+   border: solid 2px #800;
+   display: none;
+}
+
+#options {
+   margin: 10px auto;
+   display: none;
+}
+
+#card-display {
+   background: #048;
+   display: none;
+}
+
+.card {
+   background: #eed;
+   width: 90%;
+   margin: 20px auto;
+   border: 5px solid black;
+   font-size: 4em;
+}
+
+.spacer {
+   height: 1em;
+}
+
+#show-button {
+   padding-left: 40px;
+   padding-right: 40px;
+}
+
+#back {
+   display: none;
+}
+
+#response-button-div {
+   display: none;
+}
+
+#finished {
+   font-size: 2em;
+   width: 30%;
+   padding: 20px;
+   margin: 20px auto;
+   border: 5px solid black;
+   background: #eed;
+   display: none;   
+}
+
+
+
+
+.margin-top-20 {
+   margin-top: 20px;
+}
+
+.margin-bottom-20 {
+   margin-bottom: 20px;
+}
