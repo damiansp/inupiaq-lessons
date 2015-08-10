@@ -1,0 +1,84 @@
+[
+{   "inupiatun": "aaqhaalIt",
+    "english": ["Oldsquaw ducks", "(<em>Clangula hyemalis</em>)"],
+    "pos": "n-pl"
+},
+
+{   "inupiatun": "aGnat",
+    "english": ["women"],
+    "pos": "n-pl"
+},
+
+{   "inupiatun": "amaGuq",
+    "english": ["wolf"],
+    "pos": "n"
+},
+
+{   "inupiatun": "amaqquk",
+    "english": ["[two] wolves"],
+    "pos": "n-d"
+},
+
+{   "inupiatun": "anI-",
+    "english": ["to go out", "to exit", "to be born"],
+    "pos": "v-i"
+},
+
+{   "inupiatun": "annIq-",
+    "english": ["to get hurt", "to hurt (sb/st)"],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "aNu-",
+    "english": [
+        "to get", "to catch a game animal", "to catch up with (sb/st)",
+    	"to reach (sb's) height"
+    ],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "aNutik",
+    "english": ["[two] men"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "aqi-",
+    "english": ["to kick (sb/st)"],
+    "pos": ["v-t"]
+},
+]
+
+
+/** Templates
+
+{   "inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
+
+{   "inupiatun": {
+       "north-slope": "",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": [""],
+    "chapter": ,
+    "pos": "",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""]
+},
+
+*/
