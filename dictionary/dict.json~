@@ -646,6 +646,74 @@
     "cf": ""
 },
 
+{   "inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
+
+{   "inupiatun": {
+       "north-slope": "iga-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to cook (st)"],
+    "chapter": 2,
+    "pos": "v-t",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "tuttu taign~a igasaGin~"
+          },
+          "english": "you should cook that caribou that is over there"
+       },
+       {
+           "inupiatun": {
+	       "north-slope": "igatqugaa microwave-kun"
+	   },
+	   "english": "she wants it cooked in the microwave"
+       }
+    ],
+    "parts": [""],
+    "cf": ["kukiu-", "igniqauq-", "argiq-", "sil.akkuaq-", "Appendix 22"]
+},
+
+{   "inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
+
+{   "inupiatun": {
+       "north-slope": "iggavIk",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["place for a cooking fire", "cooking container", "kitchen"],
+    "chapter": 2,
+    "pos": "n",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "iggavikun argiGaa tuttu"
+          },
+          "english": "she is roasting caribou over the fire at the cooking 
+	  place"
+       }
+    ],
+    "parts": ["iga-" "'+vIk (1) (vn)"],
+    "cf": [""]
+},
+
+
 {   "inupiatun": {
        "north-slope": "iglu",
        "north-slope-variants: [""]
@@ -669,6 +737,63 @@
     ],
     "parts": "",
     "cf": ""
+},
+
+{   "inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
+
+{   "inupiatun": {
+       "north-slope": "ign~a",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "ikkuak",
+       "pl": "ikkua",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["the one over there (restricted and visible)"],
+    "chapter": 2,
+    "pos": "pn-dem-abs",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": "<°Ik (1)"
+},
+
+{   "inupiatun": {
+       "north-slope": "iGGI",
+       "north-slope-variants: ["iGGiq"]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["mountain"],
+    "chapter": 2,
+    "pos": "n",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "iGGin~un imnaiqsiuGiaNarut"
+          },
+          "english": "they have gone sheep hunting in the mountains"
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
 },
 
 {   "inupiatun": {
@@ -722,6 +847,64 @@
 },
 
 {   "inupiatun": {
+       "north-slope": "iku-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": [
+        "to get in a vehicle or conveyance", "to get in a container", 
+	"to board", "to embark"],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": "< iki- (1)"
+},
+
+{   "inupiatun": {
+       "north-slope": "iku-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": [
+        "to put (sb/st) in/on a vehicle or conveyance", 
+	"to put (sb/st)in a container"
+    ],
+    "chapter": 2,
+    "pos": "v-t",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": "< iki- (1)"
+},
+
+
+{   "inupiatun": {
        "north-slope": "il.a",
        "north-slope-variants: [""]
     },
@@ -747,6 +930,88 @@
     ],
     "parts": "",
     "cf": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "il.I- (1)",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": [
+        "to place (st)", "to set (st)", "to put (st) in a store for sale"
+    ],
+    "chapter": 2,
+    "pos": "v-t",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "il.l.iuN ikuNa taamna niuqqiuGun"
+          },
+          "english": "set that tea kettle down over there"
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "il.isaq-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to study (st)", "to practice (st)"],
+    "chapter": 2,
+    "pos": "v-t",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "taimuNaagaksrani il.isaGai"
+          },
+          "english": "she is trying to memorize her lines"
+       }
+    ],
+    "parts": ["+saq- (2) (vv)"],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "il.isI-",
+       "north-slope-variants: ["il.irI-"]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": [
+        "to place st", "to set st", "to put something in a store for sale"
+    ],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
 },
 
 {   "inupiatun": {
@@ -1603,7 +1868,8 @@
        }
     ],
     "parts": [""],
-    "cf": [""]
+    "cf": [""],
+    "etym": ""
 },
 
 */
@@ -1620,4 +1886,5 @@
 
 I: &#x026a;		I
 Q: <small>Q</small>	Q
+°
 */

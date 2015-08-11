@@ -119,9 +119,89 @@
     "pos": ["v-t"]
 },
 
+{   "inupiatun": "il.isaq-",
+    "english": ["to study (st)", "to practice (st)"],
+    "pos": ["v-t"]
+},
+
 {   "inupiatun": "ilisI-",
     "english": ["to place st somewhere"],
     "pos": ["v-i"]
+},
+
+{   "inupiatun": "ini",
+    "english": ["place", "house", "room"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "init",
+    "english": ["places", "houses", "rooms"],
+    "pos": ["n-pl"]
+},
+
+{   "inupiatun": "iri",
+    "english": ["eye"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "irit",
+    "english": ["eyes"],
+    "pos": ["n-pl"]
+},
+
+{   "inupiatun": "irrak",
+    "english": ["[two] eyes", "sb's/st's eyes"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "isiq-",
+    "english": ["to enter (st)", "to bring (sb/st) inside"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "isiqsI-",
+    "english": ["to bring sb/st inside"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "kamik",
+    "english": ["boot"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "kamik-",
+    "english": ["to put boots on", "to put boots on (sb/st)"],
+    "pos": ["v-t", "v-i"]
+},
+
+{   "inupiatun": "kammak",
+    "english": ["[two] boots", "a pair of boots"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "makit-",
+    "english": ["to stand up", "to get out of bed", "to stand (st) upright"],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "makitchI-",
+    "english": ["to stand st upright"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "nasaq",
+    "english": ["hood"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "nasaq-",
+    "english": ["to put a hood on", "to put a hood on (sb/st)"],
+    "pos": ["v-t", "v-i"]
+},
+
+{   "inupiatun": "natchak",
+    "english": ["[two] hoods"],
+    "pos": ["n"]
 },
 
 ]
@@ -134,29 +214,4 @@
     "pos": [""]
 },
 
-{   "inupiatun": {
-       "north-slope": "",
-       "north-slope-variants: [""]
-    },
-    "derived-forms": {
-       "dual": "",
-       "pl": "",
-       "arch-pl": "",
-       "arch-relative": ""
-    },
-    "english": [""],
-    "chapter": ,
-    "pos": "",
-    "ex": [
-       {
-          "inupiatun": {
-             "north-slope": ""
-          },
-          "english": ""
-       }
-    ],
-    "parts": [""],
-    "cf": [""]
-},
-
-*/
+*/        

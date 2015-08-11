@@ -72,6 +72,57 @@
     "pos": ["n-pl"]
 },
 
+{   "inupiatun": "iga-",
+    "english": ["to cook (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "iggavIk",
+    "english": ["kitchen"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "iglu",
+    "english": ["house"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "igluk",
+    "english": ["[two] houses"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "ign~a",
+    "english": ["that one over there [visible, stationary"],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "iGGI",
+    "english": ["mountain"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "iGGIt",
+    "english": ["mountains"],
+    "pos": ["n-pl"]
+},
+
+{   "inupiatun": "iku-",
+    "english": ["to get on board", " to embark", "to put (sb/st) on board"],
+    "pos": ["v-t", "v-i"]
+},
+
+{   "inupiatun": "il.I-",
+    "english": [
+        "to put (st) in a store for sale", "to place (sb/st somewhere)"
+    ],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "ilisI-",
+    "english": ["to place st somewhere"],
+    "pos": ["v-i"]
+},
 
 ]
 
