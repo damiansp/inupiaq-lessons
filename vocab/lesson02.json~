@@ -46,6 +46,33 @@
     "english": ["to kick (sb/st)"],
     "pos": ["v-t"]
 },
+
+{   "inupiatun": "aqparvIk",
+    "english": ["track (for running)", "place to run"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "aqpat-",
+    "english": ["to run (of a person)"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "ati-",
+    "english": ["to put (article of clothing) on"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "atigi-",
+    "english": ["to put on a parka", "to put a parka on (sb/st)"],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "atigit",
+    "english": ["parkas"],
+    "pos": ["n-pl"]
+},
+
+
 ]
 
 

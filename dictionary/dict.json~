@@ -180,6 +180,161 @@
 },
 
 {   "inupiatun": {
+       "north-slope": "amaGuq",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["wolf", "grey wolf", "(<em>Canis lupus</em>)"],
+    "chapter": 2,
+    "pos": "n",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": ["+quq (nn)"]
+},
+
+{   "inupiatun": {
+       "north-slope": "anI-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": [
+        "to go out", "to exit", "to be born", "to emerge from the den in spring (of hibernating 
+	animal)"
+    ],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "anil.iqtuq il.ani aipqauraGmata"
+          },
+          "english": "he went out as soon as his relatives went home"
+       }
+    ],
+    "parts": [""],
+    "cf": ["umNuti-"]
+},
+
+{   "inupiatun": {
+       "north-slope": "annIq-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to get injured"],
+    "chapter": ,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "anniqsuq talimigun"
+          },
+          "english": "he hurt his arm"
+       }
+    ],
+    "parts": [""],
+    "cf": [""]
+},
+
+{   "inupiatun": {
+       "north-slope": "annIq-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to hurt (sb/st)"],
+    "chapter": ,
+    "pos": "v-t",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""]
+},
+
+{   "inupiatun": {
+       "north-slope": "aNu-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to catch a game animal"],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "aNullasipayuNaruq nukatpiaq"
+          },
+          "english": "the young man is now knowledgeable enough to hunt and catch game animals"
+       }
+    ],
+    "parts": [""],
+    "cf": [""]
+},
+
+{   "inupiatun": {
+       "north-slope": "aNu-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": [
+        "to catch up with (sb/st)", "to have seen (sb/st) when young", "to reach (sb's/st's) height"
+    ],
+    "chapter": 2,
+    "pos": "v-t",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "aNuratka taipkua tuutaqaGuuruat"
+          },
+          "english": "in my lifetime I have seen the one who wore labrets"
+       }
+    ],
+    "parts": [""],
+    "cf": [""]
+},
+
+{   "inupiatun": {
        "north-slope": "aNun",
        "north-slope-variants: [""]
     },
@@ -201,7 +356,83 @@
        }
     ],
     "parts": "",
-    "cf": "aNi-(1)"
+    "cf": "aNi- (1)"
+},
+
+{   "inupiatun": {
+       "north-slope": "aqi-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to kick (sb/st)"],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "aqisaqLugu ayuktaq aquvsalaaqtuq"
+          },
+          "english": "while trying to kick the ball, he fell on his backside"
+       }
+    ],
+    "parts": [""],
+    "cf": [""]
+},
+
+{   "inupiatun": {
+       "north-slope": "aqparvIk",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["track (for running)", "place to run"],
+    "chapter": 2,
+    "pos": "n",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": ["aqpat-", "+vIk (vn)"],
+    "cf": [""]
+},
+
+{   "inupiatun": {
+       "north-slope": "aqpat-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to run (of a human)"],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "aqpapaluktuguk PaniattaaGlu aNutquNitpaiL.L.unuk AaNamun"
+          },
+          "english": "this morning Paniattaaq and I ran very hard because we [two] did not want AaNa 
+	  to catch up with [the two of] us"
+       }
+    ],
+    "parts": [""],
+    "cf": ["paNalik-"]
 },
 
 {   "inupiatun": {
@@ -255,6 +486,38 @@
 },
 
 {   "inupiatun": {
+       "north-slope": "ati- (2)",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to put (garment) on"],
+    "chapter": 2,
+    "pos": "v-t",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "attuuN"
+          },
+          "english": "put it on"
+       },
+       {
+          "inupiatun": {
+             "north-slope": "attiuN"
+          },
+          "english": "put it on"
+       }
+
+    ],
+    "parts": [""],
+    "cf": [""]
+},
+
+{   "inupiatun": {
        "north-slope": "atigi",
        "north-slope-variants: [""]
     },
@@ -277,6 +540,56 @@
     ],
     "parts": "+[g]i- (vv)",
     "cf": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "atigi-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to put on a parka"],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "atikkuin~"
+          },
+          "english": "put on a parka"
+       }
+    ],
+    "parts": ["atigi"],
+    "cf": [""]
+},
+
+{   "inupiatun": {
+       "north-slope": "atigi-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to put a parka on (sb)"],
+    "chapter": 2,
+    "pos": "v-t",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "atikkuuN"
+          },
+          "english": "put a parka on him"
+       }
+    ],
+    "parts": ["atigi", "+[g]i- (vv)"],
+    "cf": [""]
 },
 
 {   "inupiatun": {
