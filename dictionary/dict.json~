@@ -1040,6 +1040,33 @@
 },
 
 {   "inupiatun": {
+       "north-slope": "ini",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["place", "room", "one's presence"],
+    "chapter": 2,
+    "pos": "n",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "nukatpialukput asuamna inituruq"
+          },
+          "english": "our youngest sibling sure leaves a big empty space when
+	   he's not around"
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
        "north-slope": "in~n~uk",
        "north-slope-variants: [""]
     },
@@ -1220,6 +1247,167 @@
 },
 
 {   "inupiatun": {
+       "north-slope": "isiq-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to enter", "to be placed inside"],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "isiq-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": [
+        "to enter (st)", "go into (st)", "to bring (st) inside", 
+	"to place (st) insided"
+    ],
+    "chapter": 2,
+    "pos": "v-t",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "iglualuk iqsigaluaNNaGmi isiGaa"
+          },
+          "english": "she entered the old house even though she was afraid"
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "isiqsI-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to bring st inside", "to place st inside"],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": ["isiq-", "+sI- (3) (vv)],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "kamik",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "kammak",
+       "pl": "kamNit",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": [
+        "boot", "mukluk", "In~upiaq-made fur boot", "dog booty", "shoe"
+    ],
+    "chapter": 2,
+    "pos": "n",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "kammak qin~n~aGipaluktuk"
+          },
+          "english": "his boots look so beautiful"
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "kamik-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to put one's boots on"],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "kamik-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to put boots on (sb/st)"],
+    "chapter": 2,
+    "pos": "v-t",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
        "north-slope": "kin~a una",
        "north-slope-variants: [""]
     },
@@ -1295,6 +1483,84 @@
 },
 
 {   "inupiatun": {
+       "north-slope": "makit-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to stand up", "to get out of bed", "to arise"],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "makit-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to set (st) upright"],
+    "chapter": 2,
+    "pos": v-t"",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": "ulGuNaruaq ign~a aquppiutaq makirruN"
+          },
+          "english": "stand that chair that has fallen over back up"
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "makitchI-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to stand st upright"],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": ["makit-", "+sI- (3) (vv)"],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
        "north-slope": "miqLiqtuq",
        "north-slope-variants: [""]
     },
@@ -1317,6 +1583,84 @@
     ],
     "parts": "",
     "cf": ["il.il.gaaq"]
+},
+
+{   "inupiatun": {
+       "north-slope": "nasaq",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["hood"],
+    "chapter": 2,
+    "pos": "n",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "nasaq-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to put one's hood up"],
+    "chapter": 2,
+    "pos": "v-i",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
+       "north-slope": "nasaq-",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["to put (sb's) hood up"],
+    "chapter": 2,
+    "pos": "v-t",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
 },
 
 {   "inupiatun": {

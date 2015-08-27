@@ -1689,6 +1689,32 @@
 },
 
 {   "inupiatun": {
+       "north-slope": "naumi",
+       "north-slope-variants: [""]
+    },
+    "derived-forms": {
+       "dual": "",
+       "pl": "",
+       "arch-pl": "",
+       "arch-relative": ""
+    },
+    "english": ["no!"],
+    "chapter": ,
+    "pos": "excl",
+    "ex": [
+       {
+          "inupiatun": {
+             "north-slope": ""
+          },
+          "english": ""
+       }
+    ],
+    "parts": [""],
+    "cf": [""],
+    "etym": ""
+},
+
+{   "inupiatun": {
        "north-slope": "niu",
        "north-slope-variants: [""]
     },
@@ -1944,103 +1970,6 @@
     ],
     "parts": [""],
     "cf": ["sakLataiyaq"]
-},
-
-{   "inupiatun": {
-       "north-slope": "",
-       "north-slope-variants: [""]
-    },
-    "derived-forms": {
-       "dual": "",
-       "pl": "",
-       "arch-pl": "",
-       "arch-relative": ""
-    },
-    "english": [""],
-    "chapter": ,
-    "pos": "",
-    "ex": [
-       {
-          "inupiatun": {
-             "north-slope": ""
-          },
-          "english": ""
-       }
-    ],
-    "parts": [""],
-    "cf": [""]
-},
-{   "inupiatun": {
-       "north-slope": "",
-       "north-slope-variants: [""]
-    },
-    "derived-forms": {
-       "dual": "",
-       "pl": "",
-       "arch-pl": "",
-       "arch-relative": ""
-    },
-    "english": [""],
-    "chapter": ,
-    "pos": "",
-    "ex": [
-       {
-          "inupiatun": {
-             "north-slope": ""
-          },
-          "english": ""
-       }
-    ],
-    "parts": [""],
-    "cf": [""]
-},
-{   "inupiatun": {
-       "north-slope": "",
-       "north-slope-variants: [""]
-    },
-    "derived-forms": {
-       "dual": "",
-       "pl": "",
-       "arch-pl": "",
-       "arch-relative": ""
-    },
-    "english": [""],
-    "chapter": ,
-    "pos": "",
-    "ex": [
-       {
-          "inupiatun": {
-             "north-slope": ""
-          },
-          "english": ""
-       }
-    ],
-    "parts": [""],
-    "cf": [""]
-},
-{   "inupiatun": {
-       "north-slope": "",
-       "north-slope-variants: [""]
-    },
-    "derived-forms": {
-       "dual": "",
-       "pl": "",
-       "arch-pl": "",
-       "arch-relative": ""
-    },
-    "english": [""],
-    "chapter": ,
-    "pos": "",
-    "ex": [
-       {
-          "inupiatun": {
-             "north-slope": ""
-          },
-          "english": ""
-       }
-    ],
-    "parts": [""],
-    "cf": [""]
 },
 
 {   "inupiatun": {

@@ -204,6 +204,107 @@
     "pos": ["n"]
 },
 
+{   "inupiatun": "naumI",
+    "english": ["no"],
+    "pos": ["excl"]
+},
+
+{   "inupiatun": "naagga",
+    "english": ["no"],
+    "pos": ["excl"]
+},
+
+{   "inupiatun": "niGI-",
+    "english": ["to eat (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "niGGivIk",
+    "english": ["(dining) table"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "nusaq",
+    "english": ["(strand of) hair"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "nuyaq",
+    "english": ["(strand of) hair"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "nutchat",
+    "english": ["(head of) hair"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "paNalik-",
+    "english": ["to run (on all fours)", "to gallop"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "pil.ak-",
+    "english": ["to flense", "to butcher", "to cut (game, meat, etc.)"],
+    "pos": ["v-i", "vt"]
+},
+
+{   "inupiatun": "pisuaq-",
+    "english": ["to walk"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "puqIk-",
+    "english": ["to be smart", "to be quick to learn"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "puumit-",
+    "english": ["to swim (under water)"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "qaI-",
+    "english": ["to come", "to come upon (sb/st)"],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "qaugak",
+    "english": ["duck"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "qaukkak",
+    "english": ["[two] ducks"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "qayaq",
+    "english": ["kayak", "canoe"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "qayyak",
+    "english": ["kayaks", "canoes"],
+    "pos": ["n-d", "n-pl"]
+},
+
+{   "inupiatun": "qimmIk",
+    "english": ["[two] dogs"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "qimmIq",
+    "english": ["dog"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "qimmIt",
+    "english": ["dogs"],
+    "pos": ["n-pl"]
+},
+
+
 ]
 
 
