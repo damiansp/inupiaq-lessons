@@ -304,6 +304,170 @@
     "pos": ["n-pl"]
 },
 
+{   "inupiatun": "qivIaq-",
+    "english": [
+        "to turn one's head to look", "to turn one's head to look at (sb/st)"
+    ],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "savak-",
+    "english": [
+        "to work", "to be employed", "to be in working order", 
+	"to be fixing (st)", "to work on (st)"
+    ],
+    "pos": [""]
+},
+
+{   "inupiatun": "siksrIIt",
+    "english": ["squirrels"],
+    "pos": ["n-pl"]
+},
+
+{   "inupiatun": "siksrIk",
+    "english": ["squirrel"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "sukkIt-",
+    "english": ["to step on a nail and cut oneself"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "taiguaq-",
+    "english": ["to read st"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "tauqsIq-",
+    "english": ["to buy (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "tautuk-",
+    "english": ["to see (sb/st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "tikIt-",
+    "english": ["to arrive", "to reach (sb/st)"],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "tiNi-",
+    "english": ["to fly away", "to take off (flight)", "to take flight"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "tiNNun",
+    "english": ["airplane"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "tumi",
+    "english": ["footprint"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "tumit",
+    "english": ["footprints"],
+    "pos": ["n-pl"]
+},
+
+{   "inupiatun": "tupiQ",
+    "english": ["tent"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "tupiQ-",
+    "english": [
+        "to set up a tent", "to set up a tent for (sb/st)", 
+	"to put a tent over (st)"
+    ],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "tuppak",
+    "english": ["[two] tents"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "umialik",
+    "english": ["captain", "rich man"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "umIaq",
+    "english": ["boat"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "umIaq-",
+    "english": ["to take a boat and set up a whaling camp"],
+    "pos": ["v-i"]
+},
+
+
+
+
+
+
+{   "inupiatun": "+lu",
+    "english": ["(n) and (n)"],
+    "pos": ["encl"]
+},
+
+{   "inupiatun": "+niaNIt-",
+    "english": ["will not"],
+    "pos": ["vv"]
+},
+
+{   "inupiatun": "+nIaq-",
+    "english": ["will"],
+    "pos": ["vv"]
+},
+
+{   "inupiatun": "+pa / +va",
+    "english": ["does she/he/it?", "is she/he/it?"],
+    "pos": ["v-end"]
+},
+
+{   "inupiatun": "+pak / +vak",
+    "english": ["do those two?", "are those two?"],
+    "pos": ["v-end"]
+},
+
+{   "inupiatun": "+pat / +vat",
+    "english": ["do they?", "are they?"],
+    "pos": ["v-end"]
+},
+
+{   "inupiatun": "+saaGi-",
+    "english": ["deliberately", "purposely"],
+    "pos": ["vv"]
+},
+
+{   "inupiatun": "+saaGiNIt-",
+    "english": ["not deliberately", "not intentionally"],
+    "pos": ["vv"]
+},
+
+{   "inupiatun": "+tuk / +ruk",
+    "english": ["those two (do...)", "those two (are...)"],
+    "pos": ["v-end"]
+},
+
+{   "inupiatun": "+tuq / +ruq",
+    "english": ["she/he/it (does...)", "she/he/it (is...)"],
+    "pos": ["v-end"]
+},
+
+{   "inupiatun": "+tut / +rut",
+    "english": ["they (do...)", "they (are...)"],
+    "pos": ["v-end"]
+},
+
+
 
 ]
 
@@ -312,7 +476,7 @@
 
 {   "inupiatun": "",
     "english": [""],
-    "pos": [""]
+    "pos": [""],
 },
 
 */        
