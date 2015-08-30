@@ -1,0 +1,289 @@
+[
+
+{   "inupiatun": "akin~",
+    "english": ["pillow"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "anIu",
+    "english": ["packed snow good for melting into drinking water"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "apun",
+    "english": ["snow (lying on a surface)"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "aquppI-",
+    "english": ["to be sitting", "to be sitting on (sb/st)"],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "aquvit-",
+    "english": ["to sit down", "to sit up", "to sit down on (sb/st)"],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "atiQ",
+    "english": ["name", "namesake"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "atqaq-",
+    "english": ["to descend", "to come down", "to lower (sb/st)"],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "ikka",
+    "english": ["over there [visible, stationary, not a long, thin object"],
+    "pos": ["adv-dem"]
+},
+
+{   "inupiatun": "il.It-",
+    "english": ["to learn (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "il.itchI-",
+    "english": ["to learn"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "imiQ",
+    "english": ["drinking water", "alcoholic beverage"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "imiQ-",
+    "english": ["to drink (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "in~ugIak-",
+    "english": ["to be many", "to be numerous"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "iqaluk",
+    "english": ["fish"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "kukIu-",
+    "english": ["to cook (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "mannIk",
+    "english": ["egg"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "mayuq-",
+    "english": [
+        "to climb", "to ascend", "to go up", "to raise (sb/st)", 
+	"to set (sb/st) higher up"
+    ],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "miquq-",
+    "english": ["to sew (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "naagga",
+    "english": ["no", "negative"],
+    "pos": ["excl"]
+},
+
+{   "inupiatun": "nakuu-",
+    "english": ["to be nice", "to be good"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "natiQ",
+    "english": ["floor"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "natiQ-",
+    "english": ["to install a floor in (st)", "to put a floor in (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "naumI",
+    "english": ["no", "negative"],
+    "pos": ["excl"]
+},
+
+{   "inupiatun": "niksIk",
+    "english": ["fishing hook"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "niksIk-",
+    "english": ["to hook (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "nuna",
+    "english": ["land", "inland", "earth"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "paamak-",
+    "english": ["to crawl"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "pign~a",
+    "english": [
+        "that one up there [visible, stationary, not a long, thin object"
+    ],
+    "pos": ["adv-dem"]
+},
+
+{   "inupiatun": "pil.uk-",
+    "english": ["to be bad", "to not be nice"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "qamun",
+    "english": ["car", "truck"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "siku",
+    "english": ["ice"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "siku-",
+    "english": ["to ice over"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "siqin~iQ",
+    "english": ["sun"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "su",
+    "english": ["what", "what thing"],
+    "pos": ["pn-dem"]
+},
+
+{   "inupiatun": "su-",
+    "english": ["to do what", "to do what to (sb/st)"],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "suNIt-",
+    "english": [
+        "to not do anything", "to not say anything", 
+    	"to not do anything to (sb/st)"
+    ],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "taamna",
+    "english": [
+	"that one [nearer to listener than to speaker, visible, stationary, not a long, thin object]"	
+    ],
+    "pos": ["pn-dem"]
+},
+
+{   "inupiatun": "tatqIq",
+    "english": ["moon"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "tupiQ",
+    "english": ["tent"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "tupiQ-",
+    "english": [
+        "to set up a tent", "to set up a tent for (sb/st)", 
+	"to put a tent over (sb/st)"
+    ],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "ulGu-",
+    "english": ["to fall", "to topple", "to tip over"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "umiaq",
+    "english": ["boat"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "umiaq-",
+    "english": ["to take a boat and set up a whaling camp"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "unna",
+    "english": [
+        "that one down there [near the ocean or door; visible, moving, or long, thin object]"
+    ],
+    "pos": ["pn-dem"]
+},
+
+{   "inupiatun": "uvluGIaq",
+    "english": ["star"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "uvva",
+    "english": [
+        "here [visible, stationary, not referring to a long, thin object]"
+    ],
+    "pos": ["adv-dem"]
+},
+
+
+
+
+
+
+{   "inupiatun": "-qaGniaq-",
+    "english": ["will have"],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": "-qaq-",
+    "english": [
+        "to have", "to possess", "to be wearing", "to have on", "there is", 
+	"there are"
+    ],
+    "pos": ["postbase-nv"]
+},
+
+{   "inupiatun": ":In~n~iaq-",
+    "english": ["will not have"],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": ":It-",
+    "english": ["to not have", "to not possess", "to not be wearing", "to not have on"],
+    "pos": ["postbase-nv"]
+}
+
+]
+
+
+
+/** Templates
+
+{   "inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
+
+*/

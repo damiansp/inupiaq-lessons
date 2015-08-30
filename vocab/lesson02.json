@@ -465,18 +465,6 @@
 {   "inupiatun": "+tut / +rut",
     "english": ["they (do...)", "they (are...)"],
     "pos": ["v-end"]
-},
-
-
+}
 
 ]
-
-
-/** Templates
-
-{   "inupiatun": "",
-    "english": [""],
-    "pos": [""],
-},
-
-*/        

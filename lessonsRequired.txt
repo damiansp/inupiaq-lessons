@@ -1,0 +1,16 @@
+01 Assimilation (?)		p. 15 (p. 4)
+02 Palatalization (?)         	p. 19
+03 Interrogatives (I)		p. 31
+04 Indicatives (I)		p. 31
+05 Future (+niaq-)		p. 32
+06 Intention (+saaGi-)		p. 32
++  Combine: future intentional
+07 Future neg (+niaNIt-)	p. 32
+08 Neg. intention (+saaGiNIt-)	p. 32
++  Combine: neg future intentional
+09 noun + noun (+lu)	   	p. 33
+10 Possession (-qaq-)		p. 50
+11 Neg. possession (:It-)	p. 50
++  Combine Fut poss/neg possessive
+
+
