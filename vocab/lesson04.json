@@ -1,0 +1,324 @@
+[
+
+{   "inupiatun": "aglak",
+    "english": ["letter", "print"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "aglak-",
+    "english": ["to write", "to write (st)"],
+    "pos": ["v-t", "v-i"]
+},
+
+{   "inupiatun": "aGnaiyaaq",
+    "english": ["girl"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "aGnaq",
+    "english": ["woman"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "akkupak",
+    "english": ["right now"],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "akutchI-",
+    "english": [
+        "to make In~upiaq ice cream", "to make (st) into In~upiaq ice cream"
+    ],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "aNun",
+    "english": ["man"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "aNutaiyaaq",
+    "english": ["boy"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "atuq-",
+    "english": ["to sing (st)", "to use (st)", "to be in use"],
+    "pos": ["v-t", "v-i"]
+},
+
+{   "inupiatun": "aullaaq-",
+    "english": ["to go camping"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "ikayuq-",
+    "english": ["to help (sb/st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "kin~a",
+    "english": ["who? [one person]"],
+    "pos": ["pn-interrogative"]
+},
+
+{   "inupiatun": "kitkuk",
+    "english": ["who? [two people]"],
+    "pos": ["pn-interrogative-d"]
+},
+
+{   "inupiatun": "kitkut",
+    "english": ["who? [3 or more people]"],
+    "pos": ["pn-interrogative-pl"]
+},
+
+{   "inupiatun": "sin~ik-",
+    "english": ["to be sleeping", "to be asleep"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "su",
+    "english": ["what? [one thing]"],
+    "pos": ["pn-interrogative"]
+},
+
+{   "inupiatun": "suk",
+    "english": ["what? [two things]"],
+    "pos": ["pn-interrogative-d"]
+},
+
+{   "inupiatun": "suna",
+    "english": ["what? [one thing]"],
+    "pos": ["pn-interrogative"]
+},
+
+{   "inupiatun": "sut",
+    "english": ["what? [3 or more things"],
+    "pos": ["pn-interrogative-pl"]
+},
+
+{   "inupiatun": "tilaI-",
+    "english": ["to sweep (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "tilak-",
+    "english": ["to mop (st)", "to scrub (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "tiNmI-",
+    "english": ["to be flying", "to be in flight"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "unnuaq",
+    "english": ["last night", "nighttime"],
+    "pos": ["adv", "n"]
+},
+
+{   "inupiatun": "upinGaaGu",
+    "english": ["next summer"],
+    "pos": ["adv", "n"]
+},
+
+{   "inupiatun": "uqaq",
+    "english": ["tongue"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "uqaq-",
+    "english": ["to talk"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "utiQ-",
+    "english": [
+        "to return", "to return for (sb/st)", "to return to (sb/st)", 
+	"to get back together with (sb, e.g., after divorce, break-up, or separation"
+    ],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "uvlaaku",
+    "english": ["tomorrow"],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "uvlaakun",
+    "english": ["tomorrow"],
+    "pos": ["adv"]
+},
+
+
+
+
+
+{   "inupiatun": "-laIt-",
+    "english": ["to never", "to not be able to", "cannot"],
+    "pos": ["postbase-vv"]
+},
+
+{   "inupiatun": "-lla-",
+    "english": ["can", "to be able to"],
+    "pos": ["postbase-vv"]
+},
+
+{   "inupiatun": "+pa / +va",
+    "english": ["does he/she/it?", "is he/she/it?"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+pak / +vak",
+    "english": [
+        "do they [two people or things]?", "are they [two people or things]?"
+    ],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+pat / +vat",
+    "english": ["are they?", "do they?"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+pik / + vik",
+    "english": ["am I?", "do I?"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+pIn / +vIn",
+    "english": ["are you?", "do you? (alternate form)?"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+pin~uk / + vin~uk",
+    "english": ["are we [two]/", "do we [two]?"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+pisa / +visa",
+    "english": ["are we?", "do we?"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+pisI / +visI",
+    "english": ["are you [all]?", "do you [all]?"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+pisik / +visik",
+    "english": ["do you [two]?", "are you [two]?"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+pIt / + vIt",
+    "english": ["are you?", "do you?"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuaguk / +ruaguk",
+    "english": ["we [two] did", "we [two] were"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuagut / +ruagut",
+    "english": ["we did", "we were"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuak / +ruak",
+    "english": ["they did [two subjects]", "they were [two subjects]"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuaNa / +ruaNa",
+    "english": ["I did", "I was"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuaq / +ruaq",
+    "english": ["he/she/it was", "he/she/it did"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuasI / +ruasI",
+    "english": ["you [all] did", "you [all] were"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuasik / +ruasik",
+    "english": ["you [two] did", "you [two] were"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuat / +ruat",
+    "english": ["they did", "they were"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuatin / +ruatin",
+    "english": ["you did", "you were"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuguk / +ruguk",
+    "english": ["we [two] do", "we [two] are"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tugut / +rugut",
+    "english": ["we do", "we are"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuNa / +ruNa",
+    "english": ["I am", "I do"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuk / +ruk",
+    "english": ["they do [two subjects]", "they are [two subjects]"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tuq / +ruq",
+    "english": ["he/she/it is", "he/she/it does"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tusI / + rusI",
+    "english": ["you [all] are", "you [all] do"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tusik / +rusik",
+    "english": ["you [two] are", "you [two] do"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tut / +rut",
+    "english": ["they are", "they do"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+tutin / +rutin",
+    "english": ["you do", "you are"],
+    "pos": ["ending"]
+},
+
+{   "inupiatun": "+-NIt-",
+    "english": ["to not", "to not be"],
+    "pos": ["postbase-vv"]
+}
+
+
+]
+
+/** Templates
+
+{   "inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
+
+*/
