@@ -1,0 +1,319 @@
+[
+
+{   "inupiatun": "aglak",
+    "english": ["letter", "print"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "aglak-",
+    "english": ["to write (st) down"],
+    "pos": ["v-t", "v-i"]
+},
+
+{   "inupiatun": "aglaun",
+    "english": ["pen", "pencil"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "aglauraaq-",
+    "english": ["to doodle"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "aluutaq",
+    "english": ["spoon (variant)"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "aluuttaun",
+    "english": ["spoon"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "amIq",
+    "english": [
+        "animal hide", "peel (of a fruit)", "skin covering (of an umiaq)"
+    ],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "amiq-",
+    "english": ["to put a skin covering on (st, usually an umiaq)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "amiqsI-",
+    "english": ["to put a skin covering on an umiaq"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "annuGaaq",
+    "english": ["piece of clothing"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "apqun",
+    "english": ["road"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "igniQ",
+    "english": ["fire"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "igniqutit",
+    "english": ["engine"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "ikusIk",
+    "english": ["elbow"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "ikutchIk",
+    "english": ["[two] elbows"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "immIaq",
+    "english": ["beer"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "iri",
+    "english": ["eye"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "iriGrauq",
+    "english": ["telescope"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "isigak",
+    "english": ["foot"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "ivalu",
+    "english": ["thread", "sinew"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "kakiuraq",
+    "english": ["fork"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "kamikLuuk",
+    "english": ["pair of pants"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "kautaq",
+    "english": ["hammer"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "kautaq-",
+    "english": [
+        "to hammer", "to strike blows", "to hammer (st)", "to pound (st)"
+    ],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "miNuaqtuq-",
+    "english": ["to attend school"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "miNauqtuun",
+    "english": ["pencil", "pen"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "miquq-",
+    "english": ["to sew (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "miquun",
+    "english": ["sewing machine"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "naalaGnI-",
+    "english": ["to listen to (sb/st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "nanuq",
+    "english": ["polar bear", "<em>Ursus maritimus</em>"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "naulik",
+    "english": ["spear"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "naulik-",
+    "english": ["to spear (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "navik-",
+    "english": ["to break", "to break (st)"],
+    "pos": ["v-i", "v-t"]
+},
+
+{   "inupiatun": "niqi",
+    "english": ["food"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "papiGuq",
+    "english": ["fishtail"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "papiqquk",
+    "english": ["[two] fishtails"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "puyuq",
+    "english": ["smoke"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "putchut",
+    "english": ["(individual clouds of) smoke", "(individual clouds of) dust"],
+    "pos": ["n-pl"]
+},
+
+{   "inupiatun": "qavaasuk",
+    "english": ["spectacled eider", "<em>Somateria fischeri</em>"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "qavaatchuk",
+    "english": ["[two] spectacled eiders"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "qayuq",
+    "english": ["broth"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "qatchut",
+    "english": ["(individual pots of) broth"],
+    "pos": ["n-pl"]
+},
+
+{   "inupiatun": "qil.alukkak",
+    "english": ["[two] beluga whales"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "qil.alugaq",
+    "english": ["beluga whale", "<em>Delphinapterus leucas</em>"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "sallisik",
+    "english": ["(pair of) scissors"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "tulukkak",
+    "english": ["[two] ravens"],
+    "pos": ["n-d"]
+},
+
+{   "inupiatun": "tulugaq",
+    "english": ["raven"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "tuttu",
+    "english": ["caribou"],
+    "pos": ["n"]
+},
+
+
+
+
+
+{   "inupiatun": "-kIt-",
+    "english": [
+        "to have... which is small in quantity", "to not have enough..."
+    ],
+    "pos": ["postbase-nv"]
+},
+
+{   "inupiatun": "+tuq-",
+    "english": [
+        "to eat a...", "to wear a...", "to use a (boat)", "to live in a..."
+    ],
+    "pos": ["postbase-nv"]
+},
+
+{   "inupiatun": "+[t]alaIt-",
+    "english": ["does not use....", "does not operate a..."],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": "+[t]alla-",
+    "english": ["is able to use...", "is able to operate a..."],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": "+[t]aNIt-",
+    "english": ["is not using...", "is not operating a..."],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": "+[t]aq-",
+    "english": ["to use...", "to operate a..."],
+    "pos": ["postbase-nv"]
+},
+
+{   "inupiatun": "+tulaIt-",
+    "english": ["does not use...", "does not consume..."],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": "+tulla-",
+    "english": ["cannot use...", "cannot consume..."],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": "+tuNIt-",
+    "english": ["is not using...", "is not consuming..."],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": ":u-",
+    "english": ["to be a...", "to have many...", "there are a lot of..."],
+    "pos": ["postbase-nv"]
+},
+
+{   "inupiatun": ":uNIt-",
+    "english": ["is not a..."],
+    "pos": ["postbase-comb-nv"]
+}
+
+]
+
+/** Templates
+
+{   "inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
+
+*/
