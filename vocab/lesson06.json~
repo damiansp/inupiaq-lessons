@@ -1,0 +1,318 @@
+[
+
+{   "inupiatun": "agma-",
+    "english": ["to be open"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "aI-",
+    "english": ["to go home"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "aNma-",
+    "english": ["to be open (variant form)"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "akLunaaq",
+    "english": ["rope"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "akutuq",
+    "english": ["In~upiaq ice cream", "'Eskimo' ice cream"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "anI-",
+    "english": ["to go out", "to exit", "to be born"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "annivik",
+    "english": ["birthday"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "aNi-",
+    "english": ["to be big"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "aNuniaq-",
+    "english": ["to hunt"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "imiQ",
+    "english": ["drinking water", "alcoholic beverage"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "imiQ-",
+    "english": ["to drink (st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "imiGvIk",
+    "english": ["bar"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "immuk",
+    "english": ["milk"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "in~uu-",
+    "english": [
+        "to live", "to reside", "to be alive (of a human)", 
+	"to visit socially at sb's house for a while"
+    ],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "ivaq-",
+    "english": ["to search for (sb/st)"],
+    "pos": ["v-t"]
+},
+
+{   "inupiatun": "kaak-",
+    "english": ["to be hungry"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "kakiuraq",
+    "english": ["fork"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "kimik",
+    "english": ["who(m) [modalis]"],
+    "pos": ["pn-interrogative-modalis"]
+},
+
+{   "inupiatun": "kitkugnik",
+    "english": ["who(m) [two people, modalis]"],
+    "pos": ["pn-interrogative-modalis-d"]
+},
+
+{   "inupiatun": "kitkunnik",
+    "english": ["who(m) all [modalis]"],
+    "pos": ["pn-interrogative-modalis-pl"]
+},
+
+{   "inupiatun": "miki-",
+    "english": ["to be small"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "minNiq-",
+    "english": ["to jump up"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "mitchaaGvIk",
+    "english": ["airport", "airfield", "runway", "landing strip"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "mitchaaq-",
+    "english": ["to land (from flight)"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "nakkaq-",
+    "english": ["to fall headlong", "to dive", "to plunge"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "naNirvIk",
+    "english": ["hospital"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "naNit-",
+    "english": ["to be sick"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "nautkiaq-",
+    "english": ["to jump down"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "puggutauraq",
+    "english": ["plate"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "puuvraq-",
+    "english": ["to swim"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "savIk",
+    "english": ["knife"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "savikpak",
+    "english": ["sword"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "siksrIk",
+    "english": ["squirrel"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "siksrIkpak",
+    "english": ["marmot"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "sin~igvIIt",
+    "english": ["bed"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "sin~ik-",
+    "english": ["to sleep"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "sin~ikpak-",
+    "english": ["to oversleep"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "sisu-",
+    "english": ["to slide"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "sugnik",
+    "english": ["what [two objects, modalis]"],
+    "pos": ["pn-interrogative-modalis-d"]
+},
+
+{   "inupiatun": "sunik",
+    "english": ["what all [modalis]"],
+    "pos": ["pn-interrogative-modalis-pl"]
+},
+
+{   "inupiatun": "sumik",
+    "english": ["what [modalis]"],
+    "pos": ["pn-interrogative-modalis"]
+},
+
+{   "inupiatun": "tukku-",
+    "english": ["to stay as a guest"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "tuttu",
+    "english": ["caribou"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "tuttuqpak",
+    "english": ["horse"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "ugruk",
+    "english": ["bearded seal", "<em>Erignathus barbatus</em>"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "uin~Gaq-",
+    "english": ["to be sleepy"],
+    "pos": ["v-i"]
+},
+
+{   "inupiatun": "ukallIq",
+    "english": ["rabbit", "<em>Oryctolagus cuniculus</em>"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "ukpik",
+    "english": ["snowy owl", "<em>Nyctea scandiaca</em>"],
+    "pos": ["n"]
+},
+
+
+
+
+
+{   "inupiatun": "+qpak-",
+    "english": ["...a lot", "...in a big way", "[intensifier]"],
+    "pos": ["postbase-vv"]
+},
+
+{   "inupiatun": "+qpak-",
+    "english": ["a big..."],
+    "pos": ["postbase-nn"]
+},
+
+{   "inupiatun": "+qpaGnIaq-",
+    "english": ["will have a large..."],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": "+qpain~n~Iaq-",
+    "english": ["will not have a large..."],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": "+qpaIt-",
+    "english": ["to not have a large..."],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": "+qpaqaq-",
+    "english": ["to have a large..."],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": "+[s]uk-",
+    "english": ["to want to..."],
+    "pos": ["postbase-vv"]
+},
+
+{   "inupiatun": "+[s]uNniaNIt",
+    "english": ["will not want to..."],
+    "pos": ["postbase-comb-vv"]
+},
+
+{   "inupiatun": "+[s]uNnIaq-",
+    "english": ["will want to..."],
+    "pos": ["postbase-comb-vv"]
+},
+
+{   "inupiatun": "+[t]aGuguu-",
+    "english": ["always wants to use...", "always willing to use..."],
+    "pos": ["postbase-comb-nv"]
+},
+
+{   "inupiatun": "+vIk",
+    "english": [
+        "place for...", "time for...", "source of...", "provider of...", 
+	"container for..."
+    ],
+    "pos": ["postbase-vn"]
+},
+
+]
+
+
+/** Templates
+
+{   "inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
+
+*/
