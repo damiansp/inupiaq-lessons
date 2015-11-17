@@ -1,0 +1,358 @@
+[
+
+{   "inupiatun": "aasii(n~)",
+    "english": ["and", "and then"],
+    "pos": ["conj"]
+},
+
+{   "inupiatun": "aglaan",
+    "english": ["but", "however"],
+    "pos": ["conj"]
+},
+
+{   "inupiatun": "ag.g.I-",
+    "english": ["to hold an In~upiaq dance"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "anIIq-",
+    "english": ["to be outside"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "aNaiyyu-",
+    "english": ["to pray"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "aNaiyyuvIk",
+    "english": ["church"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "aquppI-",
+    "english": ["to be sitting"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "aquppIutaq",
+    "english": ["chair"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "aullaq-",
+    "english": ["to leave", "to depart"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "Atqasuk",
+    "english": ["Atqasuk (city in the North Slope Borough, AK)"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "il.aannI",
+    "english": ["sometimes", "now and then", "at some time in the future"],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "in~uu-",
+    "english": ["to live", "to reside"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "isaguti-",
+    "english": ["to begin"],
+    "pos": ["vi", "vt"]
+},
+
+{   "inupiatun": "isig.mIu-",
+    "english": ["to be inside"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "it-",
+    "english": ["to be", "to exist"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "ivvaq-",
+    "english": ["to take a bath", "to give (sb/st) a bath"],
+    "pos": ["vi", "vt"]
+},
+
+{   "inupiatun": "ivvag.vIk",
+    "english": ["bathtub"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "makit-",
+    "english": ["to stand up"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "makita-",
+    "english": ["to be standing"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "miNuaqtuq-",
+    "english": ["to attend school"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "miNuaqtug.vIk",
+    "english": ["school"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "naluk-",
+    "english": ["to swim (of marine mammals)"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "nig.irag.aa.g.vIk",
+    "english": ["coffeeshop", "cafeteria"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "nullaq-",
+    "english": ["to camp overnight"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "nullag.vIk",
+    "english": ["hotel", "overnight camp"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "Nuiqsat",
+    "english": ["Nuiqsut (city in North Slope, AK)"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "Nuvuk",
+    "english": ["Point Barrow (place in North Slope, AK)"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "paqit-",
+    "english": ["to find (st)"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "Pig.niQ",
+    "english": ["Birnik (place in North Slope, AK)"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "piuraaq",
+    "english": ["toy"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "piuraaq-",
+    "english": ["to play"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "qakI-",
+    "english": ["to climb out of water"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "Qikiqtag.ruk",
+    "english": ["Kotzebue (city in Northwest Arctic, AK)"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "qiruk",
+    "english": ["wood", "piece of wood"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "qiruIt",
+    "english": ["lumber", "pieces of wood"],
+    "pos": ["n-pl"]
+},
+
+{   "inupiatun": "saNNI-",
+    "english": ["to be strong"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "tag.Iuq",
+    "english": ["salt", "ocean"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "tauqsIq-",
+    "english": ["to buy (st)", "to purchase (st)"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "tauqsig.n~iag.vIk",
+    "english": ["store"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "Tikig.aQ",
+    "english": ["Point Hope (city in North Slope, AK)"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "tiNNutiqag.vIk",
+    "english": ["hangar"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "tusaa-",
+    "english": ["to hear (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "Ulg.uniQ",
+    "english": ["Wainwright (city in North Slope, AK)"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "unnuaq",
+    "english": ["last night", "night"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "unnuamI",
+    "english": ["at night", "during the night"],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "uqil.a-",
+    "english": ["to be a fast runner"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "Utqiag.vIk",
+    "english": ["Barrow (city in North Slope, AK)"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "uvlaaq",
+    "english": ["morning", "this morning"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "uvlaamI",
+    "english": ["in the morning", "during the morning"],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "uvluq",
+    "english": ["day"],
+    "pos": ["n"]
+},
+
+{   "inupiatun": "uvlupak",
+    "english": ["today"],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "-lIuq-",
+    "english": [
+        "to make a...", "to build a...", "to create a...", 
+	"to make a... (for)", "to build a... (for)", "to create a... (for)",
+	"to cook or prepare... (food or drink)"
+    ],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "-Lhaaq-",
+    "english": ["to be the most...", "to be the ...-est"],
+    "pos": ["pb-vv"]
+},
+
+{   "inupiatun": "/miit-",
+    "english": ["to be located at/on/in a..."],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "/min~Naq-",
+    "english": ["to be coming from..."],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "/muk-",
+    "english": ["to go to a...", "to set/place (sb/st) in a..."],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "+[s]uu-",
+    "english": ["always...", "regularly...", "usually..."],
+    "pos": ["pb-vv"]
+},
+
+{   "inupiatun": "-lIug.nIaq-",
+    "english": [
+        "will make/build/create a....", "will make/build/create a... (for)",
+	"will cook/prepare... (food or drink)"
+    ],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "-lIug.uk-",
+    "english": [
+        "wants to make/build/create a...", 
+	"wants to make/build create a ... (for)", 
+	"wants to cook/prepare... (food or drink)"
+    ],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "-lIug.uu-",
+    "english": [
+        "always makes/builds/creates a...", 
+	"always makes/builds/creates a... (for)",
+	"always cooks/prepares... (food or drink)"
+    ],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "-lIulaIt-",
+    "english": [
+        "never/cannot make/build/create a...", 
+	"never/cannot make/build/create a... (for)",
+	"never/cannot cook/prepare... (food or drink)"
+    ],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "-lIulla-",
+    "english": [
+        "can make/build/create a...", 
+	"can make/build/create a... (for)",
+	"can cook/prepare... (food or drink)"
+    ],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "/mI",
+    "english": ["at", "located at", "[locative case marker]"],
+    "pos": ["pb-np"]
+},
+
+{   "inupiatun": "/min~",
+    "english": ["from", "[ablative case marker]"],
+    "pos": ["pb-np"]
+},
+
+{   "inupiatun": "/mun",
+    "english": ["to", "[terminalis case marker]"],
+    "pos": ["pb-np"]
+}
+
+]
+
+/** Templates
+
+{   "inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
