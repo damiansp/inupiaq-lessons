@@ -1,0 +1,226 @@
+[
+
+{   "inupiatun": "agmaq-",
+    "english": ["to open"],
+    "pos": ["vt", "vi"]
+},
+
+{   "inupiatun": "aNmaq-",
+    "english": ["to open"],
+    "pos": ["vt", "vi"]
+},
+
+{   "inupiatun": "aluk-",
+    "english": ["to lick (st) up"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "apiqsruq-",
+    "english": ["to ask (sb)"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "apig.i-",
+    "english": ["to ask (sb)"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "apiqsrI-",
+    "english": ["to ask"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "ati-",
+    "english": ["to put (st) on"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "igit-",
+    "english": ["to throw (st)", "to cast (st) away"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "igitchI-",
+    "english": ["to throw", "to cast away"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "il.isima-",
+    "english": ["to know (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "il.l.iaqsuq-",
+    "english": ["to comb one's (own) hair", "to comb (sb's) hair"],
+    "pos": ["vt", "vi"]
+},
+
+{   "inupiatun": "in~i-",
+    "english": ["to hang (st) on a line"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "in~irI-",
+    "english": ["to hang on a line"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "in~isI-",
+    "english": ["to hang on a line"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "iriq-",
+    "english": ["to hide", "to hide (st)"],
+    "pos": ["vi", "vt"]
+},
+
+{   "inupiatun": "iriqsI-",
+    "english": ["to hide"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "kaNiqsI-",
+    "english": ["to understand", "to understand (sb/st)"],
+    "pos": ["vt", "vi"]
+},
+
+{   "inupiatun": "makpig.aat",
+    "english": ["books", "papers"],
+    "pos": ["n-pl"]
+},
+
+{   "inupiatun": "maqpig.aat",
+    "english": ["books", "papers"],
+    "pos": ["n-pl"]
+},
+
+{   "inupiatun": "nakuag.i",
+    "english": ["to love (sb/st)", "to like (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "qin~iq-",
+    "english": ["to watch (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "qin~iqpak-",
+    "english": ["to stare at (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "tuqu-",
+    "english": ["to die"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "tuqut-",
+    "english": ["to kill (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "inupiatun": "tuqutchI-",
+    "english": ["to kill"],
+    "pos": ["vi"]
+},
+
+{   "inupiatun": "/muuti-",
+    "english": ["to take (sb/st) to a...."],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "/muutinIaq-",
+    "english": ["will take (sb/st) to a...", "will be taken to a..."],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "/muutisuk-",
+    "english": ["to want to take (sb/st) to a..."],
+    "pos": ["pb-nv"]
+},
+
+{   "inupiatun": "+pauN / +vauN",
+    "english": ["does he/she/it... him/her/it?"],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+patku / +vatku",
+    "english": ["do those two... him/her/it?"],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+parruN / +varruN",
+    "english": ["do they... him/her/it?"],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+pagik / +vagik",
+    "english": ["does he/she/it... those two?"],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+patkik / +vatkik",
+    "english": ["do those two... those two?"],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+patigik / +vatigik",
+    "english": [
+        "do those two... those two?", "do they.. those two?", 
+	"do those two... them?"
+    ],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+patigiN / +vatigiN",
+    "english": ["do they... those two?", "do they... them?"],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+pagI / +vagI",
+    "english": ["does he/she/it... them?"],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+kaa / +gaa",
+    "english": ["he/she/it... him/her/it"],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+kaak / +gaak",
+    "english": ["those two... him/her/it"],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+kaat / +gaat",
+    "english": ["they... him/her/it"],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+kaIk / +gaIk",
+    "english": [
+       "he/she/it... those two", "those two... those two", "they... those two",
+        "those two... them"
+    ],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+kaIt / +gaIt",
+    "english": ["they... those two", "they... them"],
+    "pos": ["pb"]
+},
+
+{   "inupiatun": "+kaI / +gaI",
+    "english": ["he/she/it... them"],
+    "pos": ["pb"]
+}
+
+]
+
+
+{   "Inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
+
