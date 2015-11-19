@@ -1,0 +1,264 @@
+[
+
+{   "Inupiatun": "akkuaq-",
+    "english": ["to catch (sb/st) with the hands or arms"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "akkuaqsI-",
+    "english": ["to catch with the hands or arms"],
+    "pos": ["vi"]
+},
+
+{   "Inupiatun": "asIaq",
+    "english": ["berry", "fruit"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "avik-",
+    "english": ["to divide (st) in half"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "iglaq-",
+    "english": ["to laugh"],
+    "pos": ["vi"]
+},
+
+{   "Inupiatun": "iglaNa-",
+    "english": ["to smile", "to smile at (sb/st)"],
+    "pos": ["vi", "vt"]
+},
+
+{   "Inupiatun": "iglautigi-",
+    "english": ["to laugh at (sb)", "to laugh about (sb)"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "iglautikLIq-",
+    "english": ["to laugh at", "to laugh about"],
+    "pos": ["vi"]
+},
+
+{   "Inupiatun": "il.isaurrI",
+    "english": ["teacher"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "il.isauti-",
+    "english": ["to teach (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "il.isaurrI-",
+    "english": ["to teach"],
+    "pos": ["vi"]
+},
+
+{   "Inupiatun": "kalivit-",
+    "english": ["to get stuck", "to get (st) stuck"],
+    "pos": ["vi", "vt"]
+},
+
+{   "Inupiatun": "kataI-",
+    "english": ["to drop (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "katiqsruq-",
+    "english": ["to gather (st)", "to collect (st)", "to accumulate (st)"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "katiqsrI-",
+    "english": ["to gather", "to collect", "to accumulate"],
+    "pos": ["vi"]
+},
+
+{   "Inupiatun": "kia",
+    "english": ["who (relative case)"],
+    "pos": ["pn-rc"]
+},
+
+{   "Inupiatun": "kigmaq-",
+    "english": ["to bite (st) repeatedly"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "kin~a",
+    "english": ["who (absolutive and relative case)"],
+    "pos": ["pn-ac", "pn-rc"]
+},
+
+{   "Inupiatun": "kitkuk",
+    "english": ["who [two] (absolutive and relative case)"],
+    "pos": ["pn-ac", "pn-rc"]
+},
+
+{   "Inupiatun": "kitkut",
+    "english": ["who [all] (absolutive and relative case)"],
+    "pos": ["pn-ac", "pn-rc"]
+},
+
+{   "Inupiatun": "kunIk-",
+    "english": ["to kiss (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "masu",
+    "english": [
+        "Eskimo potato (the edible root of <em>Hedysarum alpinum</em>"
+    ],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "napaaqtuq",
+    "english": ["tree"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "nig.I-",
+    "english": ["to eat (st)"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "nig.ipkaq-",
+    "english": ["to feed (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "nig.ipkaI-",
+    "english": ["to feed"],
+    "pos": ["vi"]
+},
+
+{   "Inupiatun": "niviaqsIaq",
+    "english": ["young woman of marriageable age"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "nukatpIaq",
+    "english": ["young man of marriageable age"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "pIIq-",
+    "english": [
+        "to vanish", "to fade", "to be taken away", "to be removed", 
+	"to remove (st)"
+    ],
+    "pos": ["vi", "vt"]
+},
+
+{   "Inupiatun": "pIIqsI-",
+    "english": ["to remove"],
+    "pos": ["vi"]
+},
+
+{   "Inupiatun": "pisik-",
+    "english": [
+        "to hit (st) with a bullet, arrow, etc.", 
+	"so shoot (st) with a bullet, arrow, etc."
+    ],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "qaqquq-",
+    "english": [
+    	"to crack (st) with the teeth", 
+	"to crunch (st) with the teeth"
+    ],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "qavvIk",
+    "english": ["wolverine"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "qin~ig.aaq",
+    "english": ["picture", "photograph"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "quaq",
+    "english": ["frozen meat", "frozen fish"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "quaq-",
+    "english": [
+        "to eat raw frozen meat", "to eat raw frozen fish", 
+	"to eat (st) frozen"
+    ],
+    "pos": ["vi", "vt"]
+},
+
+{   "Inupiatun": "sauniQ",
+    "english": ["bone"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "suk",
+    "english": ["what [two] (absolutive and relative case)"],
+    "pos": ["pn-ac", "pn-rc"]
+},
+
+{   "Inupiatun": "sum",
+    "english": ["what (relative case)"],
+    "pos": ["pn-rc"]
+},
+
+{   "Inupiatun": "suna",
+    "english": ["what (absolutive case)"],
+    "pos": ["pn-ac"]
+},
+
+{   "Inupiatun": "sut",
+    "english": ["what [all] (absolutive and relative case)"],
+    "pos": ["pn-ac", "pn-rc"]
+},
+
+{   "Inupiatun": "taku-",
+    "english": ["to go and see how (sb/st) is doing"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "takuri-",
+    "english": ["to go and see how sb/st is doing"],
+    "pos": ["vi"]
+},
+
+{   "Inupiatun": "takusi-",
+    "english": ["to go and see how sb/st is doing"],
+    "pos": ["vi"]
+},
+
+{   "Inupiatun": "-lluataq",
+    "english": ["good...", "nice..."],
+    "pos": ["pb-nn"]
+},
+
+{   "Inupiatun": "-lluataq-",
+    "english": ["to do... very well", "to do... precisely or thoroughly"],
+    "pos": ["pb-vv"]
+},
+
+{   "Inupiatun": "+-qqayaq-",
+    "english": ["to almost..."],
+    "pos": ["pb-vv"]
+},
+
+{   "Inupiatun": "+-NItchaag.i-",
+    "english": ["to deliberately not..."],
+    "pos": ["pb-vv"]
+}
+
+]
+
+
+
+{   "Inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
