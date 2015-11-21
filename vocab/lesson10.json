@@ -1,0 +1,476 @@
+[
+
+{   "Inupiatun": "aapiyaq",
+    "english": ["elder brother"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "aatauraq",
+    "english": ["elder sister"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "aI-",
+    "english": ["to fetch (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "aitqan",
+    "english": ["mitten"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "allaQ",
+    "english": ["a tear", "a torn spot"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "alug.un",
+    "english": ["shoe", "sandal"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "amau",
+    "english": ["great-grandparent", "great-grandchild"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "anNiqpak",
+    "english": ["rubber boot"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "argaaq",
+    "english": ["glove"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "atikLuq",
+    "english": ["parka cover made of cloth"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "atulaaq",
+    "english": ["sock"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "atuNak",
+    "english": ["boot sole"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "avilaitqan",
+    "english": ["friend"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "in~ugiakIt-",
+    "english": ["to be few", "to not be enough"],
+    "pos": ["vi"]
+},
+
+{   "Inupiatun": "irgaak",
+    "english": ["(a pair of) eyeglasses"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "isig.vIk",
+    "english": ["parka ruff"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "kala",
+    "english": ["color"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "kamipiaq",
+    "english": ["In~upiaq fur boot"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "kiati",
+    "english": ["blouse"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "maktak",
+    "english": ["whale skin with blubber"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "nalu-",
+    "english": ["to not know (of sb/st)", "to be ignorant (of sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "nalauq",
+    "english": ["bleaced seal skin"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "nanmaun",
+    "english": ["backpack"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "nasauraq",
+    "english": ["headscarf", "kerchief"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "nasautaq",
+    "english": ["hat", "cap"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "niaqug.un",
+    "english": ["headband"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "nuliaq",
+    "english": ["wife"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "nuliaq-",
+    "english": ["to take a wife", "to marry (a woman)"],
+    "pos": ["vi", "vt"]
+},
+
+{   "Inupiatun": "panik",
+    "english": ["daughter"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "piayaaq",
+    "english": ["young animal", "baby animal"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "piiguq-",
+    "english": ["to forget", "to forget (sb/st)"],
+    "pos": ["vi", "vt"]
+},
+
+{   "Inupiatun": "puiguq-",
+    "english": ["to forget", "to forget (sb/st)"],
+    "pos": ["vi", "vt"]
+},
+
+{   "Inupiatun": "puukatauraq",
+    "english": ["handbag", "purse"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "qalig.uuraq",
+    "english": ["dress", "man's shirt"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "qauniq",
+    "english": ["color"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "qiNaq",
+    "english": ["nose", "house ventilator"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "qitiqLiag.un",
+    "english": ["ring"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "qulaag.un",
+    "english": ["top rim of a boot"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "quNusig.un",
+    "english": ["scarf", "neckscarf"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "qupak",
+    "english": ["trim (e.g., as on an article of clothing)"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "quppig.aaq",
+    "english": ["coat", "jacket without a hood"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "sin~i",
+    "english": [
+    	   "fur trim around the sleeve cuffs and bottom of a parka", 
+    	   "edge"
+    ],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "siNIq",
+    "english": ["bootstrap"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "siqin~g.uraq",
+    "english": ["watch", "clock"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "siun",
+    "english": ["ear"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "siutig.un",
+    "english": ["earring"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "tammaI-",
+    "english": [
+        "to lose st", "to lose (sb/st)", "to be unable to find (sb/st)"
+    ],
+    "pos": ["vi", "vt"]
+},
+
+{   "Inupiatun": "tayag.nig.un",
+    "english": ["bracelet"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "tuutauraq",
+    "english": ["button"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "tuvaaqan",
+    "english": ["spouse"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "ullak-",
+    "english": ["to approach (sb/st)", "to come to (sb/st)"],
+    "pos": ["vt"]
+},
+
+{   "Inupiatun": "uNasIk-",
+    "english": ["to be far away (in time or space)"],
+    "pos": ["vi"]
+},
+
+{   "Inupiatun": "upkuaq",
+    "english": ["door"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "upkuaq-",
+    "english": ["to be closed (of a door)", "to close (a door)"],
+    "pos": ["vi", "vt"]
+},
+
+{   "Inupiatun": "uvin~g.uq",
+    "english": ["t-shirt", "undershirt"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "uyamitquaq",
+    "english": ["necklace"],
+    "pos": ["n"]
+},
+
+{   "Inupiatun": "+pallIq- / +vallIq",
+    "english": ["to probably be"],
+    "pos": ["pb-vv"]
+},
+
+{   "Inupiatun": ":uti-",
+    "english": ["supply of...", "store of..."],
+    "pos": ["pb-nn"]
+},
+
+{   "Inupiatun": ":ItpallIq-",
+    "english": ["is probably without a..."],
+    "pos": ["pb-nv"]
+},
+
+{   "Inupiatun": ":Il.aitpallIq-",
+    "english": ["probably never without a..."],
+    "pos": ["pb-nv"]
+},
+
+{   "Inupiatun": ":ItchugniaqpallIq-",
+    "english": ["will probably want to be without a..."],
+    "pos": ["pb-nv"]
+},
+
+{   "Inupiatun": "+niaqpallIq-",
+    "english": ["will probably..."],
+    "pos": ["pb-vv"]
+},
+
+{   "Inupiatun": "+niaNItpallIq-",
+    "english": ["probably will not..."],
+    "pos": ["pb-vv"]
+},
+
+{   "Inupiatun": "-qallaitpallIq-",
+    "english": ["probably never has a...", "probably cannot have a..."],
+    "pos": ["pb-nv"]
+},
+
+{   "Inupiatun": "-qallavallIq-",
+    "english": ["can probably have a..."],
+    "pos": ["pb-nv"]
+},
+
+{   "Inupiatun": "+[s]ukpallIq-",
+    "english": ["probably want to..."],
+    "pos": ["pb-vv"]
+},
+
+{   "Inupiatun": "+[g]a",
+    "english": ["my thing"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": ":In / -n",
+    "english": ["your thing"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "'-k",
+    "english": ["his [two] things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-(k)ka",
+    "english": ["my [two] things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "'-(k)kin~",
+    "english": ["your [two] things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "+kpuk",
+    "english": ["our [the two of us'] thing"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "+kput",
+    "english": ["our thing"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "+ksI",
+    "english": ["your [all of you] thing"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "+ksik",
+    "english": ["your [you two's] thing"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "+ktik",
+    "english": ["their [those two's] own thing"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "+ktiN",
+    "english": ["their own thing"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-nI",
+    "english": ["his/her/its own thing(s)"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "[dual] +nI",
+    "english": ["his/her/its own [two] things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-Na / :a",
+    "english": ["his thing"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-Nak / :ak",
+    "english": ["their [those two's] thing"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-Nat / :at",
+    "english": ["their thing"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-NIk",
+    "english": [
+        "his [two] things", "their [those two's two] things", "their things"
+    ],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-NI(t)",
+    "english": ["their [those two's] things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-sI",
+    "english": ["your [all of you's] things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-sik",
+    "english": ["your [you two's] things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-tik",
+    "english": ["their [those two's] own things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-tin",
+    "english": ["your things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-tiN",
+    "english": ["their own things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-tka",
+    "english": ["my things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-vuk",
+    "english": ["our [the two of us'] things"],
+    "pos": ["pb"]
+},
+
+{   "Inupiatun": "-vut",
+    "english": ["our things"],
+    "pos": ["pb"]
+}
+
+]
+
+
+{   "Inupiatun": "",
+    "english": [""],
+    "pos": [""]
+},
