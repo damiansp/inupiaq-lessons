@@ -1,312 +1,312 @@
 [
 
-{   "Inupiatun": "aat-",
+{   "inupiatun": "aat-",
     "english": ["to deprive (sb/st)", "to take st away from (sb/st)"],
     "pos": ["vt"]
 },
 
-{   "Inupiatun": "aitchuq-",
+{   "inupiatun": "aitchuq-",
     "english": ["to give (sb) st"],
     "pos": ["vt"]
 },
 
-{   "Inupiatun": "kala",
+{   "inupiatun": "kala",
     "english": ["color", "crayon"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "kala-",
+{   "inupiatun": "kala-",
     "english": ["to color (st)"],
     "pos": ["vt"]
 },
 
-{   "Inupiatun": "qauniQ",
+{   "inupiatun": "qauni<small>Q</small>",
     "english": ["color", "crayon"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "nutaaq",
+{   "inupiatun": "nutaaq",
     "english": ["something new or fresh"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "payuk-",
+{   "inupiatun": "payuk-",
     "english": ["to bring food", "to bring food to (sb/st)"],
     "pos": ["vi", "vt"]
 },
 
 
-{   "Inupiatun": "pitquraq",
+{   "inupiatun": "pitquraq",
     "english": ["law"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "qaIt-",
+{   "inupiatun": "qa&#x026a;t-",
     "english": ["to give (sb/st) to sb"],
     "pos": ["vt"]
 },
 
-{   "Inupiatun": "qanusIq",
+{   "inupiatun": "qanus&#x026a;q",
     "english": ["what kind?"],
     "pos": ["pn"]
 },
 
-{   "Inupiatun": "qanusimik",
+{   "inupiatun": "qanusimik",
     "english": ["what kind? (modalis, singular)"],
     "pos": ["pn"]
 },
 
-{   "Inupiatun": "qanusign~ik",
+{   "inupiatun": "qanusig&#x00f1;ik",
     "english": ["what kind? (modalis, dual)"],
     "pos": ["pn"]
 },
 
-{   "Inupiatun": "qanusin~ik",
+{   "inupiatun": "qanusi&#x00f1;ik",
     "english": ["what kind? (modalis, plural)"],
     "pos": ["pn"]
 },
 
-{   "Inupiatun": "qavsIt",
+{   "inupiatun": "qavs&#x026a;t",
     "english": ["how many?"],
     "pos": ["pn"]
 },
 
-{   "Inupiatun": "qavsin~ik",
+{   "inupiatun": "qavsi&#x00f1;ik",
     "english": ["how many? (modalis)"],
     "pos": ["pn"]
 },
 
-{   "Inupiatun": "qitqatiguaq-",
+{   "inupiatun": "qitqatiguaq-",
     "english": ["to be right through the/their center"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "quliaqtuag.uti-",
+{   "inupiatun": "quliaqtua&#x0121;uti-",
     "english": ["to tell (sb) about st"],
     "pos": ["vt"]
 },
 
-{   "Inupiatun": "sanatu-",
+{   "inupiatun": "sanatu-",
     "english": ["to be clever"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "sil.l.aQ",
+{   "inupiatun": "si&#x1e37;&#x1e37;a<small>Q</small>",
     "english": ["something wide"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "Tanik",
+{   "inupiatun": "Tanik",
     "english": ["caucasian", "white person"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "tunI-",
+{   "inupiatun": "tun&#x026a;-",
     "english": ["to be sold", "to sell (st) to sb"],
     "pos": ["vi", "vt"]
 },
 
-{   "Inupiatun": "tunisivigi-",
+{   "inupiatun": "tunisivigi-",
     "english": ["to sell (sb) st"],
     "pos": ["vt"]
 },
 
-{   "Inupiatun": "tuyuq-",
+{   "inupiatun": "tuyuq-",
     "english": ["to write a letter", "to send (sb) st"],
     "pos": ["vi", "vt"]
 },
 
-{   "Inupiatun": "tuyug.i-",
+{   "inupiatun": "tuyu&#x0121;i-",
     "english": ["to send (sb/st)"],
     "pos": ["vt"]
 },
 
-{   "Inupiatun": "uqaq",
+{   "inupiatun": "uqaq",
     "english": ["tongue"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "uqaq-",
+{   "inupiatun": "uqaq-",
     "english": ["to talk"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "uqallauti-",
+{   "inupiatun": "uqallauti-",
     "english": ["to inform (sb)", "to tell (sb) of st"],
     "pos": ["vt"]
 },
 
-{   "Inupiatun": "uqallaurrI-",
+{   "inupiatun": "uqallaurr&#x026a;-",
     "english": ["to inform sb"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "uquati-",
+{   "inupiatun": "uquati-",
     "english": ["to talk to (sb) about st"],
     "pos": ["vt"]
 },
 
-{   "Inupiatun": "utuqqaQ",
+{   "inupiatun": "utuqqa<small>Q</small>",
     "english": ["something old"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "atausIq",
+{   "inupiatun": "ataus&#x026a;q",
     "english": ["one"],
     "pos": ["num"]
 },
 
-{   "Inupiatun": "malg.uk",
+{   "inupiatun": "mal&#x0121;uk",
     "english": ["two"],
     "pos": ["num"]
 },
 
-{   "Inupiatun": "piNasut",
+{   "inupiatun": "piNasut",
     "english": ["three"],
     "pos": ["num"]
 },
 
-{   "Inupiatun": "sisamat",
+{   "inupiatun": "sisamat",
     "english": ["four"],
     "pos": ["num"]
 },
 
-{   "Inupiatun": "tallimat",
+{   "inupiatun": "tallimat",
     "english": ["five"],
     "pos": ["num"]
 },
 
-{   "Inupiatun": "itchaksrat",
+{   "inupiatun": "itchaksrat",
     "english": ["six"],
     "pos": ["num"]
 },
 
-{   "Inupiatun": "tallimat malg.uk",
+{   "inupiatun": "tallimat mal&#x0121;uk",
     "english": ["seven"],
     "pos": ["num"]
 },
 
-{   "Inupiatun": "tallimat piNasut",
+{   "inupiatun": "tallimat piNasut",
     "english": ["eight"],
     "pos": ["num"]
 },
 
-{   "Inupiatun": "qulinNug.utail.at",
+{   "inupiatun": "qulinNu&#x0121;utai&#x1e37;at",
     "english": ["nine"],
     "pos": ["num"]
 },
 
-{   "Inupiatun": "qulit",
+{   "inupiatun": "qulit",
     "english": ["ten"],
     "pos": ["num"]
 },
 
-{   "Inupiatun": "kaviaq-",
+{   "inupiatun": "kaviaq-",
     "english": ["to be pink"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "kaviaqtaaq",
+{   "inupiatun": "kaviaqtaaq",
     "english": ["the color pink", "st pink"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "kavIq-",
+{   "inupiatun": "kav&#x026a;q-",
     "english": ["to be red"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "kavIqsaaq",
+{   "inupiatun": "kav&#x026a;qsaaq",
     "english": ["the color red", "st red"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "maNaq-",
+{   "inupiatun": "maNaq-",
     "english": ["to be black"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "maNaqtaaq",
+{   "inupiatun": "maNaqtaaq",
     "english": ["the color black", "st black"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "maNalaaq-",
+{   "inupiatun": "maNalaaq-",
     "english": ["to be grey"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "maNalaaq",
+{   "inupiatun": "maNalaaq",
     "english": ["the color grey", "st grey"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "qatiq-",
+{   "inupiatun": "qatiq-",
     "english": ["to be white"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "qatiqtaaq",
+{   "inupiatun": "qatiqtaaq",
     "english": ["the color white", "st white"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "quqsuq-",
+{   "inupiatun": "quqsuq-",
     "english": ["to be yellow"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "quqsuqtaaq",
+{   "inupiatun": "quqsuqtaaq",
     "english": ["the color yellow", "st yellow"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "siqin~n~aaqpalaaq-",
+{   "inupiatun": "siqi&#x00f1;&#x00f1;aaqpalaaq-",
     "english": ["to be orange"],
     "pos": ["to be orange"]
 },
 
-{   "Inupiatun": "siqin~n~aaqpalaa",
+{   "inupiatun": "siqi&#x00f1;&#x00f1;aaqpalaa",
     "english": ["the color orange", "st orange"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "suNaaq-",
+{   "inupiatun": "suNaaq-",
     "english": ["to be green"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "suNaaqtaaq",
+{   "inupiatun": "suNaaqtaaq",
     "english": ["the color green", "st green"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "suNauraaq-",
+{   "inupiatun": "suNauraaq-",
     "english": ["to be blue"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "suNauraaq",
+{   "inupiatun": "suNauraaq",
     "english": ["the color blue", "st blue"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "tigluuraq-",
+{   "inupiatun": "tigluuraq-",
     "english": ["to be purple"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "tigluuraqtaaq",
+{   "inupiatun": "tigluuraqtaaq",
     "english": ["the color purple", "st purple"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "tiNukpalaaq-",
+{   "inupiatun": "tiNukpalaaq-",
     "english": ["to be brown"],
     "pos": ["vi"]
 },
 
-{   "Inupiatun": "tiNukpalaa",
+{   "inupiatun": "tiNukpalaa",
     "english": ["the color brown", "st brown"],
     "pos": ["n"]
 }

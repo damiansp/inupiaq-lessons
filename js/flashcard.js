@@ -1,7 +1,12 @@
 var vocab, // a json object holiding the vocab
-    frontArray = [0], backArray = [0], // arrays of all items to appear on front and back of each card
-    inupiatunArray = [], englishArray = [], // arrays of all english and inupiatun terms (matched)
-    repFrontArray = [], repBackArray = []; // arrays holding items to be shown again
+    // arrays of all items to appear on front and back of each card
+    frontArray = [0], backArray = [0], 
+    // arrays of all english and inupiatun terms (matched)
+    inupiatunArray = [], englishArray = [],
+    // arrays holding items to be shown again
+    repFrontArray = [], repBackArray = [],
+    lessons = [],
+    maxCards = null;
 
 
 
@@ -9,32 +14,48 @@ var vocab, // a json object holiding the vocab
 $(document).ready(function() {
 
 
+// Create a function that does an Ajax call to load data for a lesson
+function loadLesson(lesson) {
+    $.ajax({ 
+        dataType: 'json',
+	url: './vocab/lesson' + lesson + '.json',
+	success: function(json) {
+	    vocab = json;
+	    for (k in vocab) {
+		inupiatunArray.push(vocab[k].inupiatun);
+		// Eng. may have multiple defs, if so split with br
+		var english = vocab[k].english;
+		if (Array.isArray(english)) {
+		    english = english.join('<br />');
+		}
+		englishArray.push(english);
+	    }
+	},
+	fail: function() {
+	    $('#load-error').show();
+	}
+    });
+};
+
 
 $('#load-button').on('click', function() {
-    // TO DO: When more chapters have been added, determine which and load only those chapters
-      
-    // Ajax call to load data
-    $.ajax({ dataType: 'json',
-	     url: './vocab/lesson01.json',
-	     success: function(json) {
-	         vocab = json;
-		 for (k in vocab) {
-		     inupiatunArray.push(vocab[k].inupiatun);
-		     // the english may have multiple defs, if so split with line breaks
-		     var english = vocab[k].english;
-		     if (Array.isArray(english)) { 
-			 english = english.join('<br />');
-		     }
-		     englishArray.push(english);
-		 }
-		 $('#chapter-load').hide();
-		 $('#options').fadeIn();
-	     },
-	     fail: function() {
-                 $('#load-error').show();
-	     }   });
+    // TO DO: When more chapters have been added, determine which and load only
+    // those chapters
+    $('input[name="lesson"]:checked').each(function() {
+	lessons.push(this.value);
+    });
+
+    for (lesson in lessons) {
+	loadLesson(lessons[lesson]);
+    }
+
+    // Transition to next screen
+    $('#chapter-load').hide();
+    $('#options').fadeIn();
 
 });
+
+
 
 $('#begin-button').on('click', function() {
     // Determine the front and back data to be shown
@@ -49,7 +70,7 @@ $('#begin-button').on('click', function() {
 	frontArray = inupiatunArray.concat(englishArray);
 	backArray = englishArray.concat(inupiatunArray);
     }/** else if (frontMatter == 'inupiatun-audio') {
-	 // TO DO: Add when audio data is available
+	 // TO DO: Add when audio data are available
       
 	 } */ else {
 	alert("I'm sorry, but the internets are broken");
@@ -133,6 +154,8 @@ function resample(array1, array2) {
 
 
 function populateCard() {
+    // TO DO: rescale font size according to length so cards do not become
+    // too large
     $('#front-datum').html(frontArray.pop());
     $('#back-datum').html(backArray.pop());
 };

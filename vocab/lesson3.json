@@ -1,11 +1,11 @@
 [
 
-{   "inupiatun": "akin~",
+{   "inupiatun": "aki&#x00f1;",
     "english": ["pillow"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "anIu",
+{   "inupiatun": "an&#x026a;u",
     "english": ["packed snow good for melting into drinking water"],
     "pos": ["n"]
 },
@@ -15,7 +15,7 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "aquppI-",
+{   "inupiatun": "aqupp&#x026a;-",
     "english": ["to be sitting", "to be sitting on (sb/st)"],
     "pos": ["v-i", "v-t"]
 },
@@ -25,7 +25,7 @@
     "pos": ["v-i", "v-t"]
 },
 
-{   "inupiatun": "atiQ",
+{   "inupiatun": "ati<small>Q</small>",
     "english": ["name", "namesake"],
     "pos": ["n"]
 },
@@ -40,27 +40,27 @@
     "pos": ["adv-dem"]
 },
 
-{   "inupiatun": "il.It-",
+{   "inupiatun": "i&#x1e37;&#x026a;t-",
     "english": ["to learn (st)"],
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "il.itchI-",
+{   "inupiatun": "i&#x1e37;itch&#x026a;-",
     "english": ["to learn"],
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "imiQ",
+{   "inupiatun": "imi<small>Q</small>",
     "english": ["drinking water", "alcoholic beverage"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "imiQ-",
+{   "inupiatun": "imi<small>Q</small>-",
     "english": ["to drink (st)"],
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "in~ugIak-",
+{   "inupiatun": "i&#x00f1;ug&#x026a;ak-",
     "english": ["to be many", "to be numerous"],
     "pos": ["v-i"]
 },
@@ -70,12 +70,12 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "kukIu-",
+{   "inupiatun": "kuk&#x026a;u-",
     "english": ["to cook (st)"],
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "mannIk",
+{   "inupiatun": "mann&#x026a;k",
     "english": ["egg"],
     "pos": ["n"]
 },
@@ -103,27 +103,27 @@
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "natiQ",
+{   "inupiatun": "nati<small>Q</small>",
     "english": ["floor"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "natiQ-",
+{   "inupiatun": "nati<small>Q</small>-",
     "english": ["to install a floor in (st)", "to put a floor in (st)"],
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "naumI",
+{   "inupiatun": "naum&#x026a;",
     "english": ["no", "negative"],
     "pos": ["excl"]
 },
 
-{   "inupiatun": "niksIk",
+{   "inupiatun": "niks&#x026a;k",
     "english": ["fishing hook"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "niksIk-",
+{   "inupiatun": "niks&#x026a;k-",
     "english": ["to hook (st)"],
     "pos": ["v-t"]
 },
@@ -138,14 +138,14 @@
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "pign~a",
+{   "inupiatun": "pig&#x00f1;a",
     "english": [
         "that one up there [visible, stationary, not a long, thin object"
     ],
     "pos": ["adv-dem"]
 },
 
-{   "inupiatun": "pil.uk-",
+{   "inupiatun": "pi&#x1e37;uk-",
     "english": ["to be bad", "to not be nice"],
     "pos": ["v-i"]
 },
@@ -165,7 +165,7 @@
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "siqin~iQ",
+{   "inupiatun": "siqi&#x00f1;i<small>Q</small>",
     "english": ["sun"],
     "pos": ["n"]
 },
@@ -180,7 +180,7 @@
     "pos": ["v-i", "v-t"]
 },
 
-{   "inupiatun": "suNIt-",
+{   "inupiatun": "su&#x014b;&#x026a;t-",
     "english": [
         "to not do anything", "to not say anything", 
     	"to not do anything to (sb/st)"
@@ -195,17 +195,17 @@
     "pos": ["pn-dem"]
 },
 
-{   "inupiatun": "tatqIq",
+{   "inupiatun": "tatq&#x026a;q",
     "english": ["moon"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "tupiQ",
+{   "inupiatun": "tupi<small>Q</small>",
     "english": ["tent"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "tupiQ-",
+{   "inupiatun": "tupi<small>Q</small>-",
     "english": [
         "to set up a tent", "to set up a tent for (sb/st)", 
 	"to put a tent over (sb/st)"
@@ -213,7 +213,7 @@
     "pos": ["v-i", "v-t"]
 },
 
-{   "inupiatun": "ulGu-",
+{   "inupiatun": "ul&#x0121;u-",
     "english": ["to fall", "to topple", "to tip over"],
     "pos": ["v-i"]
 },
@@ -235,7 +235,7 @@
     "pos": ["pn-dem"]
 },
 
-{   "inupiatun": "uvluGIaq",
+{   "inupiatun": "uvlu&#x0121;&#x026a;aq",
     "english": ["star"],
     "pos": ["n"]
 },
@@ -247,12 +247,7 @@
     "pos": ["adv-dem"]
 },
 
-
-
-
-
-
-{   "inupiatun": "-qaGniaq-",
+{   "inupiatun": "-qa&#x0121;niaq-",
     "english": ["will have"],
     "pos": ["postbase-comb-nv"]
 },
@@ -265,12 +260,12 @@
     "pos": ["postbase-nv"]
 },
 
-{   "inupiatun": ":In~n~iaq-",
+{   "inupiatun": ":&#x026a;&#x00f1;&#x00f1;iaq-",
     "english": ["will not have"],
     "pos": ["postbase-comb-nv"]
 },
 
-{   "inupiatun": ":It-",
+{   "inupiatun": ":&#x026a;t-",
     "english": ["to not have", "to not possess", "to not be wearing", "to not have on"],
     "pos": ["postbase-nv"]
 }

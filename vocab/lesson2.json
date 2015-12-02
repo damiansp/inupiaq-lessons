@@ -1,15 +1,15 @@
 [
-{   "inupiatun": "aaqhaalIt",
+{   "inupiatun": "aaqhaal&#x026a;t",
     "english": ["Oldsquaw ducks", "(<em>Clangula hyemalis</em>)"],
     "pos": "n-pl"
 },
 
-{   "inupiatun": "aGnat",
+{   "inupiatun": "a&#x0121;nat",
     "english": ["women"],
     "pos": "n-pl"
 },
 
-{   "inupiatun": "amaGuq",
+{   "inupiatun": "ama&#x0121;uq",
     "english": ["wolf"],
     "pos": "n"
 },
@@ -19,17 +19,17 @@
     "pos": "n-d"
 },
 
-{   "inupiatun": "anI-",
+{   "inupiatun": "an&#x026a;-",
     "english": ["to go out", "to exit", "to be born"],
     "pos": "v-i"
 },
 
-{   "inupiatun": "annIq-",
+{   "inupiatun": "ann&#x026a;q-",
     "english": ["to get hurt", "to hurt (sb/st)"],
     "pos": ["v-i", "v-t"]
 },
 
-{   "inupiatun": "aNu-",
+{   "inupiatun": "a&#x014b;u-",
     "english": [
         "to get", "to catch a game animal", "to catch up with (sb/st)",
     	"to reach (sb's) height"
@@ -37,7 +37,7 @@
     "pos": ["v-i", "v-t"]
 },
 
-{   "inupiatun": "aNutik",
+{   "inupiatun": "a&#x014b;utik",
     "english": ["[two] men"],
     "pos": ["n-d"]
 },
@@ -47,7 +47,7 @@
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "aqparvIk",
+{   "inupiatun": "aqparv&#x026a;k",
     "english": ["track (for running)", "place to run"],
     "pos": ["n"]
 },
@@ -77,7 +77,7 @@
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "iggavIk",
+{   "inupiatun": "iggav&#x026a;k",
     "english": ["kitchen"],
     "pos": ["n"]
 },
@@ -92,17 +92,17 @@
     "pos": ["n-d"]
 },
 
-{   "inupiatun": "ign~a",
+{   "inupiatun": "ig&#x00f1;a",
     "english": ["that one over there [visible, stationary"],
     "pos": ["pn"]
 },
 
-{   "inupiatun": "iGGI",
+{   "inupiatun": "i&#x0121;&#x0121;&#x026a;",
     "english": ["mountain"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "iGGIt",
+{   "inupiatun": "i&#x0121;&#x0121;&#x026a;t",
     "english": ["mountains"],
     "pos": ["n-pl"]
 },
@@ -112,19 +112,19 @@
     "pos": ["v-t", "v-i"]
 },
 
-{   "inupiatun": "il.I-",
+{   "inupiatun": "i&#x1e37;&#x026a;-",
     "english": [
         "to put (st) in a store for sale", "to place (sb/st somewhere)"
     ],
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "il.isaq-",
+{   "inupiatun": "i&#x1e37;isaq-",
     "english": ["to study (st)", "to practice (st)"],
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "ilisI-",
+{   "inupiatun": "ilis&#x026a;-",
     "english": ["to place st somewhere"],
     "pos": ["v-i"]
 },
@@ -159,7 +159,7 @@
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "isiqsI-",
+{   "inupiatun": "isiqs&#x026a;-",
     "english": ["to bring sb/st inside"],
     "pos": ["v-i"]
 },
@@ -184,7 +184,7 @@
     "pos": ["v-i", "v-t"]
 },
 
-{   "inupiatun": "makitchI-",
+{   "inupiatun": "makitch&#x026a;-",
     "english": ["to stand st upright"],
     "pos": ["v-i"]
 },
@@ -204,7 +204,7 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "naumI",
+{   "inupiatun": "naum&#x026a;",
     "english": ["no"],
     "pos": ["excl"]
 },
@@ -214,12 +214,12 @@
     "pos": ["excl"]
 },
 
-{   "inupiatun": "niGI-",
+{   "inupiatun": "ni&#x0121;&#x026a;-",
     "english": ["to eat (st)"],
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "niGGivIk",
+{   "inupiatun": "ni&#x0121;&#x0121;iv&#x026a;k",
     "english": ["(dining) table"],
     "pos": ["n"]
 },
@@ -239,12 +239,12 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "paNalik-",
+{   "inupiatun": "pa&#x014b;alik-",
     "english": ["to run (on all fours)", "to gallop"],
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "pil.ak-",
+{   "inupiatun": "pi&#x1e37;ak-",
     "english": ["to flense", "to butcher", "to cut (game, meat, etc.)"],
     "pos": ["v-i", "vt"]
 },
@@ -254,7 +254,7 @@
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "puqIk-",
+{   "inupiatun": "puq&#x026a;k-",
     "english": ["to be smart", "to be quick to learn"],
     "pos": ["v-i"]
 },
@@ -264,7 +264,7 @@
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "qaI-",
+{   "inupiatun": "qa&#x026a;-",
     "english": ["to come", "to come upon (sb/st)"],
     "pos": ["v-i", "v-t"]
 },
@@ -289,22 +289,22 @@
     "pos": ["n-d", "n-pl"]
 },
 
-{   "inupiatun": "qimmIk",
+{   "inupiatun": "qimm&#x026a;k",
     "english": ["[two] dogs"],
     "pos": ["n-d"]
 },
 
-{   "inupiatun": "qimmIq",
+{   "inupiatun": "qimm&#x026a;q",
     "english": ["dog"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "qimmIt",
+{   "inupiatun": "qimm&#x026a;t",
     "english": ["dogs"],
     "pos": ["n-pl"]
 },
 
-{   "inupiatun": "qivIaq-",
+{   "inupiatun": "qiv&#x026a;aq-",
     "english": [
         "to turn one's head to look", "to turn one's head to look at (sb/st)"
     ],
@@ -319,17 +319,17 @@
     "pos": [""]
 },
 
-{   "inupiatun": "siksrIIt",
+{   "inupiatun": "siksr&#x026a;&#x026a;t",
     "english": ["squirrels"],
     "pos": ["n-pl"]
 },
 
-{   "inupiatun": "siksrIk",
+{   "inupiatun": "siksr&#x026a;k",
     "english": ["squirrel"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "sukkIt-",
+{   "inupiatun": "sukk&#x026a;t-",
     "english": ["to step on a nail and cut oneself"],
     "pos": ["v-i"]
 },
@@ -339,7 +339,7 @@
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "tauqsIq-",
+{   "inupiatun": "tauqs&#x026a;q-",
     "english": ["to buy (st)"],
     "pos": ["v-t"]
 },
@@ -349,17 +349,17 @@
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "tikIt-",
+{   "inupiatun": "tik&#x026a;t-",
     "english": ["to arrive", "to reach (sb/st)"],
     "pos": ["v-i", "v-t"]
 },
 
-{   "inupiatun": "tiNi-",
+{   "inupiatun": "ti&#x014b;i-",
     "english": ["to fly away", "to take off (flight)", "to take flight"],
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "tiNNun",
+{   "inupiatun": "ti&#x014b;&#x014b;un",
     "english": ["airplane"],
     "pos": ["n"]
 },
@@ -374,12 +374,12 @@
     "pos": ["n-pl"]
 },
 
-{   "inupiatun": "tupiQ",
+{   "inupiatun": "tupi<small>Q</small>",
     "english": ["tent"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "tupiQ-",
+{   "inupiatun": "tupi<small>Q</small>-",
     "english": [
         "to set up a tent", "to set up a tent for (sb/st)", 
 	"to put a tent over (st)"
@@ -397,12 +397,12 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "umIaq",
+{   "inupiatun": "um&#x026a;aq",
     "english": ["boat"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "umIaq-",
+{   "inupiatun": "um&#x026a;aq-",
     "english": ["to take a boat and set up a whaling camp"],
     "pos": ["v-i"]
 },
@@ -417,12 +417,12 @@
     "pos": ["encl"]
 },
 
-{   "inupiatun": "+niaNIt-",
+{   "inupiatun": "+nia&#x014b;&#x026a;t-",
     "english": ["will not"],
     "pos": ["vv"]
 },
 
-{   "inupiatun": "+nIaq-",
+{   "inupiatun": "+n&#x026a;aq-",
     "english": ["will"],
     "pos": ["vv"]
 },
@@ -442,12 +442,12 @@
     "pos": ["v-end"]
 },
 
-{   "inupiatun": "+saaGi-",
+{   "inupiatun": "+saa&#x0121;i-",
     "english": ["deliberately", "purposely"],
     "pos": ["vv"]
 },
 
-{   "inupiatun": "+saaGiNIt-",
+{   "inupiatun": "+saa&#x0121;i&#x014b;&#x026a;t-",
     "english": ["not deliberately", "not intentionally"],
     "pos": ["vv"]
 },

@@ -1,6 +1,6 @@
 [
 
-{   "inupiatun": "aasii(n~)",
+{   "inupiatun": "aasii(&#x00f1;)",
     "english": ["and", "and then"],
     "pos": ["conj"]
 },
@@ -10,32 +10,32 @@
     "pos": ["conj"]
 },
 
-{   "inupiatun": "ag.g.I-",
-    "english": ["to hold an In~upiaq dance"],
+{   "inupiatun": "a&#x0121;&#x0121;&#x026a;-",
+    "english": ["to hold an I&#x00f1;upiaq dance"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "anIIq-",
+{   "inupiatun": "an&#x026a;&#x026a;q-",
     "english": ["to be outside"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "aNaiyyu-",
+{   "inupiatun": "a&#x014b;aiyyu-",
     "english": ["to pray"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "aNaiyyuvIk",
+{   "inupiatun": "a&#x014b;aiyyuv&#x026a;k",
     "english": ["church"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "aquppI-",
+{   "inupiatun": "aqupp&#x026a;-",
     "english": ["to be sitting"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "aquppIutaq",
+{   "inupiatun": "aqupp&#x026a;utaq",
     "english": ["chair"],
     "pos": ["n"]
 },
@@ -50,12 +50,12 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "il.aannI",
+{   "inupiatun": "i&#x1e37;aann&#x026a;",
     "english": ["sometimes", "now and then", "at some time in the future"],
     "pos": ["adv"]
 },
 
-{   "inupiatun": "in~uu-",
+{   "inupiatun": "i&#x00f1;uu-",
     "english": ["to live", "to reside"],
     "pos": ["vi"]
 },
@@ -65,7 +65,7 @@
     "pos": ["vi", "vt"]
 },
 
-{   "inupiatun": "isig.mIu-",
+{   "inupiatun": "isi&#x0121;m&#x026a;u-",
     "english": ["to be inside"],
     "pos": ["vi"]
 },
@@ -80,7 +80,7 @@
     "pos": ["vi", "vt"]
 },
 
-{   "inupiatun": "ivvag.vIk",
+{   "inupiatun": "ivva&#x0121;v&#x026a;k",
     "english": ["bathtub"],
     "pos": ["n"]
 },
@@ -95,12 +95,12 @@
     "pos": ["vi"]
 },
 
-{   "inupiatun": "miNuaqtuq-",
+{   "inupiatun": "mi&#x014b;uaqtuq-",
     "english": ["to attend school"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "miNuaqtug.vIk",
+{   "inupiatun": "mi&#x014b;uaqtu&#x0121;v&#x026a;k",
     "english": ["school"],
     "pos": ["n"]
 },
@@ -110,7 +110,7 @@
     "pos": ["vi"]
 },
 
-{   "inupiatun": "nig.irag.aa.g.vIk",
+{   "inupiatun": "ni&#x0121;ira&#x0121;aa.&#x0121;v&#x026a;k",
     "english": ["coffeeshop", "cafeteria"],
     "pos": ["n"]
 },
@@ -120,7 +120,7 @@
     "pos": ["vi"]
 },
 
-{   "inupiatun": "nullag.vIk",
+{   "inupiatun": "nulla&#x0121;v&#x026a;k",
     "english": ["hotel", "overnight camp"],
     "pos": ["n"]
 },
@@ -140,7 +140,7 @@
     "pos": ["vt"]
 },
 
-{   "inupiatun": "Pig.niQ",
+{   "inupiatun": "Pi&#x0121;ni<small>Q</small>",
     "english": ["Birnik (place in North Slope, AK)"],
     "pos": ["n"]
 },
@@ -155,12 +155,12 @@
     "pos": ["vi"]
 },
 
-{   "inupiatun": "qakI-",
+{   "inupiatun": "qak&#x026a;-",
     "english": ["to climb out of water"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "Qikiqtag.ruk",
+{   "inupiatun": "Qikiqta&#x0121;ruk",
     "english": ["Kotzebue (city in Northwest Arctic, AK)"],
     "pos": ["n"]
 },
@@ -170,37 +170,37 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "qiruIt",
+{   "inupiatun": "qiru&#x026a;t",
     "english": ["lumber", "pieces of wood"],
     "pos": ["n-pl"]
 },
 
-{   "inupiatun": "saNNI-",
+{   "inupiatun": "sa&#x014b;&#x014b;&#x026a;-",
     "english": ["to be strong"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "tag.Iuq",
+{   "inupiatun": "ta&#x0121;&#x026a;uq",
     "english": ["salt", "ocean"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "tauqsIq-",
+{   "inupiatun": "tauqs&#x026a;q-",
     "english": ["to buy (st)", "to purchase (st)"],
     "pos": ["vt"]
 },
 
-{   "inupiatun": "tauqsig.n~iag.vIk",
+{   "inupiatun": "tauqsi&#x0121;&#x00f1;ia&#x0121;v&#x026a;k",
     "english": ["store"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "Tikig.aQ",
+{   "inupiatun": "Tiki&#x0121;a<small>Q</small>",
     "english": ["Point Hope (city in North Slope, AK)"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "tiNNutiqag.vIk",
+{   "inupiatun": "ti&#x014b;&#x014b;utiqa&#x0121;v&#x026a;k",
     "english": ["hangar"],
     "pos": ["n"]
 },
@@ -210,7 +210,7 @@
     "pos": ["vt"]
 },
 
-{   "inupiatun": "Ulg.uniQ",
+{   "inupiatun": "Ul&#x0121;uni<small>Q</small>",
     "english": ["Wainwright (city in North Slope, AK)"],
     "pos": ["n"]
 },
@@ -220,17 +220,17 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "unnuamI",
+{   "inupiatun": "unnuam&#x026a;",
     "english": ["at night", "during the night"],
     "pos": ["adv"]
 },
 
-{   "inupiatun": "uqil.a-",
+{   "inupiatun": "uqi&#x1e37;a-",
     "english": ["to be a fast runner"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "Utqiag.vIk",
+{   "inupiatun": "Utqia&#x0121;v&#x026a;k",
     "english": ["Barrow (city in North Slope, AK)"],
     "pos": ["n"]
 },
@@ -240,7 +240,7 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "uvlaamI",
+{   "inupiatun": "uvlaam&#x026a;",
     "english": ["in the morning", "during the morning"],
     "pos": ["adv"]
 },
@@ -255,7 +255,7 @@
     "pos": ["adv"]
 },
 
-{   "inupiatun": "-lIuq-",
+{   "inupiatun": "-l&#x026a;uq-",
     "english": [
         "to make a...", "to build a...", "to create a...", 
 	"to make a... (for)", "to build a... (for)", "to create a... (for)",
@@ -264,22 +264,22 @@
     "pos": ["pb-nv"]
 },
 
-{   "inupiatun": "-Lhaaq-",
+{   "inupiatun": "-&#x0142;haaq-",
     "english": ["to be the most...", "to be the ...-est"],
     "pos": ["pb-vv"]
 },
 
-{   "inupiatun": "/miit-",
+{   "inupiatun": "&#247;miit-",
     "english": ["to be located at/on/in a..."],
     "pos": ["pb-nv"]
 },
 
-{   "inupiatun": "/min~Naq-",
+{   "inupiatun": "&#247;mi&#x00f1;&#x014b;aq-",
     "english": ["to be coming from..."],
     "pos": ["pb-nv"]
 },
 
-{   "inupiatun": "/muk-",
+{   "inupiatun": "&#247;muk-",
     "english": ["to go to a...", "to set/place (sb/st) in a..."],
     "pos": ["pb-nv"]
 },
@@ -289,7 +289,7 @@
     "pos": ["pb-vv"]
 },
 
-{   "inupiatun": "-lIug.nIaq-",
+{   "inupiatun": "-l&#x026a;u&#x0121;n&#x026a;aq-",
     "english": [
         "will make/build/create a....", "will make/build/create a... (for)",
 	"will cook/prepare... (food or drink)"
@@ -297,7 +297,7 @@
     "pos": ["pb-nv"]
 },
 
-{   "inupiatun": "-lIug.uk-",
+{   "inupiatun": "-l&#x026a;u&#x0121;uk-",
     "english": [
         "wants to make/build/create a...", 
 	"wants to make/build create a ... (for)", 
@@ -306,7 +306,7 @@
     "pos": ["pb-nv"]
 },
 
-{   "inupiatun": "-lIug.uu-",
+{   "inupiatun": "-l&#x026a;u&#x0121;uu-",
     "english": [
         "always makes/builds/creates a...", 
 	"always makes/builds/creates a... (for)",
@@ -315,7 +315,7 @@
     "pos": ["pb-nv"]
 },
 
-{   "inupiatun": "-lIulaIt-",
+{   "inupiatun": "-l&#x026a;ula&#x026a;t-",
     "english": [
         "never/cannot make/build/create a...", 
 	"never/cannot make/build/create a... (for)",
@@ -324,7 +324,7 @@
     "pos": ["pb-nv"]
 },
 
-{   "inupiatun": "-lIulla-",
+{   "inupiatun": "-l&#x026a;ulla-",
     "english": [
         "can make/build/create a...", 
 	"can make/build/create a... (for)",
@@ -333,17 +333,17 @@
     "pos": ["pb-nv"]
 },
 
-{   "inupiatun": "/mI",
+{   "inupiatun": "&#247;m&#x026a;",
     "english": ["at", "located at", "[locative case marker]"],
     "pos": ["pb-np"]
 },
 
-{   "inupiatun": "/min~",
+{   "inupiatun": "&#247;mi&#x00f1;",
     "english": ["from", "[ablative case marker]"],
     "pos": ["pb-np"]
 },
 
-{   "inupiatun": "/mun",
+{   "inupiatun": "&#247;mun",
     "english": ["to", "[terminalis case marker]"],
     "pos": ["pb-np"]
 }

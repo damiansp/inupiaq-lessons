@@ -1,116 +1,116 @@
 [
 
-{   "Inupiatun": "qakugu",
+{   "inupiatun": "qakugu",
     "english": ["when (future)"],
     "pos": ["adv"]
 },
 
-{   "Inupiatun": "qaNa",
+{   "inupiatun": "qa&#x014b;a",
     "english": ["when (past)"],
     "pos": ["adv"]
 },
 
-{   "Inupiatun": "aaqagu",
+{   "inupiatun": "aaqagu",
     "english": ["later on (in the same day)"],
     "pos": ["adv"]
 },
 
-{   "Inupiatun": "aannagu",
+{   "inupiatun": "aannagu",
     "english": ["later on (in the same day)"],
     "pos": ["adv"]
 },
 
-{   "Inupiatun": "*anaqa",
+{   "inupiatun": "*anaqa",
     "english": ["[evening root form--not used on its own]"],
     "pos": ["n-r"]
 },
 
-{   "Inupiatun": "anaqagu",
+{   "inupiatun": "anaqagu",
     "english": ["this (coming) evening"],
     "pos": ["np"]
 },
 
-{   "Inupiatun": "anaqaksrag.u",
+{   "inupiatun": "anaqaksra&#x0121;u",
     "english": ["this (coming) evening"],
     "pos": ["np"]
 },
 
-{   "Inupiatun": "anaqakramI",
+{   "inupiatun": "anaqakram&#x026a;",
     "english": ["in the evening"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "anaqaksraq",
+{   "inupiatun": "anaqaksraq",
     "english": ["evening", "last evening"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "anaqamI",
+{   "inupiatun": "anaqam&#x026a;",
     "english": ["in the evening"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "anaqapak",
+{   "inupiatun": "anaqapak",
     "english": ["during the whole evening (current or just ended)"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "ikpaksraq",
+{   "inupiatun": "ikpaksraq",
     "english": ["yesterday"],
     "pos": ["n", "adv"]
 },
 
-{   "Inupiatun": "ikpaksraag.u",
+{   "inupiatun": "ikpaksraa&#x0121;u",
     "english": ["in a few days"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "ikpaksraapak",
+{   "inupiatun": "ikpaksraapak",
     "english": ["during all these few days (current or just ended)"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "ikpaksraaq",
+{   "inupiatun": "ikpaksraaq",
     "english": ["a few days ago"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "ukiaq",
+{   "inupiatun": "ukiaq",
     "english": ["fall", "autumn", "last fall"],
     "pos": ["n", "adv"]
 },
 
-{   "Inupiatun": "ukiag.u",
+{   "inupiatun": "ukia&#x0121;u",
     "english": ["this (coming) fall"],
     "pos": ["n", "adv"]
 },
 
-{   "Inupiatun": "ukiamI",
+{   "inupiatun": "ukiam&#x026a;",
     "english": ["during the fall"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "ukiapak",
+{   "inupiatun": "ukiapak",
     "english": ["during all this fall (current or just ended)"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "ukiuq",
+{   "inupiatun": "ukiuq",
     "english": ["winter", "last winter", "year", "last year"],
     "pos": ["n", "adv"]
 },
 
-{   "Inupiatun": "ukiug.u",
+{   "inupiatun": "ukiu&#x0121;u",
     "english": ["this (coming) winter", "this (coming) year"],
     "pos": ["n", "adv"]
 },
 
-{   "Inupiatun": "ukiumI",
+{   "inupiatun": "ukium&#x026a;",
     "english": ["during the winter"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "ukiupak",
+{   "inupiatun": "ukiupak",
     "english": [
         "during all this winter (current or just ended)", 
 	"during all this year (current or just ended)"
@@ -118,182 +118,182 @@
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "unnuaq",
+{   "inupiatun": "unnuaq",
     "english": ["night", "last night"],
     "pos": ["n", "adv"]
 },
 
-{   "Inupiatun": "unnuag.u",
+{   "inupiatun": "unnua&#x0121;u",
     "english": ["this (coming) night", "tonight"],
     "pos": ["adv"]
 },
 
-{   "Inupiatun": "unnuamI",
+{   "inupiatun": "unnuam&#x026a;",
     "english": ["during the night"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "unnuapak",
+{   "inupiatun": "unnuapak",
     "english": ["during the whole night (current or just ended)"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "unnuaq",
+{   "inupiatun": "unnuaq",
     "english": ["midnight"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "qitiqqag.man",
+{   "inupiatun": "qitiqqa&#x0121;man",
     "english": ["midnight"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "uping.aaq",
+{   "inupiatun": "upin&#x0121;aaq",
     "english": ["summer", "last summer"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "uping.aag.u",
+{   "inupiatun": "upin&#x0121;aa&#x0121;u",
     "english": ["this (coming) summer"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "uping.aamI",
+{   "inupiatun": "upin&#x0121;aam&#x026a;",
     "english": ["during the summer"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "uping.aapak",
+{   "inupiatun": "upin&#x0121;aapak",
     "english": ["during the whole summer (current or just ended)"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "uping.aksraq",
+{   "inupiatun": "upin&#x0121;aksraq",
     "english": ["spring", "last spring"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "uping.aksrag.u",
+{   "inupiatun": "upin&#x0121;aksra&#x0121;u",
     "english": ["this (coming) spring"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "uping.aksramI",
+{   "inupiatun": "upin&#x0121;aksram&#x026a;",
     "english": ["during the spring"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "uping.aksrapak",
+{   "inupiatun": "upin&#x0121;aksrapak",
     "english": ["during the whole spring (current or just ended)"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "uvlaaq",
+{   "inupiatun": "uvlaaq",
     "english": ["morning", "this (past) morning"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "uvlaag.u",
+{   "inupiatun": "uvlaa&#x0121;u",
     "english": ["tomorrow morning"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "uvlaaku",
+{   "inupiatun": "uvlaaku",
     "english": ["tomorrow"],
     "pos": ["n", "adv"]
 },
 
-{   "Inupiatun": "uvlaamI",
+{   "inupiatun": "uvlaam&#x026a;",
     "english": ["during the morning", "tomorrow morning"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "uvlaapak",
+{   "inupiatun": "uvlaapak",
     "english": ["during the whole morning (current or just ended)"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "uvluq",
+{   "inupiatun": "uvluq",
     "english": ["day"],
     "pos": ["n"]
 },
 
-{   "Inupiatun": "uvlumI",
+{   "inupiatun": "uvlum&#x026a;",
     "english": ["during the day"],
     "pos": ["advp"]
 },
 
-{   "Inupiatun": "uvlupak",
+{   "inupiatun": "uvlupak",
     "english": ["during this day", "today"],
     "pos": ["adv", "advp"]
 },
 
-{   "Inupiatun": "+[g]u",
+{   "inupiatun": "+[g]u",
     "english": ["[indicates the next interval of time]"],
     "pos": ["pn-nn"]
 },
 
-{   "Inupiatun": "-llatu-",
+{   "inupiatun": "-llatu-",
     "english": ["to enjoy... -ing"],
     "pos": ["pb-vv"]
 },
 
-{   "Inupiatun": "+[s]ulaIt-",
+{   "inupiatun": "+[s]ula&#x026a;t-",
     "english": ["to not like to..."],
     "pos": ["pb-vv"]
 },
 
-{   "Inupiatun": "-rraqsI-",
+{   "inupiatun": "-rraqs&#x026a;-",
     "english": ["to begin to..."],
     "pos": ["pb-vv"]
 },
 
-{   "Inupiatun": "/mullatu-",
+{   "inupiatun": "&#247;mullatu-",
     "english": ["to enjoy going to the..."],
     "pos": ["pb-nv"]
 },
 
-{   "Inupiatun": "/mugulaIt-",
+{   "inupiatun": "&#247;mugula&#x026a;t-",
     "english": ["to not like to go to the..."],
     "pos": ["pb-nv"]
 },
 
-{   "Inupiatun": "/muutillatu-",
+{   "inupiatun": "&#247;muutillatu-",
     "english": ["to like taking sb/st to the..."],
     "pos": ["pb-nv"]
 },
 
-{   "Inupiatun": "/muutisulaIt-",
+{   "inupiatun": "&#247;muutisula&#x026a;t-",
     "english": ["to not like taking sb/st to the..."],
     "pos": ["pb-nv"]
 },
 
-{   "Inupiatun": "+piuN / +viuN",
+{   "inupiatun": "+piu&#x014b; / +viu&#x014b;",
     "english": ["do you... him/her/it?"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+pigik / +vigik",
+{   "inupiatun": "+pigik / +vigik",
     "english": ["do you... the two of them?"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+pigI / +vigI<br />+pigIt / +vigIt",
+{   "inupiatun": "+pig&#x026a; / +vig&#x026a;<br />+pig&#x026a;t / +vig&#x026a;t",
     "english": ["do you... them?"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+pitku / +vitku",
+{   "inupiatun": "+pitku / +vitku",
     "english": ["do you two... him/her/it?"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+pitkik / +vitkik",
+{   "inupiatun": "+pitkik / +vitkik",
     "english": ["do you two... the two of them?"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+pisigik / +visigik",
+{   "inupiatun": "+pisigik / +visigik",
     "english": [
         "do you two... them?", "do you all... them?", 
 	"do you two... the two of them?", "do you all... the two of them?"
@@ -301,22 +301,22 @@
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+pisiuN / +visiuN",
+{   "inupiatun": "+pisiu&#x014b; / +visiu&#x014b;",
     "english": ["do you all... him/her/it?"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+pisigiN / +visigiN",
+{   "inupiatun": "+pisigi&#x014b; / +visigi&#x014b;",
     "english": ["do you all... those two?", "do you all... them?"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+patin / +vatin",
+{   "inupiatun": "+patin / +vatin",
     "english": ["do those two... you?", "do they... you?" ],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+pasik / +vasik",
+{   "inupiatun": "+pasik / +vasik",
     "english": [
         "does he/she/it... you two?", "do those two... you two?", 
 	"do they... the two of us?"
@@ -324,7 +324,7 @@
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+pasI / +vasI",
+{   "inupiatun": "+pas&#x026a; / +vas&#x026a;",
     "english": [
         "does he/she/it... you all?", "do those two... you all?", 
 	"do they... you all?"
@@ -332,52 +332,52 @@
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+kiga / +giga",
+{   "inupiatun": "+kiga / +giga",
     "english": ["I... him/her/it"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+kika / +gika<br />+kikka / gikka",
+{   "inupiatun": "+kika / +gika<br />+kikka / gikka",
     "english": ["I... those two"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+kitka / +gitka",
+{   "inupiatun": "+kitka / +gitka",
     "english": ["I... them"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+kikpuk / +gikpuk",
+{   "inupiatun": "+kikpuk / +gikpuk",
     "english": ["the two of us... him/her/it"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+kivuk / +givuk",
+{   "inupiatun": "+kivuk / +givuk",
     "english": ["the two of us... the two of them", "the two of us... them"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+kikput / +gikput",
+{   "inupiatun": "+kikput / +gikput",
     "english": ["we... him/her/it", "we... them"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+kivut / +givut",
+{   "inupiatun": "+kivut / +givut",
     "english": ["we.... the two of them", "we... them"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+kaaNa / +gaaNa",
+{   "inupiatun": "+kaa&#x014b;a / +gaa&#x014b;a",
     "english": ["he/she/it... me"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+kaaNNa / +gaaNNa",
+{   "inupiatun": "+kaa&#x014b;&#x014b;a / +gaa&#x014b;&#x014b;a",
     "english": ["the two of them... me"],
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+kaatiguk / + gaatiguk",
+{   "inupiatun": "+kaatiguk / + gaatiguk",
     "english": [
         "he/she/it... the two of us", "the two of them... the two of us", 
 	"they... the two of us"
@@ -385,17 +385,9 @@
     "pos": ["pb"]
 },
 
-{   "Inupiatun": "+kaatigut / +gaatigut",
+{   "inupiatun": "+kaatigut / +gaatigut",
     "english": ["he/she/it... us", "the two of them... us", "they... us"],
     "pos": ["pb"]
 }
 
 ]
-
-
-{   "Inupiatun": "",
-    "english": [""],
-    "pos": [""]
-},
-
-

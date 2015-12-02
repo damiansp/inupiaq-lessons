@@ -15,8 +15,6 @@
     </script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
     </script>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js">
-    </script>
     <script src="js/flashcard.js"></script>
   </head>
 
@@ -28,12 +26,47 @@
 	    <form class="form-inline">
 	      Lessons to include:<br />
 	      <div class="form-group">
-		<input type="checkbox" name="lesson-1">
+		<input type="checkbox" name="lesson" value="1">
 		<label name="lesson-1">1</label>
+                <input type="checkbox" name="lesson" value="2">
+		<label name="lesson-2">2</label>
+                <input type="checkbox" name="lesson" value="3">
+                <label name="lesson-3">3</label>
+                <input type="checkbox" name="lesson" value="4">
+                <label name="lesson-4">4</label>
+                <input type="checkbox" name="lesson" value="5">
+                <label name="lesson-5">5</label>
+		<br />
+                <input type="checkbox" name="lesson" value="6">
+                <label name="lesson-6">6</label>
+                <input type="checkbox" name="lesson" value="7">
+                <label name="lesson-7">7</label>
+                <input type="checkbox" name="lesson" value="8">
+                <label name="lesson-8">8</label>
+                <input type="checkbox" name="lesson" value="9">
+                <label name="lesson-9">9</label>
+                <input type="checkbox" name="lesson" value="10">
+                <label name="lesson-10">10</label>
+		<br />
+                <input type="checkbox" name="lesson" value="11">
+                <label name="lesson-11">11</label>
+                <input type="checkbox" name="lesson" value="12">
+                <label name="lesson-12">12</label>
+                <input type="checkbox" name="lesson" value="13">
+                <label name="lesson-13">13</label>
+		<br />
+		<input type="number" min="1">
+		<label name="max-cards">Maximum number of cards:</label>
+		<p>
+		  (If left blank all the cards from the selected chapters will 
+		  be included.)
+		</p>
 	      </div>
 	    </form>
 	  
-	    <button type="button" class="btn btn-default" id="load-button">Load Data</button>
+	    <button type="button" class="btn btn-default" id="load-button">
+	      Load Data
+	    </button>
 	  </div>
 	</div><!-- row -->
 	<div class="row">

@@ -5,57 +5,57 @@
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "aI-",
+{   "inupiatun": "a&#x026a;-",
     "english": ["to go home"],
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "aNma-",
+{   "inupiatun": "a&#x014b;ma-",
     "english": ["to be open (variant form)"],
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "akLunaaq",
+{   "inupiatun": "ak&#x0142;unaaq",
     "english": ["rope"],
     "pos": ["n"]
 },
 
 {   "inupiatun": "akutuq",
-    "english": ["In~upiaq ice cream", "'Eskimo' ice cream"],
+    "english": ["I&#x00f1;upiaq ice cream", "'Eskimo' ice cream"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "anI-",
+{   "inupiatun": "an&#x026a;-",
     "english": ["to go out", "to exit", "to be born"],
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "annivik",
+{   "inupiatun": "anniv&#x026a;k",
     "english": ["birthday"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "aNi-",
+{   "inupiatun": "a&#x014b;i-",
     "english": ["to be big"],
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "aNuniaq-",
+{   "inupiatun": "a&#x014b;uniaq-",
     "english": ["to hunt"],
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "imiQ",
+{   "inupiatun": "imi<small>Q</small>",
     "english": ["drinking water", "alcoholic beverage"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "imiQ-",
+{   "inupiatun": "imi<small>Q</small>-",
     "english": ["to drink (st)"],
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "imiGvIk",
+{   "inupiatun": "imi&#x0121;v&#x026a;k",
     "english": ["bar"],
     "pos": ["n"]
 },
@@ -65,7 +65,7 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "in~uu-",
+{   "inupiatun": "i&#x00f1;uu-",
     "english": [
         "to live", "to reside", "to be alive (of a human)", 
 	"to visit socially at sb's house for a while"
@@ -108,12 +108,12 @@
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "minNiq-",
+{   "inupiatun": "min&#x014b;iq-",
     "english": ["to jump up"],
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "mitchaaGvIk",
+{   "inupiatun": "mitchaa&#x0121;v&#x026a;k",
     "english": ["airport", "airfield", "runway", "landing strip"],
     "pos": ["n"]
 },
@@ -128,12 +128,12 @@
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "naNirvIk",
+{   "inupiatun": "na&#x014b;irv&#x026a;k",
     "english": ["hospital"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "naNit-",
+{   "inupiatun": "na&#x014b;it-",
     "english": ["to be sick"],
     "pos": ["v-i"]
 },
@@ -153,7 +153,7 @@
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "savIk",
+{   "inupiatun": "sav&#x026a;k",
     "english": ["knife"],
     "pos": ["n"]
 },
@@ -163,27 +163,27 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "siksrIk",
+{   "inupiatun": "siksr&#x026a;k",
     "english": ["squirrel"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "siksrIkpak",
+{   "inupiatun": "siksr&#x026a;kpak",
     "english": ["marmot"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "sin~igvIIt",
+{   "inupiatun": "si&#x00f1;igv&#x026a;&#x026a;t",
     "english": ["bed"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "sin~ik-",
+{   "inupiatun": "si&#x00f1;ik-",
     "english": ["to sleep"],
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "sin~ikpak-",
+{   "inupiatun": "si&#x00f1;ikpak-",
     "english": ["to oversleep"],
     "pos": ["v-i"]
 },
@@ -228,12 +228,12 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "uin~Gaq-",
+{   "inupiatun": "ui&#x00f1;&#x0121;aq-",
     "english": ["to be sleepy"],
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "ukallIq",
+{   "inupiatun": "ukall&#x026a;q",
     "english": ["rabbit", "<em>Oryctolagus cuniculus</em>"],
     "pos": ["n"]
 },
@@ -257,17 +257,17 @@
     "pos": ["postbase-nn"]
 },
 
-{   "inupiatun": "+qpaGnIaq-",
+{   "inupiatun": "+qpa&#x0121;n&#x026a;aq-",
     "english": ["will have a large..."],
     "pos": ["postbase-comb-nv"]
 },
 
-{   "inupiatun": "+qpain~n~Iaq-",
+{   "inupiatun": "+qpai&#x00f1;&#x00f1;&#x026a;aq-",
     "english": ["will not have a large..."],
     "pos": ["postbase-comb-nv"]
 },
 
-{   "inupiatun": "+qpaIt-",
+{   "inupiatun": "+qpa&#x026a;t-",
     "english": ["to not have a large..."],
     "pos": ["postbase-comb-nv"]
 },
@@ -282,37 +282,37 @@
     "pos": ["postbase-vv"]
 },
 
-{   "inupiatun": "+[s]uNniaNIt",
+{   "inupiatun": "+[s]u&#x014b;nia&#x014b;&#x026a;t",
     "english": ["will not want to..."],
     "pos": ["postbase-comb-vv"]
 },
 
-{   "inupiatun": "+[s]uNnIaq-",
+{   "inupiatun": "+[s]u&#x014b;n&#x026a;aq-",
     "english": ["will want to..."],
     "pos": ["postbase-comb-vv"]
 },
 
-{   "inupiatun": "+[t]aGuguu-",
+{   "inupiatun": "+[t]a&#x0121;uguu-",
     "english": ["always wants to use...", "always willing to use..."],
     "pos": ["postbase-comb-nv"]
 },
 
-{   "inupiatun": "+[t]aGuk-",
+{   "inupiatun": "+[t]a&#x0121;uk-",
     "english": ["to want to use...", "to want to operate..."],
     "pos": ["postbase-comb-nv"]
 },
 
-{   "inupiatun": "+[t]aGulaIt-",
+{   "inupiatun": "+[t]a&#x0121;ula&#x026a;t-",
     "english": ["doesn't like to use...", "doesn't like to operate..."],
     "pos": ["postbase-comb-nv"]
 },
 
-{   "inupiatun": "+[t]aGuNIt-",
+{   "inupiatun": "+[t]a&#x0121;u&#x014b;t-",
     "english": ["doesn't want to use...", "doesn't want to operate..."],
     "pos": ["postbase-comb-nv"]
 },
 
-{   "inupiatun": "+tuGuguu-",
+{   "inupiatun": "+tu&#x0121;uguu-",
     "english": [
         "always wants to use...", "always willing to use...", 
 	"always wants to consume...", "always willing to consume..."
@@ -320,29 +320,29 @@
     "pos": ["postbase-comb-nv"]
 },
 
-{   "inupiatun": "+tuGuk-",
+{   "inupiatun": "+tu&#x0121;uk-",
     "english": ["wants to use...", "wants to consume..."],
     "pos": ["postbase-comb-nv"]
 },
 
-{   "inupiatun": "+tuGulaIt-",
+{   "inupiatun": "+tu&#x0121;ula&#x026a;t-",
     "english": ["doesn't like to use...", "doesn't like to consume..."],
     "pos": ["postbase-comb-nv"]
 },
 
-{   "inupiatun": "+tuGuNIt-",
+{   "inupiatun": "+tu&#x0121;u&#x014b;&#x026a;t-",
     "english": ["doesn't want to use...", "doesn't want to consume..."],
     "pos": ["postbase-comb-nv"]
 },
 
-{   "inupiatun": "+vIIt-",
+{   "inupiatun": "+v&#x026a;&#x026a;t-",
     "english": [
-        "to not have a plce for...", "to not have time for...", 
+        "to not have a place for...", "to not have time for...", 
 	"to not have a source of...", "to not have a container for..."],
     "pos": ["postbase-comb-vv"]
 },
 
-{   "inupiatun": "+vIk",
+{   "inupiatun": "+v&#x026a;k",
     "english": [
         "place for...", "time for...", "source of...", "provider of...", 
 	"container for..."
@@ -350,7 +350,7 @@
     "pos": ["postbase-vn"]
 },
 
-{   "inupiatun": "+viqaq-",
+{   "inupiatun": "+v&#x026a;qaq-",
     "english": [
         "to have a place for...", "to have time for...", 
 	"to have a source of...", "to have a container for..."

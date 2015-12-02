@@ -10,12 +10,12 @@
     "pos": ["v-t", "v-i"]
 },
 
-{   "inupiatun": "aGnaiyaaq",
+{   "inupiatun": "a&#x0121;naiyaaq",
     "english": ["girl"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "aGnaq",
+{   "inupiatun": "a&#x0121;naq",
     "english": ["woman"],
     "pos": ["n"]
 },
@@ -25,19 +25,19 @@
     "pos": ["adv"]
 },
 
-{   "inupiatun": "akutchI-",
+{   "inupiatun": "akutch&#x026a;-",
     "english": [
-        "to make In~upiaq ice cream", "to make (st) into In~upiaq ice cream"
+        "to make I&#x00f1;upiaq ice cream", "to make (st) into I&#x00f1;upiaq ice cream"
     ],
     "pos": ["v-i", "v-t"]
 },
 
-{   "inupiatun": "aNun",
+{   "inupiatun": "a&#x014b;un",
     "english": ["man"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "aNutaiyaaq",
+{   "inupiatun": "a&#x014b;utaiyaaq",
     "english": ["boy"],
     "pos": ["n"]
 },
@@ -57,7 +57,7 @@
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "kin~a",
+{   "inupiatun": "ki&#x00f1;a",
     "english": ["who? [one person]"],
     "pos": ["pn-interrogative"]
 },
@@ -72,7 +72,7 @@
     "pos": ["pn-interrogative-pl"]
 },
 
-{   "inupiatun": "sin~ik-",
+{   "inupiatun": "si&#x00f1;ik-",
     "english": ["to be sleeping", "to be asleep"],
     "pos": ["v-i"]
 },
@@ -97,7 +97,7 @@
     "pos": ["pn-interrogative-pl"]
 },
 
-{   "inupiatun": "tilaI-",
+{   "inupiatun": "tila&#x026a;-",
     "english": ["to sweep (st)"],
     "pos": ["v-t"]
 },
@@ -107,7 +107,7 @@
     "pos": ["v-t"]
 },
 
-{   "inupiatun": "tiNmI-",
+{   "inupiatun": "ti&#x014b;m&#x026a;-",
     "english": ["to be flying", "to be in flight"],
     "pos": ["v-i"]
 },
@@ -117,7 +117,7 @@
     "pos": ["adv", "n"]
 },
 
-{   "inupiatun": "upinGaaGu",
+{   "inupiatun": "upin&#x0121;aa&#x0121;u",
     "english": ["next summer"],
     "pos": ["adv", "n"]
 },
@@ -132,7 +132,7 @@
     "pos": ["v-i"]
 },
 
-{   "inupiatun": "utiQ-",
+{   "inupiatun": "uti<small>Q</small>-",
     "english": [
         "to return", "to return for (sb/st)", "to return to (sb/st)", 
 	"to get back together with (sb, e.g., after divorce, break-up, or separation"
@@ -150,11 +150,7 @@
     "pos": ["adv"]
 },
 
-
-
-
-
-{   "inupiatun": "-laIt-",
+{   "inupiatun": "-la&#x026a;t-",
     "english": ["to never", "to not be able to", "cannot"],
     "pos": ["postbase-vv"]
 },
@@ -186,12 +182,12 @@
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+pIn / +vIn",
+{   "inupiatun": "+p&#x026a;n / +v&#x026a;n",
     "english": ["are you?", "do you? (alternate form)?"],
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+pin~uk / + vin~uk",
+{   "inupiatun": "+pi&#x00f1;uk / + vi&#x00f1;uk",
     "english": ["are we [two]/", "do we [two]?"],
     "pos": ["ending"]
 },
@@ -201,7 +197,7 @@
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+pisI / +visI",
+{   "inupiatun": "+pis&#x026a; / +vis&#x026a;",
     "english": ["are you [all]?", "do you [all]?"],
     "pos": ["ending"]
 },
@@ -211,7 +207,7 @@
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+pIt / + vIt",
+{   "inupiatun": "+p&#x026a;t / + v&#x026a;t",
     "english": ["are you?", "do you?"],
     "pos": ["ending"]
 },
@@ -231,7 +227,7 @@
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+tuaNa / +ruaNa",
+{   "inupiatun": "+tua&#x014b;a / +rua&#x014b;a",
     "english": ["I did", "I was"],
     "pos": ["ending"]
 },
@@ -241,7 +237,7 @@
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+tuasI / +ruasI",
+{   "inupiatun": "+tuas&#x026a; / +ruas&#x026a;",
     "english": ["you [all] did", "you [all] were"],
     "pos": ["ending"]
 },
@@ -271,7 +267,7 @@
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+tuNa / +ruNa",
+{   "inupiatun": "+tu&#x014b;a / +ru&#x014b;a",
     "english": ["I am", "I do"],
     "pos": ["ending"]
 },
@@ -286,7 +282,7 @@
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+tusI / + rusI",
+{   "inupiatun": "+tus&#x026a; / + rus&#x026a;",
     "english": ["you [all] are", "you [all] do"],
     "pos": ["ending"]
 },
@@ -306,7 +302,7 @@
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+-NIt-",
+{   "inupiatun": "&#177;&#x014b;&#x026a;t-",
     "english": ["to not", "to not be"],
     "pos": ["postbase-vv"]
 }

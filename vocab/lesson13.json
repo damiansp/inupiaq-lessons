@@ -1,0 +1,676 @@
+[
+
+{   "inupiatun": "agna",
+    "english": [
+	"that - across from here (on the other side of a river, lake, lagoon, etc.) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "akkuak",
+    "english": [
+        "those [dual] - across from here (on the other side of a river, lake, lagoon, etc.) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "akkua",
+    "english": [
+        "those [pl] -  across from here (on the other side of a river, lake, lagoon, etc.) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "agga",
+    "english": [
+        "there - across from here (on the other side of a river, lake, lagoon, etc.) [long, visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "akimna",
+    "english": [
+        "that - across from here (on the other side of a river, lake, lagoon, etc.) [not visible]" 
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "akipkuak",
+    "english": [
+        "those [dual] -  across from here (on the other side of a river, lake, lagoon, etc.) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "akipkua",
+    "english": [
+        "those [pl] - across from here (on the other side of a river, lake, lagoon, etc.) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "a&#x014b;ma",
+    "english": [
+        "there - across from here (on the other side of a river, lake, lagoon, etc.) [not visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "amna",
+    "english": [
+        "that (on the other side of a barrier, or in another room or house) [not visible]",
+	"that (over there, distant from both speaker and listener(s)) [long, visible]",
+	"that (down the coast to the west (some distance from the beach) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "apkuak",
+    "english": [
+	"those [dual] (on the other side of a barrier, or in another room or house) [not visible]",
+	"those [dual] (over there, distant from both speaker and listener(s)) [long, visible]",
+	"those [dual] (down the coast to the west, some distance from the beach) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "apkua",
+    "english": [
+	"those [pl] (on the other side of a barrier, or in another room or house)[not visible]",
+	"those [pl] (over there, distant from both speaker and listener(s)) [long, visible]",
+	"those [pl] (down the coast to the west, some distance from the beach) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "amma",
+    "english": [
+        "there (on the   other side of a barrier, or in another room or house) [not visible]",
+	"over there (distant from both speaker and listener(s)) [long,visible]",
+	"there (down the coast to the west some distance from the beach) [long, visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "ig&#x00f1;a",
+    "english": [
+        "that (there, distant from speaker and listener(s)) [restricted, visible]",
+	"that (across a river, large area, or body of water) [restricted, visible]",
+	"that (down the coast to the west, some distance from the ocean) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "ikkuak",
+    "english": [
+        "those [dual] (there, distant from speaker and listener(s)) [restricted, visible]",
+	"those [dual] (across a river, large area, or body of water) [restricted, visible]",
+	"those [dual] (down the coast to the west, some distance from the ocean) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "ikkua",
+    "english": [
+        "those [pl] (there, distant from speaker and listener(s)) [restricted, visible]",
+	"those [pl] (across a river, large area, or body of water) [restricted, visible]",
+	"those [pl] (down the coast to the west, some distance from the ocean) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "ikka",
+    "english": [
+	"there (distant from speaker and listener(s)) [restricted, visible]",
+	"there (across a river, large area, or body of water) [restricted, visible]",
+	"there (down the coast to the west, some distance from the ocean) [restricted, visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "im&#x00f1;a",
+    "english": [
+        "that (the one in the past, the aforementioned one, the one not yet seen or realized, but expected)"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "ipkuak",
+    "english": [
+        "those [dual] (the ones in the past, the aforementioned ones, the ones not yet seen or realized, but expected)"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "ipkua",
+    "english": [
+        "those [pl] (the ones in the past, the aforementioned ones, the ones not yet seen or realized, but expected)"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "imma",
+    "english": [
+        "then (in the past)", 
+	 "then (at the aforementioned time)", 
+	 "then (not yet, but expected)"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "kanna",
+    "english": [
+        "that (below the speaker and listener(s)) [restricted, visible]",
+	 "that (in the container) [restricted, visible]",
+	 "that (near the doorway) [restricted, visible]",
+	 "that (near the ocean) [restricted, visible]",
+	 "that (downriver, or along the coast to the west) [restricted, visible]",
+        "there (below the speaker and listener(s)) [restricted, visible]",
+        "there (in the container) [restricted, visible]",
+        "there (near the doorway) [restricted, visible]",
+        "there (near the ocean) [restricted, visible]",
+        "there (downriver, or along the coast to the west) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "katkuak",
+    "english": [
+        "those [dual] (below the speaker and listener(s)) [restricted, visible]",
+	"those [dual] (in the container) [restricted, visible]",
+	"those [dual] (near the doorway) [restricted, visible]",
+	"those [dual] (near the ocean) [restricted, visible]",
+	"those [dual] (downriver, or along the coast to the west) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "katkua",
+    "english": [
+    	"those [pl] (below the speaker and listener(s)) [restricted, visible]",
+        "those [pl] (in the container) [restricted, visible]",
+        "those [pl] (near the doorway) [restricted, visible]",
+        "those [pl] (near the ocean) [restricted, visible]",
+        "those [pl] (downriver, or along the coast to the west) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "kig&#x00f1;a",
+    "english": [
+        "that (outside in the vicinity of the house, away from speaker and listener(s)) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "kikkuak",
+    "english": [
+        "those [dual] (outside in the vicinity of the house, away from speaker and listener(s)) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "kikkuak",
+    "english": [
+        "those [pl] (outside in the vicinity of the house, away from speaker and listener(s)) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "kigga",
+    "english": [
+        "there (outside in the vicinity of the house, away from speaker and listener(s)) [restricted, visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "kikkuak",
+    "english": [
+        "those [dual] (outside in the vicinity of the house, away from speaker and listener(s)) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "kim&#x00f1;a",
+    "english": [
+        "that (inside the house) [restricted, visible]",
+	"that (inside the large, tall container) [restricted, visible]",
+	"that (up the coast to the east) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "kipkuak",
+    "english": [
+        "those [dual] (inside the house) [restricted, visible]",
+	"those [dual] (inside the large, tall container) [restricted, visible]",
+	"those [dual] (up the coast to the east) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "kipkua",
+    "english": [
+        "those [pl] (inside the house) [restricted, visible]",
+	"those [pl] (inside the large, tall container) [restricted, visible]",
+	"those [pl] (up the coast to the east) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "kivva",
+    "english": [
+        "there (inside the house) [restricted, visible]",
+	"there (inside the large, tall container) [restricted, visible]",
+	"there (up the coast to the east) [restricted, visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "manna",
+    "english": [
+        "this (near the speaker, within arm's reach) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "matkuak / makuak",
+    "english": [
+        "these [dual] (near the speaker, within arm's reach) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "matkua / makua",
+    "english": [
+        "these [pl] (near the speaker, within arm's reach) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "marra",
+    "english": [
+        "here (near the speaker, within arm's reach) [long, visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "pagna",
+    "english": [
+        "that (up there) [long, visible]",
+	"that (upriver, away from speaker and listener(s)) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "pakkuak",
+    "english": [
+        "those [dual] (up there) [long, visible]",
+	"those [dual] (upriver, away from speaker and listener(s)) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "pakkua",
+    "english": [
+        "those [pl] (up there) [long, visible]",
+	"those [pl] (upriver, away from speaker and listener(s)) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "pagga",
+    "english": [
+        "up there [long, visible]",
+	"there (upriver, away from speaker and listener(s)) [long, visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "pakimna",
+    "english": [
+        "that (directly above the house, or on the roof) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "pakipkuak",
+    "english": [
+        "those [dual] (directly above the house, or on the roof) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "pakipkuak",
+    "english": [
+        "those [pl] (directly above the house, or on the roof) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "pakipkuak",
+    "english": [
+        "there (directly above the house, or on the roof) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "pamna",
+    "english": [
+        "that (up there, upstairs, above the clouds, or in heaven) [not visible]",
+	"that (inland) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "papkuak",
+    "english": [
+        "those [dual] (up there, upstairs, above the clouds, or in heaven) [not visible]",
+	"those [dual] (inland) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "papkua",
+    "english": [
+        "those [pl] (up there, upstairs, above the clouds, or in heaven) [not visible]",
+	"those [pl] (inland) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "pamma",
+    "english": [
+        "up there (upstairs, above the clouds, or in heaven) [not visible]",
+	"there (inland) [not visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "pig&#x00f1;a",
+    "english": [
+        "that (up there) [restricted, visible]",
+	"that (upriver or away from the ocean, away from both speaker and listener(s) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "pikkuak",
+    "english": [
+        "those [dual] (up there) [restricted, visible]",
+    	"those [dual] (upriver or away from the ocean, away from both speaker and listener(s) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "pikkua",
+    "english": [
+        "those [pl] (up there) [restricted, visible]",
+        "those [pl] (upriver or away from the ocean, away from both speaker and listener(s) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "pikka",
+    "english": [
+        "up there [restricted, visible]",
+        "there (upriver or away from the ocean, away from both speaker and listener(s) [restricted, visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "qagna",
+    "english": [
+        "that (outside, in the vicinity of the house, away from speaker and listener(s)) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "qakkuak",
+    "english": [
+        "those [dual] (outside, in the vicinity of the house, away from speaker and listener(s)) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "qakkua",
+    "english": [
+        "those [pl] (outside, in the vicinity of the house, away from speaker and listener(s)) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "qagga",
+    "english": [
+        "there (outside, in the vicinity of the house, away from speaker and listener(s)) [long, visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "qakimna",
+    "english": [
+        "that (inside the house, or large container) [not visible]",
+	"that (up the coast to the east) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "qakipkuak",
+    "english": [
+        "those [dual] (inside the house, or large container) [not visible]",
+	"those [dual] (up the coast to the east) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "qakipkua",
+    "english": [
+        "those [pl] (inside the house, or large container) [not visible]",
+        "those [pl] (up the coast to the east) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "qa&#x014b;ma",
+    "english": [
+        "there (inside the house, or large container) [not visible]",
+        "there (up the coast to the east) [not visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "qamna",
+    "english": [
+        "that (inside the house, or large container) [not visible]",
+	"that (up the coast to the east) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "qapkuak",
+    "english": [
+        "those [dual] (inside the house, or large container) [not visible]",
+	"those [dual] (inside the house, or large container on its side [seen through a hole]) [long, visible]",
+    	"those [dual] (up the coast to the east) [long, visible, not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "qapkua",
+    "english": [
+        "those [pl] (inside the house, or large container) [not visible]",
+        "those [pl] (inside the house, or large container on its side [seen through a hole]) [long, visible]",
+        "those [pl] (up the coast to the east) [long, visible, not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "qamma",
+    "english": [
+        "there (inside the house, or large container) [not visible]",
+        "there (up the coast to the east) [not visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "qapkuak",
+    "english": [
+        "those [dual] (inside the house, or large container) [not visible]",
+        "those [dual] (up the coast to the east) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "qamna",
+    "english": [
+        "that (inside the house, or large container on its side [seen through a hole]) [long, visible]",
+        "that (up the coast to the east) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "qavva",
+    "english": [
+        "there (inside the house, or large container on its side [seen through a hole]) [long, visible]",
+        "there (up the coast to the east) [long, visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "sakimna",
+    "english": [
+        "that (in the <em>qanitchat</em> or enclosed porch) [not visible, speaker is in the house]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "sakipkuak",
+    "english": [
+        "those [dual] (in the <em>qanitchat</em> or enclosed porch) [not visible, speaker is in the house]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "sakipkua",
+    "english": [
+    "those [pl] (in the <em>qanitchat</em> or enclosed porch) [not visible, speaker is in the house]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "sa&#x014b;ma",
+    "english": [
+        "theree [dual] (in the <em>qanitchat</em> or enclosed porch) [not visible, speaker is in the house]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "samna",
+    "english": [
+        "this (in the container near the speaker, within speaker's reach) [not visible]",
+	"that (below the speaker and listener(s) [not visible]",
+	"that (inside the large container, not within speaker's reach) [not visible]",
+	"that (by, on, or in the ocean) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "sapkuak",
+    "english": [
+        "those [dual] (in the container near the speaker, within speaker's reach) [not visible]",
+	 "those [dual] (below the speaker and listener(s) [not visible]",
+	 "those [dual] (inside the large  container, not within speaker' reach) [not visible]",
+	"those [dual] (by, on, or in the ocean) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "sapkua",
+    "english": [
+        "those [pl] (in the container near the speaker, within speaker's reach) [not visible]",
+        "those [pl] (below the speaker and listener(s) [not visible]",
+        "those [pl] (inside the large  container, not within speaker' reach) [not visible]",
+	"those [pl] (by, on, or in the ocean) [not visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "samma",
+    "english": [
+        "there (in the container near the speaker, within speaker's reach) [not visible]",
+        "there (below the speaker and listener(s) [not visible]",
+        "there (inside the large  container, not within speaker' reach) [not visible]",
+        "there (by, on, or in the ocean) [not visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "una",
+    "english": [
+        "this (near the speaker, within arm's reach) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "ukuak",
+    "english": [
+        "these [dual] (near the speaker, within arm's reach) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "ukua",
+    "english": [
+        "these [pl] (near the speaker, within arm's reach) [restricted, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "uvva",
+    "english": [
+        "here (near the speaker, within arm's reach) [restricted, visible]"
+    ],
+    "pos": ["adv"]
+},
+
+{   "inupiatun": "unna",
+    "english": [
+        "that (below the speaker and listener(s) [long, visible]",
+	"that (in the container) [long, visible]",
+	"that (near the doorway) [long, visible]",
+	"that (near the ocean, downriver, or along the coast to the west) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "utkuak",
+    "english": [
+        "those [dual] (below the speaker and listener(s) [long, visible]",
+	"those [dual] (in the container) [long, visible]",
+    	"those [dual] (near the doorway) [long, visible]",
+    	"those [dual] (near the ocean, downriver, or along the coast to the west) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "utkua",
+    "english": [
+        "those [pl] (below the speaker and listener(s) [long, visible]",
+        "those [pl] (in the container) [long, visible]",
+        "those [pl] (near the doorway) [long, visible]",
+        "those [pl] (near the ocean, downriver, or along the coast to the west) [long, visible]"
+    ],
+    "pos": ["pn"]
+},
+
+{   "inupiatun": "unna",
+    "english": [
+        "there (below the speaker and listener(s) [long, visible]",
+        "there (in the container) [long, visible]",
+        "there (near the doorway) [long, visible]",
+        "there (near the ocean, downriver, or along the coast to the west) [long, visible]"
+    ],
+    "pos": ["pn"]
+}
+
+]
