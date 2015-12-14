@@ -1,29 +1,31 @@
-var vocab, // a json object holiding the vocab
-    // arrays of all items to appear on front and back of each card
-    frontArray = [0], backArray = [0], 
-    // arrays of all english and inupiatun terms (matched)
+var vocab, // a json object holding the vocab
+    maxCards, // user-defined maximum no. of cards
+    lessons = [], // user-selected lessons to include
+    // Arrays to hold language-specific vocabulary 
     inupiatunArray = [], englishArray = [],
-    // arrays holding items to be shown again
-    repFrontArray = [], repBackArray = [],
-    lessons = [],
-    maxCards = null;
-
-
-
+    // Type(s) of content to appear on each side
+    frontData, backData,
+    n, // number of cards remaining in the deck
+    nextCard, // data for the next card to be displayed
+    cardCounter, // to display progress
+    maxFontSize = 7; // in em
 
 $(document).ready(function() {
 
 
-// Create a function that does an Ajax call to load data for a lesson
+
+
+
+// Create a function that does an Ajax call to load data for a lesson        
 function loadLesson(lesson) {
-    $.ajax({ 
+    $.ajax({
         dataType: 'json',
 	url: './vocab/lesson' + lesson + '.json',
 	success: function(json) {
 	    vocab = json;
 	    for (k in vocab) {
 		inupiatunArray.push(vocab[k].inupiatun);
-		// Eng. may have multiple defs, if so split with br
+		// Eng. may have multiple defs, if so split with br          
 		var english = vocab[k].english;
 		if (Array.isArray(english)) {
 		    english = english.join('<br />');
@@ -38,170 +40,322 @@ function loadLesson(lesson) {
 };
 
 
+// Load the selected lessons and transition to next screen
 $('#load-button').on('click', function() {
-    // TO DO: When more chapters have been added, determine which and load only
-    // those chapters
+    maxCards = parseInt($('#max-cards').val());
+
     $('input[name="lesson"]:checked').each(function() {
 	lessons.push(this.value);
-    });
+     });
 
     for (lesson in lessons) {
 	loadLesson(lessons[lesson]);
-    }
+     }
 
-    // Transition to next screen
+    // Transition to next screen                                               
+    $('header').hide();
+    $('#intro').hide();
+    $('#authors').hide();
     $('#chapter-load').hide();
+    $('footer').hide();
     $('#options').fadeIn();
-
 });
 
+/** 
+ * Approach to generating random cards, and repeating misses:
+ * If maxCards, first take a random subset of the data, and delete the
+ * rest.  If maxCards AND both languages, randomly decide how many of each
+ * from each language, then take random sample.
+ *
+ * Once the working deck has been so created (all or random subset), 
+ * generate a random number on [0, deckLength - 1], and use that as the 
+ * index for the next card.  If both langs, randomly select the front and
+ * back.
+ *
+ * If answer is correct:
+ * Remove card from deck
+ * Decrement deckLength
+ * Decrement new card counter
+ *
+ * If answer is 'hard':
+ * Don't remove card.
+ * Decrement new card counter
+ * Increment repeat counter
+ *
+ * If missed:
+ * Push a duplicate of the word to the end of the array
+ # Decrement new card counter
+ * Increment repeat counter +2
+ */
 
 
+// Determine content to be on front and back and begin
 $('#begin-button').on('click', function() {
-    // Determine the front and back data to be shown
     var frontMatter = $('input[name="options"]:checked').val();
+
     if (frontMatter == 'inupiatun-text') {
-	frontArray = inupiatunArray;
-	backArray = englishArray;
+	frontData = 'inupiatun';
+	backData = 'english'
     } else if (frontMatter == 'english-text') {
-	frontArray = englishArray;
-	backArray = inupiatunArray;
+	frontData = 'english';
+	backData = 'inupiatun';
     } else if (frontMatter == 'both-text') {
-	frontArray = inupiatunArray.concat(englishArray);
-	backArray = englishArray.concat(inupiatunArray);
-    }/** else if (frontMatter == 'inupiatun-audio') {
-	 // TO DO: Add when audio data are available
-      
-	 } */ else {
+	frontData = 'both';
+	backData = 'both';
+    } else if (frontMatter == 'inupiatun-audio') {
+	frontData = 'inupiatunAudio';
+	backData = 'english';
+    } else {
 	alert("I'm sorry, but the internets are broken");
     }
 
-    // Randomize the data
-    var shuffledData = resample(frontArray, backArray);
-    frontArray = shuffledData[0];
-    backArray = shuffledData[1];
 
-    // Create the first card
-    populateCard();
+    n = maxCards || inupiatunArray.length;
+    cardCounter = n;
+    
+    // if maxCards randomly select, and jettison the rest
+    if (maxCards) {
+	var inupiatunTemp = [], englishTemp = [];
+	for (var i = 1; i <= maxCards; i++) {
+	    var randIndex = Math.floor(Math.random() * inupiatunArray.length);
+	    inupiatunTemp.push(inupiatunArray.splice(randIndex, 1)[0]);
+	    englishTemp.push(englishArray.splice(randIndex, 1)[0]);
+	}
 
-    // Transition
+	englishArray = englishTemp;
+	inupiatunArray = inupiatunTemp;
+
+    }
+
+
+    // Choose and create next card
+    nextCard = pickNextCard('ok', null);
+    populateCard(frontData, nextCard);
+    
+    // Transition                                                             
     $('#options').hide();
     $('#card-display').fadeIn();
+    $('#card-counter').html(cardCounter);
+    $('#tracker').fadeIn();
 });
 
-$('#show-button').on('click', function() {
-    // Hide Show Button
-    $(this).hide();
+
+// Randomly choose a card, and decide what to do with previous card (index)
+// based on difficulty
+function pickNextCard(difficulty, index) {
+    // remove or replace previous card
+    if (cardCounter <= 0) {
+	console.log("All done");
+	finish();
+    }
+
+    if (index || index == 0) {
+	if (difficulty == 'ok') {
+	    // Update arrays
+	    // Splice will not reduce an array of length 1 to an empty array
+	    if (inupiatunArray.length == 1) {
+		console.log("Ended from here");
+		finish();
+	    }
+
+	    inupiatunArray.splice(index, 1);
+	    englishArray.splice(index, 1);
+
+	    // Update n
+	    n = n - 1;
+
+	    // Update counters
+	    cardCounter = Math.max(cardCounter - 1, 0);
+
+	    if (cardCounter == 0) {
+		console.log('Done, Daddio');
+		finish();
+	    }
+	} else if (difficulty == 'hard') {
+	    ; // do nothing
+	} else if (difficulty == 'missed') {
+	    // Update arrays
+	    inupiatunArray.push(inupiatunArray[index]);
+	    englishArray.push(englishArray[index]);
+	    
+	    // Update n
+	    n = n + 1;
+
+	    // Update counters
+	    cardCounter = cardCounter + 1;
+	}
+    }
+
+    // Select index for next card
+    var randIndex = Math.floor(Math.random() * n);
+    console.log(randIndex);
+
+    return { 
+	index: randIndex,
+	inupiatun: inupiatunArray[randIndex],
+	english: englishArray[randIndex]
+    };
+}
+
+
+function populateCard(front, card) {
+    /** 
+     * TO DO:  Works, but cannot find audio files for words with special 
+     * characters. SO: 
+     * (1) write helper function to change the html (card.inupiatun) into a 
+     * format that can be loaded (e.g _n for eng (&#x014b;))
+     * (2) update all the audio file names to match
+     */
     
-    // Show Back of Card & Response Buttons
+
+    var audioPath = 'audio/1/' + card.inupiatun + '.m4a';
+
+    if (front == 'both') {
+	var chooseFront = Math.random();
+	front = chooseFront > 0.50 ? 'inupiatun' : 'english';
+    }
+    
+    // Scale text to be as large as possible, but still fit on the card
+    var inSize = scaleText(card.inupiatun),
+	engSize = scaleText(card.english);
+
+    if (front == 'inupiatun') {
+	$('#front-datum').html(card.inupiatun).css('font-size', inSize);
+	$('#back-datum').html(card.english).css('font-size', engSize);
+	$('.audio-source').attr('src', audioPath);
+	$('audio').load();
+	$('#back-audio').hide();
+	$('#front-audio').show();
+    } else if (front == 'english') {
+	$('#front-datum').html(card.english).css('font-size', engSize);
+	$('#back-datum').html(card.inupiatun).css('font-size', inSize);
+	$('.audio-source').attr('src', audioPath);
+	$('audio').load();
+	$('#back-audio').show();
+	$('#front-audio').hide();
+    } else if (front == 'inupiatunAudio') {
+	$('#front-datum').hide();
+	$('#back-datum').html(card.english).css('font-size', engSize);
+	$('.audio-source').attr('src', audioPath);
+	$('audio').load();
+	$('#front-audio').show();
+	$('#back-audio').hide();
+    }
+
+    // Transistion to next card
+    $('#response-button-div').hide();
+    $('#show-button').fadeIn();
+    $('#back').hide();
+}
+
+
+// Helper function to resize text to maximize size but still fit on card
+function scaleText(input) {
+    var output = maxFontSize,
+	maxChars = 0, // number of characters for the longest line on card
+	scalar = 0.87, // multipler for text size by no. of line // 0.87
+	lengthScalar = 0.85, // ...and by line length           // 0.85
+	// longest no. of characters that will fit on a line at maxFontSize
+        maxAllowed = 10; 
+
+    var lineBreaks = input.match(/<br \/>/g);
+
+    // HTML has line-breaks
+    if (lineBreaks) {
+	lineBreaks = lineBreaks.length;
+	
+	// rescale by line breaks
+	for (var i = 1; i <= lineBreaks; i++) {
+	    output = output * scalar;
+	}
+
+	var lines = input.split('<br />');
+	for (l in lines) {
+	    if (lines[l].length > maxChars) {
+		maxChars = lines[l].length;
+	    }
+	}
+
+    } else {
+	// No line-breaks
+	input = stripHTML(input);
+	maxChars = input.length;
+    }	
+
+    if (maxChars > maxAllowed) {
+	output = lengthScale(output, maxChars, maxAllowed, lengthScalar);
+    }
+
+    output = output + 'em';
+
+    return output
+}
+
+
+// Strip HTML from string
+function stripHTML(html) {
+    var tmp = document.createElement('div');
+    tmp.innerHTML = html;
+    return tmp.textContent || tmp.innerText || "";
+}
+
+
+// Helper function to rescale text based on line length
+function lengthScale(out, cs, allowed, scalar) {
+    var times = Math.ceil(cs / allowed);
+
+    for (var i = 1; i <= times; i++) {
+	out = out * scalar;
+    }
+
+    return out;
+}
+
+
+// Show the reverse side
+$('#show-button').on('click', function() {
+    // Hide Show Button 
+    $(this).hide();
+
+    // Show Back of Card & Response Buttons               
     $('#back').fadeIn();
     $('#response-button-div').fadeIn();
 });
 
-// Update based on which button for difficulty was pushed
+
+
+// Respond to difficulty selected
 $('#missed').on('click', function() {
-    console.log('Missed!');
-    nextCard('missed', $('#front-datum').html(), $('#back-datum').html());
+    // Choose and create next card
+    nextCard = pickNextCard('missed', nextCard.index);
+    populateCard(frontData, nextCard);
+    updateCounter();
 });
 
 $('#hard').on('click', function() {
-    console.log('Hard,huh?');
-    nextCard('hard', $('#front-datum').html(), $('#back-datum').html());
+    nextCard = pickNextCard('hard', nextCard.index);
+    populateCard(frontData, nextCard);
+    updateCounter();
 });
 
 $('#ok').on('click', function() {
-    console.log('A-OK');
-    nextCard('ok', $('#front-datum').html(), $('#back-datum').html());
+    nextCard = pickNextCard('ok', nextCard.index);
+    populateCard(frontData, nextCard);
+    updateCounter();
+});
+
+// Update counters
+function updateCounter() {
+    $('#card-counter').html(cardCounter);
+}
+
 });
 
 
-});
 
-
-
-
-
-
-// Helper functions
-
-// Shuffle an array using the Fisher-Yates algorithm, altered slightly here, to shuffle 2 arrays in
-// exactly the same manner
-function resample(array1, array2) {
-    var currentIndex = array1.length, 
-	temporaryValue1,
-	temporaryValue2,
-	randomIndex ;
-
-    // While there remain elements to shuffle
-    while (0 !== currentIndex) {
-
-	// Pick a remaining element...
-	randomIndex = Math.floor(Math.random() * currentIndex);
-	currentIndex -= 1;
-
-	// And swap it with the current element.
-	temporaryValue1 = array1[currentIndex];
-	temporaryValue2 = array2[currentIndex];
-	array1[currentIndex] = array1[randomIndex];
-	array2[currentIndex] = array2[randomIndex];
-	array1[randomIndex] = temporaryValue1;
-	array2[randomIndex] = temporaryValue2;
-    }
-
-    return [array1, array2];
-};
-
-
-
-function populateCard() {
-    // TO DO: rescale font size according to length so cards do not become
-    // too large
-    $('#front-datum').html(frontArray.pop());
-    $('#back-datum').html(backArray.pop());
-};
-
-
-
-function nextCard(difficulty, front, back) {
-    var reps = 0;
-    if (difficulty == 'hard') { reps = 1; }
-    if (difficulty == 'missed') { reps = 2; }
-
-    // See if any cards remain in frontArray
-    if (frontArray.length > 0) {
-	if (reps > 0) {
-	    for (var i = 0; i < reps; i++) {
-		repFrontArray.push(front);
-		repBackArray.push(back);
-	    }
-	}
-
-	populateCard();
-
-	$('#response-button-div').hide();
-	$('#show-button').fadeIn();
-	$('#back').hide();
-	
-
-    } else if (repFrontArray.length > 0) { 
-	// frontArray is empty, see if any remain in repFrontArray
-	// if so, shuffle, and write to frontArray
-	var shuffled = resample(repFrontArray, repBackArray);
-	frontArray = shuffled[0];
-	backArray = shuffled[1];
-
-	// And reset rep arrays
-	repFrontArray = [];
-	repBackArray = [];
-
-	populateCard();
-
-    } else {
-	// frontArray and repFrontArray are empty-- they're done!
-	$('#card-display').hide();
-	$('#finished').fadeIn();
-    }
-
-
-    
-};
+// Finished
+function finish() {
+    $('#card-display').hide();
+    $('#tracker').hide();
+    $(finished).fadeIn();
+}

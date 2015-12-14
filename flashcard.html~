@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" contents="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <link rel="stylesheet" 
+	  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+    <!-- optional bootstrap theme -->
+    <link rel="stylesheet"
+	  href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="styles/flashcard.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js">
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
+    </script>
+    <script src="js/flashcard.js"></script>
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <header>
+	<hgroup>
+	  <h1>Pa&#289;lagivsi I&ntilde;upiatun Flashcard-mun</h1>
+	  <h2>Welcome to the I&ntilde;upiatun Flashcards</h2>
+	</hgroup>
+	<br />
+	<h4>Welcome and Introduction</h4>
+      </header>
+      
+      <div id="intro" class="row">
+	<div class="col-md-6">
+	  <p>
+	    I&ntilde;upiatun is the language of the I&ntilde;iupiaq people, 
+	    who have traditionally lived in Northern and Northwestern Alaska,
+	    and is closely related to other Inuit languages spoken across the 
+	    northern border of North America and Greenland, and is part of the 
+	    larger Eskimo-Aleut language family.
+	  </p>
+	  <p>
+	    The flashcards presented here may be used independently by anyone
+	    interested in learning the language, but are intended to accompany
+	    the textbook <em>North Slope I&ntilde;upiaq Grammar: First
+	      Year</em>, by Edna Ahgeak MacLean, available through
+	    <a href="http://www.uaf.edu/anla/collections/search/resultDetail.xml?id=IN%28N%29971M1986a">
+	      The University of Alaska Fairbanks' Alaska Native Language
+	      Archive</a>, or through commercial booksellers, such as 
+	      <a href="http://www.amazon.com/North-Slope-Inupiaq-Grammar-Year/dp/1555000266">
+		Amazon</a>.
+	  </p>
+	</div><!-- col -->
+	<div class="col-md-6">
+	  <p> 
+	    While the different I&ntilde;iupiaq dialects are similar, and 
+	    mostly mutually intelligible, there are some differences in
+	    pronunciation, and occasionally in word usage.  These materials are
+ 	    based on the North Slope dialect as spoken in Barrow, Alaska,
+	    though if interest is there, we may eventually include other
+	    dialects.
+	  </p>
+	  <p>
+	    We hope this tool will help interested learners. Please feel free
+	    to contact us with questions, suggestions, or any other feedback.
+	  </p>
+	</div><!-- col2 -->
+      </div><!-- # intro row -->
+      <div class="row">
+	<div id="authors" class="row text-center">
+	  <p class="text-center">
+	    <br />
+	    <em>Quyaanaq!  Thank you!</em>
+	    <br />
+	  </p>
+	  <div class="col-md-2"></div>
+	  <div class="col-md-4">
+	    Damian Satterthwaite-Phillips<br />
+	    Linguist and Creator of this Site<br />
+	    damiansp@gmail.com
+	  </div>
+	  <div class="col-md-4">
+	    Edna Ahgeak MacLean<br />
+	    Linguist and Textbook Author<br />
+	    edna.maclean@gmail.com
+	  </div>
+	</div><!-- authors -->
+      </div><!-- row -->
+      
+      <div id="chapter-load" class="row">
+	<div class="col-md-12 text-center">
+	  <h4>Flashcard Options</h4>
+	  <form class="form-inline">
+	    Lessons to include:<br />
+	    <div class="form-group">
+	      <input type="checkbox" name="lesson" value="1">
+	      <label name="lesson-1">1</label>
+              <input type="checkbox" name="lesson" value="2">
+	      <label name="lesson-2">2</label>
+              <input type="checkbox" name="lesson" value="3">
+              <label name="lesson-3">3</label>
+              <input type="checkbox" name="lesson" value="4">
+              <label name="lesson-4">4</label>
+              <input type="checkbox" name="lesson" value="5">
+              <label name="lesson-5">5</label>
+	      <br />
+              <input type="checkbox" name="lesson" value="6">
+              <label name="lesson-6">6</label>
+              <input type="checkbox" name="lesson" value="7">
+              <label name="lesson-7">7</label>
+              <input type="checkbox" name="lesson" value="8">
+              <label name="lesson-8">8</label>
+              <input type="checkbox" name="lesson" value="9">
+              <label name="lesson-9">9</label>
+              <input type="checkbox" name="lesson" value="10">
+              <label name="lesson-10">10</label>
+	      <br />
+              <input type="checkbox" name="lesson" value="11">
+              <label name="lesson-11">11</label>
+              <input type="checkbox" name="lesson" value="12">
+              <label name="lesson-12">12</label>
+              <input type="checkbox" name="lesson" value="13">
+              <label name="lesson-13">13</label>
+	      <br />
+	      <br />
+	      <input id="max-cards" type="number" min="1">
+	      <label name="max-cards">Maximum number of cards:</label>
+	      <p class="small">
+		If left blank all the cards from the selected chapters will 
+		be included.<br />
+		If a number is chosen, that many cards will be randomly 
+		selected from the chapters selected.
+	      </p>
+	    </div>
+	    <br /><br />
+	    <button type="button" class="btn btn-default" id="load-button">
+	      Load Data
+	    </button>
+	  </form>
+
+	</div>
+     	<div class="row">
+	  <div class="col-md-4">
+	    <p id="load-error">
+	      <em>There was a problem loading the data. Please try again.</em>
+	    </p>
+	  </div>
+	</div><!--row load-error -->
+      </div><!-- chapter-load -->
+
+      <div class="row" id="options">
+	<div class="col-md-12">
+	  <p>Front Side:</p>
+	  <form>
+	    <div class="radio">
+	      <label>
+		<input type="radio" name="options" id="inupiatun-text-radio" 
+		       value="inupiatun-text"  checked />
+		I&ntilde;upiatun (text and audio)
+	      </label>
+	    </div>
+	    <div class="radio">
+	      <label>
+		<input type="radio" name="options" id="inupiatun-audio-radio" 
+		       value="inupiatun-audio" />
+		I&ntilde;upiatun (audio only)
+	      </label>
+	    </div>
+	    <div class="radio">
+	      <label>
+		<input type="radio" name="options" id="english-text-radio" 
+		       value="english-text" />
+		English (text)
+	      </label>
+	    </div>
+	    <div class="radio">
+	      <label>
+		<input type="radio" name="options" id="both-text-radio"
+		       value="both-text" />
+		Both languages
+	      </label>
+	    </div>
+	    <button type="button" id="begin-button" 
+		    class="btn btn-default margin-bottom-20">
+	      Begin
+	    </button>
+	  </form>
+	</div>
+      </div><!-- row options -->
+
+      <div class="row">
+
+      </div><!-- row begin-button -->
+
+
+      <!-- Card Display -->
+      <div class="row" id="card-display">
+	<div class="col-md-6" id="front">
+	  <div class="card text-center">
+	    <p class="spacer"></p>
+	    <div class="text-area">
+	      <span class="datum" id="front-datum"></span>
+	    </div>
+	    <p class="spacer"></p>
+	    <audio id="front-audio" controls>
+	      <source class="audio-source" src="" 
+		      type="audio/mp4" />
+	      Your browser does not support the audio element.
+	    </audio>
+	  </div>
+	  <div id="show-button-div" 
+	       class="text-center margin-top-20 margin-bottom-20">
+	    <button type="button" class="btn btn-default" id="show-button">
+	      Show Answer
+	    </button>
+	  </div>
+	  <div id="response-button-div" 
+	       class="text-center margin-top-20 margin-bottom-20">
+	    <div class="btn-group" role="group" aria-label="response-buttons">
+	      <button type="button" class="btn btn-default" id="missed">
+		Missed
+	      </button>
+	      <button type="button" class="btn btn-default" id="hard">
+		Hard
+	      </button>
+	      <button type="button" class="btn btn-default" id="ok">OK</button>
+	    </div>
+	  </div>
+	</div><!-- front -->
+
+	<!-- Back -->
+	<div class="col-md-6" id="back-div">
+	  <div class="card text-center" id="back">
+            <p class="spacer"></p>
+	    <div class="text-area">
+	      <span class="datum" id="back-datum"></span>
+	    </div>
+            <p class="spacer"></p>
+            <audio id="back-audio" controls>
+	      <source class="audio-source" src="" 
+		      type="audio/mp4" />
+	      Your browser doesnot support theaudio element.
+            </audio>
+	  </div>
+	</div><!-- back-div -->
+      </div><!-- row -->
+
+      <div class="row">
+	<div class="col-md-12 text-center">
+	  <div id="tracker">
+	    <p>
+	      Cards left: <span id="card-counter"></span><br />
+	    </p>
+	  </div><!-- #tracker -->
+	  <div id="finished">
+	    <div id="finished-card">
+	      <p>All finished!</p>
+	      <p>Keep up the good work!</p>
+	    </div>
+	    <p>
+	      <a class="btn btn-default" href="flashcard.html">
+		Go back to the homepage.
+	      </a>
+	    </p>
+	  </div>
+	</div>
+      </div><!-- row -->
+    </div><!-- container -->
+    <footer class="text-center">
+      This project was funded by generous support from<br />
+      <img src="images/ASCFLogo.png" width="30%" />
+      <br /><br />
+      &copy;2016 Damian Satterthwaite-Phillips and Edna Ahgeak MacLean<br />
+    </footer>
+  </body>
+</html>
