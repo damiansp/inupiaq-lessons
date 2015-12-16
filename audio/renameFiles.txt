@@ -1,1 +1,14 @@
 for f in *ġ*; do mv "$f" "${f//ġ/g^}"; done
+for f in *I*; do mv "$f" "${f//I/i_}"; done
+for f in *ł*; do mv "$f" "${f//ł/l_}"; done
+for f in *ḷ*; do mv "$f" "${f//ḷ/l^}"; done
+for f in *ŋ*; do mv "$f" "${f//ŋ/n_}"; done
+for f in *ñ*; do mv "$f" "${f//ñ/n^}"; done
+
+for f in *\-*; do mv "$f" "${f//\-/m_}"; done
+for f in *+*; do mv "$f" "${f//+/p_}"; done
+for f in *÷*; do mv "$f" "${f//÷/d_}"; done
+for f in *±*; do mv "$f" "${f//±/p_m_}"; done
+
+for f in *m_*; do mv "$f" "${f//m_/}"; done
+

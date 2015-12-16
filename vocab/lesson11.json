@@ -161,7 +161,7 @@
     "pos": ["num"]
 },
 
-{   "inupiatun": "piNasut",
+{   "inupiatun": "pi&#x014b;asut",
     "english": ["three"],
     "pos": ["num"]
 },
@@ -186,12 +186,12 @@
     "pos": ["num"]
 },
 
-{   "inupiatun": "tallimat piNasut",
+{   "inupiatun": "tallimat pi&#x014b;asut",
     "english": ["eight"],
     "pos": ["num"]
 },
 
-{   "inupiatun": "qulinNu&#x0121;utai&#x1e37;at",
+{   "inupiatun": "qulin&#x014b;u&#x0121;utai&#x1e37;at",
     "english": ["nine"],
     "pos": ["num"]
 },
@@ -221,22 +221,22 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "maNaq-",
+{   "inupiatun": "ma&#x014b;aq-",
     "english": ["to be black"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "maNaqtaaq",
+{   "inupiatun": "ma&#x014b;aqtaaq",
     "english": ["the color black", "st black"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "maNalaaq-",
+{   "inupiatun": "ma&#x014b;alaaq-",
     "english": ["to be grey"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "maNalaaq",
+{   "inupiatun": "ma&#x014b;alaaq",
     "english": ["the color grey", "st grey"],
     "pos": ["n"]
 },
@@ -271,22 +271,22 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "suNaaq-",
+{   "inupiatun": "su&#x014b;aaq-",
     "english": ["to be green"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "suNaaqtaaq",
+{   "inupiatun": "su&#x014b;aaqtaaq",
     "english": ["the color green", "st green"],
     "pos": ["n"]
 },
 
-{   "inupiatun": "suNauraaq-",
+{   "inupiatun": "su&#x014b;auraaq-",
     "english": ["to be blue"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "suNauraaq",
+{   "inupiatun": "su&#x014b;auraaq",
     "english": ["the color blue", "st blue"],
     "pos": ["n"]
 },
@@ -301,12 +301,12 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "tiNukpalaaq-",
+{   "inupiatun": "ti&#x014b;ukpalaaq-",
     "english": ["to be brown"],
     "pos": ["vi"]
 },
 
-{   "inupiatun": "tiNukpalaa",
+{   "inupiatun": "ti&#x014b;ukpalaa",
     "english": ["the color brown", "st brown"],
     "pos": ["n"]
 }

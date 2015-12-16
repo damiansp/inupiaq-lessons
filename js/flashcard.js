@@ -14,13 +14,19 @@ var vocab, // a json object holding the vocab
 
 specialCharEntities = [
     '&#x0121;', '&#x026a;', '&#x0142;&#x0323;', '&#x0142;', '&#x1e37;', 
-    '&#x00f1;', '&#x014b;', '<small>Q</small>', '&#177;',   '&#247;'
+    '&#x00f1;', '&#x014b;', '<small>Q</small>', '&#177;',   '&#247;',
+    '-',        /\+/,        /\//,              ':',        '  ',
+    /\[/,       /\]/,        /\(/,              /\)/,       /<br \/*>/
 ]; 
     
 specialCharAudioFileFormat = [
-    'g^',       'i_',       'l^_',              'l_',       'l^',       
-    'n^',       'n_',       'q_',               '+-',       '_div_'
+    'g^',       'i',        'l^_',              'l_',       'l^',       
+    'n^',       'n_',       'q',                '',         '',
+    '',         '',         '',                 '',         ' ',
+    '',         '',         '',                 '',         ' '
 ];
+
+
 
 
 $(document).ready(function() {
@@ -212,16 +218,7 @@ function pickNextCard(difficulty, index) {
 
 
 function populateCard(front, card) {
-    /** 
-     * TO DO:  Works, but cannot find audio files for words with special 
-     * characters. SO: 
-     * (1) write helper function to change the html (card.inupiatun) into a 
-     * format that can be loaded (e.g _n for eng (&#x014b;))
-     * (2) update all the audio file names to match
-     */
-    
-
-    var audioPath = 'audio/1/' + translateEntity(card.inupiatun) + '.m4a';
+    var audioPath = 'audio/' + translateEntity(card.inupiatun) + '.m4a';
     console.log(audioPath);
 
     if (front == 'both') {
@@ -267,7 +264,7 @@ function populateCard(front, card) {
 function scaleText(input) {
     var output = maxFontSize,
 	maxChars = 0, // number of characters for the longest line on card
-	scalar = 0.87, // multipler for text size by no. of line // 0.87
+	scalar = 0.79, // multiplier for text size by no. of line // 0.87
 	lengthScalar = 0.85, // ...and by line length           // 0.85
 	// longest no. of characters that will fit on a line at maxFontSize
         maxAllowed = 10; 

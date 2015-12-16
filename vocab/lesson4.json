@@ -177,17 +177,17 @@
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+pik / + vik",
+{   "inupiatun": "+pik / +vik",
     "english": ["am I?", "do I?"],
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+p&#x026a;n / +v&#x026a;n",
+{   "inupiatun": "+p&#x026a;&#x00f1; / +v&#x026a;&#x00f1;",
     "english": ["are you?", "do you? (alternate form)?"],
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+pi&#x00f1;uk / + vi&#x00f1;uk",
+{   "inupiatun": "+pi&#x00f1;uk / +vi&#x00f1;uk",
     "english": ["are we [two]/", "do we [two]?"],
     "pos": ["ending"]
 },
@@ -207,7 +207,7 @@
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+p&#x026a;t / + v&#x026a;t",
+{   "inupiatun": "+p&#x026a;t / +v&#x026a;t",
     "english": ["are you?", "do you?"],
     "pos": ["ending"]
 },
@@ -282,7 +282,7 @@
     "pos": ["ending"]
 },
 
-{   "inupiatun": "+tus&#x026a; / + rus&#x026a;",
+{   "inupiatun": "+tus&#x026a; / +rus&#x026a;",
     "english": ["you [all] are", "you [all] do"],
     "pos": ["ending"]
 },

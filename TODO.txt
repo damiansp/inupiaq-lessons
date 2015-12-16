@@ -1,1 +1,19 @@
 3. Convert names of audio files to match html coding.
+
+
+
+Missing Audio:
+tumit      	‘footprints, tracks’
++qpaiññiaq- 	‘will not have a large’
+aglaan		‘but, however’
+siutiġun	‘earring’
+maŋaqtaaq	‘the color black, something black’
+sisamat		‘four’
+siḷḷaq		‘something wide’
+qamma		‘(adverbial form of qamna)’	
+
+please record both “aasii” and “aasiiñ” on a single audio file
+please record both “+pigi / +vigi” and “+pigit / +vigit” on a single audio file
+please record both “+kika / +gika” and “+kikka / +gikka” on a single audio file
+please record both “+matkuak” and “makuak” on a single audio file
+
