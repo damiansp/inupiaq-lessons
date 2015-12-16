@@ -8,7 +8,20 @@ var vocab, // a json object holding the vocab
     n, // number of cards remaining in the deck
     nextCard, // data for the next card to be displayed
     cardCounter, // to display progress
-    maxFontSize = 7; // in em
+    maxFontSize = 7, // in em
+    specialCharEntities, specialCharAudioFileFormat; // for translating between
+
+
+specialCharEntities = [
+    '&#x0121;', '&#x026a;', '&#x0142;&#x0323;', '&#x0142;', '&#x1e37;', 
+    '&#x00f1;', '&#x014b;', '<small>Q</small>', '&#177;',   '&#247;'
+]; 
+    
+specialCharAudioFileFormat = [
+    'g^',       'i_',       'l^_',              'l_',       'l^',       
+    'n^',       'n_',       'q_',               '+-',       '_div_'
+];
+
 
 $(document).ready(function() {
 
@@ -208,7 +221,8 @@ function populateCard(front, card) {
      */
     
 
-    var audioPath = 'audio/1/' + card.inupiatun + '.m4a';
+    var audioPath = 'audio/1/' + translateEntity(card.inupiatun) + '.m4a';
+    console.log(audioPath);
 
     if (front == 'both') {
 	var chooseFront = Math.random();
@@ -310,6 +324,20 @@ function lengthScale(out, cs, allowed, scalar) {
 
     return out;
 }
+
+// Translate between HTML Entities and text used in the audio file names
+function translateEntity(str) {
+    for (i in specialCharEntities) {
+	var find = specialCharEntities[i];
+	str = str.replace(new RegExp(find, 'g'), 
+			  specialCharAudioFileFormat[i]);
+    }
+
+    return str;
+}
+
+
+
 
 
 // Show the reverse side

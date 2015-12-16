@@ -1,3 +1,1 @@
-1. Text sizing is good except on phones.  Try using vh units?
-2. Finished box and button no good on phones.  Fix.
 3. Convert names of audio files to match html coding.

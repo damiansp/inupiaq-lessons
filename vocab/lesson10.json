@@ -45,7 +45,7 @@
     "pos": ["n"]
 },
 
-{   "inupiatun": "atik&#x0142;uq",
+{   "inupiatun": "atik&#x0142;uk”,
     "english": ["parka cover made of cloth"],
     "pos": ["n"]
 },
@@ -315,12 +315,12 @@
     "pos": ["pb-vv"]
 },
 
-{   "inupiatun": "+nia&#x014b;&#x026a;tpallIq-",
+{   "inupiatun": "+nia&#x014b;&#x026a;tpall&#x026a;q-",
     "english": ["probably will not..."],
     "pos": ["pb-vv"]
 },
 
-{   "inupiatun": "-qallaitpall&#x026a;q-",
+{   "inupiatun": "-qalaitpall&#x026a;q-",
     "english": ["probably never has a...", "probably cannot have a..."],
     "pos": ["pb-nv"]
 },

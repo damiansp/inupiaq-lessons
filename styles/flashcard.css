@@ -10,6 +10,11 @@ body {
    padding-bottom: 20px;
 }
 
+.labeled-box {
+   display: inline;
+   margin: 10px;
+}
+
 #chapter-load {
    background: #44F;
    color: #000;
