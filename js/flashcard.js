@@ -53,7 +53,7 @@ function loadLesson(lesson) {
 	    }
 	},
 	fail: function() {
-	    $('#load-error').show();
+	    $('#load-error-ajax').show();
 	}
     });
 };
@@ -67,17 +67,23 @@ $('#load-button').on('click', function() {
 	lessons.push(this.value);
      });
 
+    console.log(lessons);
+
     for (lesson in lessons) {
 	loadLesson(lessons[lesson]);
      }
-
-    // Transition to next screen                                               
-    $('header').hide();
-    $('#intro').hide();
-    $('#authors').hide();
-    $('#chapter-load').hide();
-    $('footer').hide();
-    $('#options').fadeIn();
+    
+    if (lessons.length < 1) {
+	$('#load-error-no-lesson').show();
+    } else {
+	// Transition to next screen
+	$('header').hide();
+	$('#intro').hide();
+	$('#authors').hide();
+	$('#chapter-load').hide();
+	$('footer').hide();
+	$('#options').fadeIn();
+    }
 });
 
 /** 

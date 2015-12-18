@@ -28,7 +28,6 @@ body {
    color: #C00;
    background: #FFF;
    border: solid 2px #C00;
-   display: none;
 }
 
 #load-error-ajax {
