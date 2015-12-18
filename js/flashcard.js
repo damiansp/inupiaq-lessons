@@ -81,6 +81,7 @@ $('#load-button').on('click', function() {
 	$('#intro').hide();
 	$('#authors').hide();
 	$('#chapter-load').hide();
+	$('.load-error').hide();
 	$('footer').hide();
 	$('#options').fadeIn();
     }
