@@ -13,17 +13,15 @@ var vocab, // a json object holding the vocab
 
 
 specialCharEntities = [
-    '&#x0121;', '&#x026a;', '&#x0142;&#x0323;', '&#x0142;', '&#x1e37;', 
-    '&#x00f1;', '&#x014b;', '<small>Q</small>', '&#177;',   '&#247;',
-    '-',        /\+/,        /\//,              ':',        '  ',
-    /\[/,       /\]/,        /\(/,              /\)/,       /<br \/*>/
+    /&#x0121;/g, /&#x026a;/g, /&#x0142;&#x0323;/g, /&#x0142;/g, /&#x1e37;/g,    
+    /&#x00f1;/g, /&#x014b;/g, /\<small\>Q\<\/small\>/g, /&#177;/g, /&#247;/g,
+    /\-|\+|\/|\:|\[|\]|\(|\)/g, /  |\<br \/*\>/g
 ]; 
     
 specialCharAudioFileFormat = [
-    'g^',       'i',        'l^_',              'l_',       'l^',       
-    'n^',       'n_',       'q',                '',         '',
-    '',         '',         '',                 '',         ' ',
-    '',         '',         '',                 '',         ' '
+    'g^',        'i',         'l^_',               'l_',       'l^',       
+    'n^',        'n_',        'q',                      '',        '',
+    '',         ' '
 ];
 
 
@@ -332,8 +330,7 @@ function lengthScale(out, cs, allowed, scalar) {
 // Translate between HTML Entities and text used in the audio file names
 function translateEntity(str) {
     for (i in specialCharEntities) {
-	var find = specialCharEntities[i];
-	str = str.replace(new RegExp(find, 'g'), 
+	str = str.replace(specialCharEntities[i], 
 			  specialCharAudioFileFormat[i]);
     }
 
