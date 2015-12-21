@@ -8,7 +8,7 @@ var vocab, // a json object holding the vocab
     n, // number of cards remaining in the deck
     nextCard, // data for the next card to be displayed
     cardCounter, // to display progress
-    maxFontSize = 7, // in em
+    maxFontSize = 7, // in em; default value--change below for screen sizes
     specialCharEntities, specialCharAudioFileFormat; // for translating between
 
 
@@ -224,11 +224,23 @@ function pickNextCard(difficulty, index) {
 
 function populateCard(front, card) {
     var audioPath = 'audio/' + translateEntity(card.inupiatun) + '.m4a';
-    console.log(audioPath);
 
     if (front == 'both') {
 	var chooseFront = Math.random();
 	front = chooseFront > 0.50 ? 'inupiatun' : 'english';
+    }
+
+    // Update max font size according to device window
+    if (window.innerWidth < 800) {
+	maxFontSize = 6;
+    }
+
+    if (window.innerWidth < 600) {
+	maxFontSize = 5;
+    }
+
+    if (window.innerWidth < 400) {
+	maxFontSize = 4;
     }
     
     // Scale text to be as large as possible, but still fit on the card
