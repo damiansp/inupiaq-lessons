@@ -330,12 +330,82 @@ function rescale(x, inMin, inMax, outMin, outMax) {
 }
 
 
+/**
+// Helper function to resize text to maximize size but still fit on card
+function scaleText(input) {
+    var output = maxFontSize,
+	maxChars = 0, // number of characters for the longest line on card
+	//	lineScalar = 1, // multiplier for text size by no. of line
+	//	lengthScalar = 0.76, // ...and by line length
+	// longest no. of characters that will fit on a line at maxFontSize
+        maxAllowed = 6; 
+
+    var lineBreaks = input.match(/<br \/*>/g);
+
+    // HTML has line-breaks
+    if (lineBreaks) {
+	lineBreaks = lineBreaks.length;
+
+	// rescale by line breaks
+	/**
+	for (var i = 1; i <= lineBreaks; i++) {
+	    output = output * scalar;
+	}
+	*/ /**
+
+	var lines = input.split('<br />');
+	for (l in lines) {
+	    if (lines[l].length > maxChars) {
+		maxChars = lines[l].length;
+	    }
+	}
+
+    } else {
+	// No line-breaks
+	input = stripHTML(input);
+	maxChars = input.length;
+    }	
+
+    output = lengthScale(output, maxChars, lineBreaks);
+
+    output = output + 'em';
+
+    return output
+} */
+
+
 // Strip HTML from string
 function stripHTML(html) {
     var tmp = document.createElement('div');
     tmp.innerHTML = html;
     return tmp.textContent || tmp.innerText || "";
 }
+
+/**
+// Helper function to rescale text based on line length and window width (ww)
+function lengthScale(out, chrs, nLineBreaks) {
+    var ww = window.innerWidth;
+    var wScalar = rescale(ww, 335, 995, 0.8, 0.95);
+    var hScalar = 1;
+
+    var allowed = Math.floor(
+	rescale(ww, wMin, wMax, minCharWidth, maxCharWidth)
+    );
+
+    var widthTimes = Math.ceil(chrs / allowed);
+
+    for (var i = 1; i <= widthTimes; i++) {
+	out = out * wScalar;
+	wScalar = wScalar * Math.round(1 / wScalar, 2);
+	console.log(wScalar + ', ' + out);
+    }
+
+    //    for (var i = 1; i <= nLineBreaks; i++) {
+    //	out = out * hScalar;
+    //}
+
+    return out;
+    } */
 
 
 // Translate between HTML Entities and text used in the audio file names

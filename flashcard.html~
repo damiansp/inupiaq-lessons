@@ -229,8 +229,8 @@
 	<div class="col-md-6" id="front">
 	  <div class="card text-center">
 <!--	    <p class="spacer"></p> -->
-	    <div class="text-area datum" id="front-datum">
-<!--	      <span class="datum" id="front-datum"></span> -->
+	    <div class="text-area">
+	      <span class="datum" id="front-datum"></span>
 	    </div>
 <!--	    <p class="spacer"></p> -->
 	    <audio id="front-audio" controls>
@@ -263,8 +263,8 @@
 	<div class="col-md-6" id="back-div">
 	  <div class="card text-center" id="back">
 <!--            <p class="spacer"></p>-->
-	    <div class="text-area datum" id="back-datum">
-<!--	      <span class="datum" id="back-datum"></span> -->
+	    <div class="text-area">
+	      <span class="datum" id="back-datum"></span>
 	    </div>
 <!--            <p class="spacer"></p> -->
             <audio id="back-audio" controls>
