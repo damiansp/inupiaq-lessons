@@ -281,6 +281,7 @@ function scaleText(input) {
 
     // scale by longest line
     var timesOver = Math.floor(textData.maxChars / maxCharsAtMaxFontSize);
+    console.log('Chars: ' + textData.maxChars);
     console.log('Max chars per line: ' + maxCharsAtMaxFontSize);
     console.log('Times over: ' + timesOver);
 
@@ -307,10 +308,17 @@ function getTextLength(input) {
         lineBreaks = lineBreaks.length;
 
 	var lines = input.split('<br />');
+	var specialChars;
 
         for (l in lines) {
             if (lines[l].length > maxChars) {
                 maxChars = translateEntity(stripHTML(lines[l])).length;
+		specialChars = input.match(
+		    /&#247;|&#177;|\-|\+|\(|\)|\[|\]|\:/g
+		);
+		if (specialChars) {
+		    maxChars += specialChars.length;
+		}
             }
         }
 
@@ -318,6 +326,13 @@ function getTextLength(input) {
         // No line-breaks
         input = translateEntity(stripHTML(input));
         maxChars = input.length;
+	specialChars = input.match(
+	   /&#247;|&#177;|\-|\+|\(|\)|\[|\]|\:/g
+	);
+	if (specialChars) {
+	    maxChars += specialChars.length;
+	}
+
     }
     
     return { maxChars: maxChars, nLines: lineBreaks };
