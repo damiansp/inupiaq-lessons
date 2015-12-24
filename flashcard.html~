@@ -70,19 +70,19 @@
 	<div id="authors" class="row text-center">
 	  <p class="text-center">
 	    <br />
-	    <em>Quyaanaq!  Thank you!</em>
+	    <em>Quyaanaq! Thank you!</em>
 	    <br />
 	  </p>
 	  <div class="col-md-2"></div>
-	  <div class="col-md-4">
+	  <div class="col-md-4 underpad">
 	    Damian Satterthwaite-Phillips<br />
 	    Linguist and Creator of this Site<br />
-	    damiansp@gmail.com
+	    damiansp@gmail.com<br />
 	  </div>
-	  <div class="col-md-4">
+	  <div class="col-md-4 underpad">
 	    Edna Ahgeak MacLean<br />
 	    Linguist and Textbook Author<br />
-	    edna.maclean@gmail.com
+	    edna.maclean@gmail.com<br />
 	  </div>
 	</div><!-- authors -->
       </div><!-- row -->
