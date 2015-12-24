@@ -62,10 +62,9 @@ body {
    height: 80%;
    padding: 20px;
    margin-bottom: 10px;
-   border: thin red solid;
 }
 
-.datum {
+#front-datum, #back-datum {
    font-size: 7em;
    text-overflow: ellipsis;
    overflow: auto;

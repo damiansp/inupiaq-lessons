@@ -10,6 +10,10 @@ body {
    padding-bottom: 20px;
 }
 
+.underpad {
+   padding-bottom: 15px;
+}
+
 .labeled-box {
    display: inline;
    margin: 10px;
