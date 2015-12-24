@@ -47,6 +47,10 @@ body {
    display: none;
 }
 
+.radio {
+   padding-bottom: 20px;
+}
+
 #card-display {
    background: #048;
    display: none;
@@ -113,6 +117,20 @@ footer {
    background: white;
 }
 
+
+@media (max-width:390px) {
+   #ASCF-logo {
+      width: 278px;
+      height: 48px;
+   }
+}
+
+@media (min-width:390px) {
+   #ASCF-logo {
+      width: 370px;
+      height: 64px;
+   }
+}
 
 .margin-top-20 {
    margin-top: 20px;
