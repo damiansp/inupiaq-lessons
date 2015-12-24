@@ -286,7 +286,7 @@ function scaleText(input) {
     console.log('Times over: ' + timesOver);
 
     if (timesOver >= 1) {
-	scaledFontSize = maxFontSize / (Math.sqrt(timesOver) + 1);
+	scaledFontSize = maxFontSize / (Math.sqrt(timesOver) + 1.2);
     }
 
     console.log('Font size before breaks: ' + scaledFontSize);
@@ -313,8 +313,8 @@ function getTextLength(input) {
         for (l in lines) {
             if (lines[l].length > maxChars) {
                 maxChars = translateEntity(stripHTML(lines[l])).length;
-		specialChars = input.match(
-		    /&#247;|&#177;|\-|\+|\(|\)|\[|\]|\:/g
+		specialChars = lines[l].match(
+		    /&#247;|&#177;|\-|\+|\(|\)|\[|\]|\:|\//g
 		);
 		if (specialChars) {
 		    maxChars += specialChars.length;
@@ -324,13 +324,15 @@ function getTextLength(input) {
 
     } else {
         // No line-breaks
-        input = translateEntity(stripHTML(input));
-        maxChars = input.length;
 	specialChars = input.match(
-	   /&#247;|&#177;|\-|\+|\(|\)|\[|\]|\:/g
-	);
+	   /&#247;|&#177;|\-|\+|\(|\)|\[|\]|\:|\//g
+	);        
+	input = translateEntity(stripHTML(input));
+        maxChars = input.length;
+
 	if (specialChars) {
 	    maxChars += specialChars.length;
+	    for (c in specialChars) { console.log(specialChars[c]); }
 	}
 
     }
