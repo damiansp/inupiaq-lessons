@@ -1,0 +1,23 @@
+body {
+   background: #222866;
+}
+
+.pad {
+   padding: 10px;
+}
+
+.mini {
+   margin: 20px 5px 0px 0px;
+   border: thin solid #999;
+   padding: 0px 20px 10px 20px;
+   border-radius: 20px;
+   background: #fff8ee;
+}
+
+.prompt {
+   font-size: 2em;
+}
+
+.feedback {
+   font-size: 1.5em;
+}

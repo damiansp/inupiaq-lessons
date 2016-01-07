@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" contents="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Iñupiaq Lessons | Phillips Research & Analytics</title>
+  <link
+     href="http://fonts.googleapis.com/css?family=Caudex|Ubuntu|Muli|Philosopher|Cinzel|Michroma|Julius+Sans+One|Forum|Gruppo|Marcellus+SC"
+     rel="stylesheet" type="text/css" />
+
+    <link rel="stylesheet" 
+	  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+    <!-- optional bootstrap theme -->
+    <link rel="stylesheet"
+	  href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="../../style/pr.css"/>
+    <link rel="stylesheet" href="styles/main.css"/>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js">
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
+    </script>
+    <script src="js/presentTense2.js"></script>
+  </head>
+
+  <body>
+  <div class="navbar navbar-inverse top-fix orange-bottom">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <div id="brand-bar">
+            <!--<img src="images/logo/logoOrange.png" id="logo" />-->
+            <h1 id="biz-name">                                                  
+              Damian Satterthwaite-Phillips, PhD</h1>
+          </div>
+        </div>
+      </div><!-- navbar header, row -->
+      <div class="row orange-top grey-4">
+        <div class="col-md-12">
+          <ul class="nav navbar-nav">
+            <li><a href="../../index.html">Home</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                 role="button" aria-haspopup="true" aria-expanded="false">
+                Statistics
+                <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu nav navbar-inverse navbar-nav">
+                <li><a href="../../statistics.html">Statistics</a></li>
+                <li>
+		  <a href="../../machine-learning.html">Machine Learning</a>
+		</li>
+              </ul>
+            </li><!-- dropdown (Stats) -->
+
+            <li>
+	      <a href="../../data-visualization.html">Data Visualization</a>
+	    </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                 role="button" aria-haspopup="true" aria-expanded="false">
+                Mapping
+                <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu nav navbar-inverse navbar-nav">
+                <li><a href="../../web-mapping.html">Web Mapping</a></li>
+                <li><a href="../../gis.html">GIS</a></li>
+              </ul>
+            </li><!-- dropdown (Mapping) -->
+            <li><a href="../../language.html">Language Tools</a></li>
+            <li><a href="../../web-dev.html">Web Development</a></li>
+            <li><a href="../../academia.html">Academics</a></li>
+            <li><a href="../../about.html">About</a></li>
+            <li><a href="../../probono.html">Pro Bono</a></li>
+            <li><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div><!-- col-md-12  -->
+      </div><!-- row -->
+    </div><!-- container-fluid -->
+  </div><!-- navbar -->
+
+  <div class="container">
+    <div id="main">
+
+
+      <div class="container">
+	<div class="row">
+	  <div class="col-md-6">
+	    <div id="auto-assimilator" class="mini">
+	      <h1>Auto-Assimilator</h1>
+	      <p>
+		In Iñupiaq, words are frequently constructed by adding multiple
+		suffixes or postbases to root words.  However, only certain 
+		combinations of sounds are allowed, so frequently when 
+		postbases
+		are added, one or more letters in the new word changes in a 
+		process called <em>asssimilation</em>.  Technically, 
+		assimilation
+		is the process in which one sound becomes more like, (or 
+		<em>assimilates to</em> another sound.  
+	      </p>
+	      <p>
+		There are a number of assimilation rules in Iñupiaq, and they
+		can be challenging for the beginner to learn.  But, with 
+		practice, the patterns will become more familiar. In the early
+		stages though, you may check your assimilation rules here!
+	      </p>
+	      <p>
+		(Assimilation rules are not presented in this prototype, but
+		would be introduced in a fuller curriculum.)
+	      </p>
+	      <p>
+		For example, the combination -ql- is not permitted in Iñupiaq.
+		Instead, the q <em>assimilates</em> to the l by changing to a 
+		ġ.
+		So, when the word "aġnaq" (woman), combines with the postbase 
+		"+lu" (and), the new word is "aġnaġlu" (and the woman).
+	      </p>
+	      <p>
+		A slightly more complicated assimilation occurs when adding
+		"qimmɪq" (dog) and "+lu".  Like the previous example, -ql- 
+		changes to -gl-, forming "qimmɪġlu", but we're not quite done. 
+		The "strong i" (represented here with the small capital "ɪ")
+		causes the l to assimilate to ḷ, giving the final form 
+		"qimmiġḷu" (and the dog).
+	      </p>
+	      <h4>Try it out</h4>
+	      <p>
+		Insert roots and postbases or endings in order, separated by 
+		commas, for example: "aġnaq, lu", "qimmɪq, lu", or "tikɪt, 
+		tuq",
+		or simply  combine them without assimilating like "aġnaqlu", 
+		"qimmɪqlu", or "tikɪttuq" then push the button to get the
+		correct
+		assimilated form. (Omit  connectors like "+", "-", etc.)
+	      </p> 
+	      <input id="assimilate-text" type="text" 
+		     placeholder="tikɪt, tuq"/>
+	      <button id="assimilate-button" class="btn btn-primary" 
+		      type="button">Assimilate</button>
+	      <div id="assimilate-output"></div>
+	    </div><!-- auto-assimilator -->
+	  </div><!-- col -->
+	  <div id="paster" class="col-md-6">
+	    <div id="special-chars" class="mini">
+	      <h2>Special Characters</h2>
+	      <p>
+		If your keyboard does not support the special Iñupiaq 
+		characters,
+		you can cut and paste from here. (I will eventually work out a
+		better solution.)
+	      </p>
+	      <p class="text-center">
+		<span class="pad">ġ</span>
+		<span class="pad">ɪ</span>
+		<span class="pad">ḷ</span>
+		<span class="pad">ł</span>
+		<span class="pad">ł̣</span>
+		<span class="pad">ñ</span>
+		<span class="pad">ŋ</span>
+		<span class="pad"></span>
+	      </p>
+	    </div><!-- special-chars -->
+	  </div>
+	</div><!-- row -->
+	<div id="present-indicative" class="mini">
+	  <div class="row">
+	    <div class="col-md-12">
+	      <h1>The Present Indicative</h1>
+	    </div><!--col-->
+	  </div><!--row-->
+	  <div class="row">
+	    <div class="col-md-6">
+	      <p>
+		In Iñupiaq, the present tense is expressed by adding 
+		different endings or conjugations to the verb root. In 
+		English present tense conjugations typically only have two 
+		form, one for he, she, or it, and one for all other subjects.
+		For example, the verb "eat" adds an "-s" for the he/she/it
+		form: "he eats, she eats, it eats", and nothing is added for 
+		all other subjects: "I eat, you eat, we eat, they eat, etc."
+	      </p>
+	      <p>
+		Iñupiaq verb endings distinguish between both "person" and 
+		"number".  When talking about languages, "person" refers to 
+		who is speaking, being spoken to, or being spoken about.  The
+		<em>first person</em> refers to the speaker(s), the <em>
+		  second person</em> refers to the person/people being spoken
+		to, and the <em>third person</em> refers to a person/people
+		who are neither speaking nor being spoken to. "Number" 
+		refers to the number of people.  Whereas English grammatical
+		number only distinguishes between <em>singular</em> and 
+		<em>plural</em>, Iñupiaq makes a distinction between 
+		<em>singular</em> (1), <em>dual</em> (2), and <em>plural</em>
+		(3 or more). 
+	      </p>
+	      <p>
+		The <em>subject</em> of the verb is the person, animal or 
+		thing <em>doing</em> the action.  Iñupiaq subjects can be any
+		combination of <em>person</em> and <em>number</em>, making 
+		nine different categories all together.  They are represented
+		in the following table.
+	      </p>
+	      <h4 class="text-center">Subject Types in Iñupiaq</h4>
+	      <table class="table table-striped table-bordered">
+		<tr>
+		  <th></th><th>Singular</th><th>Dual</th><th>Plural</th>
+		</tr>
+		<tr>
+		  <th>1st Person</th><td>I</td><td>We (the two of us)</td>
+		  <td>We (the three or more of us)</td>
+		</tr>
+		<tr>
+                  <th>2nd Person</th><td>You (one person)</td>
+		  <td>You (two)</td><td>You (all--three or more)</td>
+		</tr>
+		<tr>
+                  <th>3rd Person</th><td>He/She/It</td>
+		  <td>They (those two)</td>
+		  <td>They (those three or more)</td>
+		</tr>
+	      </table>
+	      <p>
+		As a shorthand, this site will use "s" for "singular", "d" 
+		for "dual", and "pl" for "plural" when needed.
+	      </p>
+	      <p>
+		In Iñupiaq, each of the 9 distinct subjects has a different
+		ending that attaches to the verb root to indicate the present
+		tense. The endings are:
+	      </p>
+	      <h4 class="text-center">Present Tense Indicative Endings</h4>
+	      <table class="table table-striped table-bordered">
+		<tr>
+                  <th></th><th>Singular</th><th>Dual</th><th>Plural</th>
+		</tr>
+		<tr>
+                  <th>1st Person</th><td>I<br/><em>+tuŋa</em></td>
+		  <td>we (d)<br /><em>+tuguk</em></td>
+                  <td>we (pl)<br /><em>+tugut</em></td>
+		</tr>
+		<tr>
+                  <th>2nd Person</th><td>you (s)<br /><em>+tutin</em></td>
+                  <td>you (d)<br /><em>+tutik</em> or<br />
+		    <em>+tusik</em></td>
+		  <td>you (pl)<br /><em>+tusɪ</em></td>
+		</tr>
+		<tr>
+                  <th>3rd Person</th><td>he/she/it<br /><em>+tuq</em></td>
+                  <td>they (d)<br /><em>+tuk</em></td>
+                  <td>they (pl)<br /><em>+tut</em></td>
+		</tr>
+              </table>
+	    </div><!--col-->
+	    <div class="col-md-6">
+	      <p>
+		For example consider the verb root "katak-", meaning "to fall
+		down".  In English the present tense conjugates as "I fall
+		down", "you fall down", "she falls down".... In Iñupiaq, the 
+		same idea is expressed with the verb endings just given. 
+		Hence:
+	      </p>
+	      <h4 class="text-center">Present Tense of <em>Katak-</em>, "To 
+		Fall Down"</h4>
+	      <table class="table table-striped table-bordered">
+		<tr>
+                  <th></th><th>Singular</th><th>Dual</th><th>Plural</th>
+		</tr>
+		<tr>
+                  <th>1st Person</th><td>I fall down<br/>
+		    <em>kataktuŋa</em></td>
+                  <td>We (d) fall down<br /><em>kataktuguk</em></td>
+                  <td>We (pl) fall down<br /><em>kataktugut</em></td>
+		</tr>
+		<tr>
+                  <th>2nd Person</th>
+		  <td>You (s) fall down<br /><em>kataktutin</em></td>
+                  <td>You (d) fall down<br /><em>kataktutik</em> or<br />
+		    <em>kataktusik</em></td>
+                  <td>You (pl) fall down<br /><em>kataktusɪ</em></td>
+		</tr>
+		<tr>
+                  <th>3rd Person</th>
+		  <td>He/she/it falls down<br /><em>kataktuq</em></td>
+                  <td>They (d) fall down<br /><em>kataktuk</em></td>
+                  <td>They (pl) fall down<br /><em>kataktut</em></td>
+		</tr>
+              </table>
+	      <p>
+		If the verb root ends in a vowel, as in the verb "niġi-", 
+		"to eat", however, the initial +t in the endings is replaced
+		by an +r: "+ruŋa", "+ruguk", "+rugut", etc.
+	      </p>
+	      <h4 class="text-center">Present Tense of <em>Niġi-</em>, "To
+		Eat"</h4>
+              <table class="table table-striped table-bordered">
+		<tr>
+                  <th></th><th>Singular</th><th>Dual</th><th>Plural</th>
+		</tr>
+		<tr>
+                  <th>1st Person</th><td>I eat<br/>
+                    <em>niġiruŋa</em></td>
+                  <td>We (d) eat<br /><em>niġiruguk</em></td>
+                  <td>We (pl) eat<br /><em>niġirugut</em></td>
+		</tr>
+		<tr>
+                  <th>2nd Person</th>
+                  <td>You (s) eat<br /><em>niġirutin</em></td>
+                  <td>You (d) eat<br /><em>niġirutik</em> or<br />
+                    <em>niġirusik</em></td>
+                  <td>You (pl) eat<br /><em>niġirusɪ</em></td>
+		</tr>
+		<tr>
+                  <th>3rd Person</th>
+                  <td>He/she/it eats<br /><em>niġiruq</em></td>
+                  <td>They (d) eat<br /><em>niġiruk</em></td>
+                  <td>They (pl) eat<br /><em>niġirut</em></td>
+		</tr>
+              </table>
+	    </div><!--col-->
+	  </div><!--row-->
+	</div><!-- present-indicative -->
+	
+	<div class="row" id="drills">
+	  <div class="col-md-4">
+	    <div id="add-endings" class="mini">
+	      <h2>Add the Endings</h2>
+	      <p>
+		In this exercise, an Iñupiaq verb root will be given along with
+ 		the subject in English, and you must form the conjugated verb.
+		For example if you are given "katak- (he/she/it)", you should 
+		answer "kataktuq".  Don't forget the different endings after 
+		vowels!
+	      </p>
+	      <div class="prompt">
+		<span id="inu-v-root">katak-</span> 
+		<span id="subj">(he/she/it)</span>
+	      </div>
+	      <div class="answer">
+		<input id="ending-answer" text placeholder="kataktuq" />
+		<button class="btn btn-primary" id="ending-button">
+		  Check Answer
+		</button>
+		<div class="feedback">
+		  <span id="ending-feedback">&nbsp;</span>
+		</div>
+	      </div>
+	    </div><!-- add-endings -->
+	  </div><!-- col -->
+	  
+	  <div class="col-md-4">
+	    <div id="i-to-e" class="mini">
+	      <h2>Translate to English</h2>
+	      <p>Coming soon....</p>
+	    </div><!-- i-to-e -->
+	  </div>
+	  
+	  <div class="col-md-4">
+	    <div id="e-to-i" class="mini">
+	      <h2>Translate to Iñupiaq</h2>
+	      <p>Comingsoon....</p>
+	    </div><!-- e-to-i -->
+	  </div><!-- col -->
+	</div><!-- row -->
+
+	<div class="row">
+	  <div id="conjugator" class="col-md-12 mini">
+	    <h2>Auto-Conjugator</h2>
+	    <p>
+	      In this section, you may enter any Iñupiaq verb root, and all
+	      of the present tense forms will be shown.
+	    </p>
+	    <form class="form-horizontal">
+	      <div class="form-group">
+		<label for="conjugate-text" class="col-sm-2 control-label">
+		  Enter Verb Root:
+		</label>
+		<div class="col-sm-10">
+		  <input id="conjugate-text" class="form-control" 
+			 placeholder="katak-" />
+		</div>
+	      </div>
+	      <div class="form-group">
+		<div class="col-sm-offset-2 col-sm-10">
+		  <button id="conjugate-button" class="btn btn-primary">
+		    Conjugate
+		  </button>
+		</div>
+	      </div>
+	    </form>
+
+	    <table class="table table-striped table-bordered">
+	      <tr>
+                <th></th><th>Singular</th><th>Dual</th><th>Plural</th>
+              </tr>
+              <tr>
+                <th>1st Person</th><td>I<br/>
+                  <span id="firstSg">kataktuŋa</span></td>
+                <td>We (d)<br /><span id="firstD">kataktuguk</span></td>
+                <td>We (pl)<br /><span id="firstPl">kataktugut</em></td>
+              </tr>
+              <tr>
+                <th>2nd Person</th>
+                <td>You (s)<br /><span id="secondSg">kataktutin</span></td>
+                <td>You (d)<br /><span id="secondD">kataktutik or<br />
+                  kataktusik</span></td>
+                <td>You (pl)<br /><span id="secondPl">kataktusɪ</span></td>
+              </tr>
+              <tr>
+                <th>3rd Person</th>
+                <td>He/she/it<br /><span id="thirdSg">kataktuq</span></td>
+                <td>They (d)<br /><span id="thirdD">kataktuk</span></td>
+                <td>They (pl)<br /><span id="thirdPl">kataktut</span></td>
+              </tr>
+	      
+	    </table>
+	  </div><!-- col -->
+	</div><!-- row -->
+	
+      </div><!-- container -->
+    </div> <!-- #main -->
+  </div> <!-- .container -->
+  
+
+  <div class="container-fluid orange-top gradient">
+    <footer>
+      <p>
+        &copy; 2016 Damian Satterthwaite-Phillips<br /><br />
+        <a rel="license" 
+	   href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+          <img alt="Creative Commons License" style="border-width:0"
+               src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+          <br />
+        </a>
+        <br />
+        <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
+          This webpage and its content
+        </span> by
+        <a xmlns:cc="http://creativecommons.org/ns#" 
+	   href="http://www.phillips-research.com/" 
+	   property="cc:attributionName" rel="cc:attributionURL"><br />
+          Damian Satterthwaite-Phillips
+        </a><br />
+        is licensed under a<br />
+        <a rel="license" 
+	   href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+          Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+          International License
+        </a>.
+      </p>
+    </footer>
+  </div>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+{
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-71667904-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  </body>
+</html>
